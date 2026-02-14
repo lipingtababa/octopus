@@ -1,38 +1,44 @@
 {
   "date": "2026-02-14",
-  "title": "Swedish News Briefing \u2014 14 February 2026",
+  "title": "Swedish News Briefing — 14 February 2026",
   "audio_url": "digests/2026-02-14.mp3",
-  "duration_seconds": 180,
+  "duration_seconds": 149,
   "stories": [
     {
-      "headline": "Riksdag debates new housing policy ahead of spring budget",
-      "summary": "Parliament is set to vote on a comprehensive housing reform package that would increase funding for affordable housing construction across major Swedish cities.",
+      "headline": "New frigates to become Sweden's military power against Russia",
+      "summary": "Sweden is purchasing new naval frigates in a billion-krona investment to strengthen its position in the Baltic Sea and signal readiness to defend its territory. Defence Minister Pål Jonson emphasises this purchase advances Sweden's strategic position against Russian military presence.",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter"
+      "link": "https://www.svt.se/nyheter/inrikes/nya-fregatter-blir-svenskt-maktmedel-mot-ryssland"
     },
     {
-      "headline": "SL announces metro line extension timeline",
-      "summary": "Stockholm\u2019s public transport authority has released updated plans for the southern metro extension, with construction expected to begin in late 2026.",
-      "source": "Sveriges Radio",
-      "link": "https://sverigesradio.se"
+      "headline": "Teen deportations raise questions about Swedish values and family assessment",
+      "summary": "Concerns are growing about how Swedish authorities handle deportations of refugee children, with critics questioning current practices around family tie verification. The issue has sparked debate about whether procedures align with Swedish humanitarian principles.",
+      "source": "Dagens Nyheter",
+      "link": "https://www.dn.se/kultur/kristina-lindquist-tonarsutvisningarna-gor-oss-till-ett-land-av-sociopater"
     },
     {
-      "headline": "Migration agency reports decrease in asylum processing times",
-      "summary": "Migrationsverket has reduced average processing times by 30% following a digital transformation initiative launched last year.",
-      "source": "DN",
-      "link": "https://www.dn.se"
+      "headline": "Rising electricity prices push homeowners to optimise heating systems",
+      "summary": "Swedish households struggling with high electricity costs are finding solutions through system upgrades and optimisation. One homeowner has successfully reduced consumption and saved money by evaluating his heating setup — a strategy others can replicate.",
+      "source": "Dagens Nyheter",
+      "link": "https://www.dn.se/ekonomi/anders-optimerade-varmesystemet-elbolaget-ska-fan-inte-fa-en-manad-till"
     },
     {
-      "headline": "Sweden\u2019s inflation rate holds steady at 2.1%",
-      "summary": "The Riksbank\u2019s latest figures show inflation remaining stable, with economists predicting a potential rate cut in the coming months.",
-      "source": "The Local",
-      "link": "https://www.thelocal.se"
-    },
-    {
-      "headline": "New personnummer rules take effect for EU citizens",
-      "summary": "Starting March 1st, EU citizens working in Sweden will have a simplified process for obtaining a personal identity number, reducing wait times from months to weeks.",
+      "headline": "AI job-filtering creates new challenges for Swedish job seekers",
+      "summary": "As artificial intelligence screens applications, job hunters need to understand how to avoid algorithmic filtering. Using relevant keywords and tailored applications are essential strategies in today's employment landscape.",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter"
+      "link": "https://www.svt.se/nyheter/inrikes/ai-och-jobbsokande-har-ar-knepen-som-gor-att-du-inte-sorteras-bort"
+    },
+    {
+      "headline": "Sexual harassment on Vinted prompts government action on digital platform safety",
+      "summary": "Young people selling secondhand clothes on the app Vinted have reported receiving sexual messages. Sweden's Minister for Gender Equality is now calling for stronger legal requirements on digital platforms to protect users from harassment.",
+      "source": "Dagens Nyheter",
+      "link": "https://www.dn.se/sverige/efter-tjejers-larm-om-vinted-minister-vill-ha-hogre-krav-pa-digitala-plattformar"
+    },
+    {
+      "headline": "Melodifestivalen third heat features strong contenders",
+      "summary": "Sweden's famous song competition continued its third round with performances from Medina and Saga Ludvigsson, who both advanced directly to the final. The competition showcased diverse musical styles and talent.",
+      "source": "Dagens Nyheter",
+      "link": "https://www.dn.se/kultur/medina-och-saga-ludvigsson-till-final-i-melodifestivalen"
     }
   ]
 }
