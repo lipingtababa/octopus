@@ -1,50 +1,62 @@
 {
   "date": "2026-02-15",
-  "title": "瑞典新闻 — 2026年2月15日",
+  "title": "瑞典新闻 — 15 February 2026",
   "audio_url": "digests/2026-02-15.mp3",
-  "duration_seconds": 138,
+  "duration_seconds": 254,
   "stories": [
     {
-      "headline": "瑞典AI委员会发布劳动力市场报告",
-      "summary": "瑞典AI协会发布首份联合状态报告，强调AI对劳动市场的影响以及人才培养计划的重要性。AI Sweden因领导力被认可为年度社会行为者。",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/labor-market-motion-labor-market-ai-council-presents-its-first-joint-status-report-how-ai"
-    },
-    {
-      "headline": "瑞典极右翼游行参与人数创历史新低",
-      "summary": "新沙勒姆游行本年吸引参与人数历来最少，表明极右翼运动的影响力不断下降。同时多起涉及煽动仇恨的刑事案件正在进行。",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/nya-salemmarschen-lockade-farre-an-nagonsin/"
-    },
-    {
-      "headline": "爱泼斯坦死亡案重新调查",
-      "summary": "法医要求对美国金融家爱泼斯坦的死亡进行新的调查，对自杀结论提出质疑。法国检察机构表示将调查其关联网络，其中包括一名瑞典籍人士。",
+      "headline": "移民部长：青少年应获准完成高中学业",
+      "summary": "瑞典移民部长表示青少年应有机会完成高中教育，涉及居留许可政策调整",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/rattslakare-kraver-ny-utredning-av-epsteins-dod/cG9zdDo2MzU2Ng"
+      "link": "https://kvartal.se/nyheter/artiklar/migrationsministern-tonaringar-ska-fa-slutfora-gymnasiet/cG9zdDo2MzM4Nw"
     },
     {
-      "headline": "乌克兰寻求20年安全保障",
-      "summary": "乌克兰总统泽连斯基表示希望获得至少20年的安全保障协议，并提议进行两个月的休战期。这反映了乌克兰对长期安全承诺的需求。",
+      "headline": "瑞典民主党高层：我们在居留许可问题上已达成一致",
+      "summary": "极右翼政党瑞典民主党领导层就居留许可政策达成共识，影响移民政策走向",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/sd-toppen-vi-ar-overens-om-uppehallstillstanden/cG9zdDo2MzU2OA"
+    },
+    {
+      "headline": "社民党领袖批评政府公布改革空间后",
+      "summary": "社会民主党领导人批评现政府在宣布改革空间后的做法",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/s-ledaren-kritiserar-regeringen-efter-besked-om-reformutrymme/cG9zdDo2MzQ3Nw"
+    },
+    {
+      "headline": "研究人员：新护卫舰将成为高价值目标",
+      "summary": "军事研究人员警告瑞典新购置的护卫舰可能成为高价值攻击目标",
       "source": "Omni",
-      "link": "https://omni.se/zelenskyj-vill-ha-minst-20-ars-sakerhetsgarantier/a/ArLkkr"
+      "link": "https://omni.se/forskare-nya-fregatterna-blir-hogvardiga-mal/a/L45LX1"
     },
     {
-      "headline": "美欧关系在慕尼黑峰会上趋于稳定",
-      "summary": "芬兰总统斯图布表示欧美关系已经改善，美国国务卿卢比奥强调美国和欧洲必须团结一致面对全球挑战。",
-      "source": "DN",
-      "link": "https://www.dn.se/varlden/stubb-relationen-mellan-eu-och-usa-har-lugnat-ner-sig/"
+      "headline": "两名年轻女子涉嫌殴打80岁老人",
+      "summary": "瑞典警方调查两名年轻女性涉嫌殴打一名八旬老人案件",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/tva-unga-kvinnor-misstankta-for-misshandel-av-80-arig-man/cG9zdDo2MzQ1MA"
     },
     {
-      "headline": "瑞典宇航员梅尔抵达国际空站",
-      "summary": "瑞典裔美国宇航员杰西卡·梅尔成功带领Crew-12远征队抵达国际空间站，距地球约40英里。这是梅尔在太空探索中的又一项成就。",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/utrikes/rymdfarare-med-svensk-amerikanska-meir-framme"
+      "headline": "纳粹商店负责人因煽动罪被判刑",
+      "summary": "反法西斯组织Expo报道，经营纳粹商店的人员因煽动罪被瑞典法院定罪",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
     },
     {
-      "headline": "关于瑞典广播公司政治中立性的辩论",
-      "summary": "瑞典媒体继续讨论瑞典广播公司（Sveriges Radio）如何在实践中应用不偏不倚原则。争议不仅涉及个别员工，更涉及中立性要求的解释和实施。",
-      "source": "Ledarsidorna",
-      "link": "https://ledarsidorna.se/myten-om-sveriges-radio-bekraftad-som-myt/"
+      "headline": "针对Jomshof的煽动调查被撤销后遭议会监察专员投诉",
+      "summary": "瑞典民主党政治人物Jomshof的煽动案调查被撤销，此决定遭议会监察专员投诉",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
+    },
+    {
+      "headline": "哥特兰岛附近船只起火",
+      "summary": "瑞典哥特兰岛海域发生船只火灾，救援行动正在进行",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c13a712c-ee8a-4bcc-9528-b432dc71119d"
+    },
+    {
+      "headline": "荷兰船只在哥特兰岛外遇险",
+      "summary": "一艘荷兰船只在瑞典哥特兰岛Gotska Sandön附近遇险，引发大规模救援",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/gk6jB0/stort-padrag-utanfor-gotska-sandon?utm_medium=rss"
     }
   ]
 }

@@ -1,48 +1,60 @@
 {
-  "title": "瑞典新闻 — 2026年2月15日",
-  "script": "瑞典AI委员会发布劳动力市场报告，强调AI技术对人才培养计划的重要性。这份报告详细分析了瑞典AI产业的发展趋势，以及如何通过教育培训来应对AI带来的就业变化。瑞典AI协会（AI Sweden）因在推动人工智能发展方面的杰出领导力而被认可为年度社会行为者。\n\n瑞典极右翼运动继续受到关注。新沙勒姆游行（Salem march）本年吸引的参与人数创历史新低，表明这类活动的影响力不断下降。与此同时，多个因煽动仇恨和歧视而被起诉的案件正在进行中，包括针对拖曳皇后表演者的仇恨和针对纳粹分子破坏社民党会议的案件。\n\n在司法领域，一份新的验尸报告对美国金融家爱泼斯坦的死亡原因提出质疑。法医要求重新调查，认为自杀的结论不足以解释所有事实。此外，法国检察机构表示将调查爱泼斯坦的关联网络，其中包括一名瑞典籍人士。\n\n瑞典和乌克兰关系方面出现新的发展。乌克兰总统泽连斯基表示希望获得至少20年的安全保障，并提议进行为期两个月的休战，之后举行选举。这些声明反映了乌克兰对长期安全承诺的需求。\n\n芬兰总统亚历山大·斯图布在慕尼黑安全会议上表示，欧盟与美国之间的关系已经趋于稳定，跨大西洋关系得到了改善。美国国务卿卢比奥则在会议上发表讲话，强调美国和欧洲必须团结一致。\n\n瑞典宇航员杰西卡·梅尔（Jessica Meir）成功抵达国际空站，作为Crew-12远征队的指挥官。这位瑞典裔美国宇航员率领该任务团队完成了成功对接，距离地球约40英里。\n\n在公共媒体问题上，保守派评论人士继续质疑瑞典广播公司（Sveriges Radio）的政治中立性。关于该机构如何在实践中应用和维护不偏不倚的要求，引发了广泛讨论。",
+  "title": "瑞典新闻 — 15 February 2026",
   "stories": [
     {
-      "headline": "瑞典AI委员会发布劳动力市场报告",
-      "summary": "瑞典AI协会发布首份联合状态报告，强调AI对劳动市场的影响以及人才培养计划的重要性。AI Sweden因领导力被认可为年度社会行为者。",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/labor-market-motion-labor-market-ai-council-presents-its-first-joint-status-report-how-ai"
-    },
-    {
-      "headline": "瑞典极右翼游行参与人数创历史新低",
-      "summary": "新沙勒姆游行本年吸引参与人数历来最少，表明极右翼运动的影响力不断下降。同时多起涉及煽动仇恨的刑事案件正在进行。",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/nya-salemmarschen-lockade-farre-an-nagonsin/"
-    },
-    {
-      "headline": "爱泼斯坦死亡案重新调查",
-      "summary": "法医要求对美国金融家爱泼斯坦的死亡进行新的调查，对自杀结论提出质疑。法国检察机构表示将调查其关联网络，其中包括一名瑞典籍人士。",
+      "headline": "移民部长：青少年应获准完成高中学业",
+      "summary": "瑞典移民部长表示青少年应有机会完成高中教育，涉及居留许可政策调整",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/rattslakare-kraver-ny-utredning-av-epsteins-dod/cG9zdDo2MzU2Ng"
+      "link": "https://kvartal.se/nyheter/artiklar/migrationsministern-tonaringar-ska-fa-slutfora-gymnasiet/cG9zdDo2MzM4Nw"
     },
     {
-      "headline": "乌克兰寻求20年安全保障",
-      "summary": "乌克兰总统泽连斯基表示希望获得至少20年的安全保障协议，并提议进行两个月的休战期。这反映了乌克兰对长期安全承诺的需求。",
+      "headline": "瑞典民主党高层：我们在居留许可问题上已达成一致",
+      "summary": "极右翼政党瑞典民主党领导层就居留许可政策达成共识，影响移民政策走向",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/sd-toppen-vi-ar-overens-om-uppehallstillstanden/cG9zdDo2MzU2OA"
+    },
+    {
+      "headline": "社民党领袖批评政府公布改革空间后",
+      "summary": "社会民主党领导人批评现政府在宣布改革空间后的做法",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/s-ledaren-kritiserar-regeringen-efter-besked-om-reformutrymme/cG9zdDo2MzQ3Nw"
+    },
+    {
+      "headline": "研究人员：新护卫舰将成为高价值目标",
+      "summary": "军事研究人员警告瑞典新购置的护卫舰可能成为高价值攻击目标",
       "source": "Omni",
-      "link": "https://omni.se/zelenskyj-vill-ha-minst-20-ars-sakerhetsgarantier/a/ArLkkr"
+      "link": "https://omni.se/forskare-nya-fregatterna-blir-hogvardiga-mal/a/L45LX1"
     },
     {
-      "headline": "美欧关系在慕尼黑峰会上趋于稳定",
-      "summary": "芬兰总统斯图布表示欧美关系已经改善，美国国务卿卢比奥强调美国和欧洲必须团结一致面对全球挑战。",
-      "source": "DN",
-      "link": "https://www.dn.se/varlden/stubb-relationen-mellan-eu-och-usa-har-lugnat-ner-sig/"
+      "headline": "两名年轻女子涉嫌殴打80岁老人",
+      "summary": "瑞典警方调查两名年轻女性涉嫌殴打一名八旬老人案件",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/tva-unga-kvinnor-misstankta-for-misshandel-av-80-arig-man/cG9zdDo2MzQ1MA"
     },
     {
-      "headline": "瑞典宇航员梅尔抵达国际空站",
-      "summary": "瑞典裔美国宇航员杰西卡·梅尔成功带领Crew-12远征队抵达国际空间站，距地球约40英里。这是梅尔在太空探索中的又一项成就。",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/utrikes/rymdfarare-med-svensk-amerikanska-meir-framme"
+      "headline": "纳粹商店负责人因煽动罪被判刑",
+      "summary": "反法西斯组织Expo报道，经营纳粹商店的人员因煽动罪被瑞典法院定罪",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
     },
     {
-      "headline": "关于瑞典广播公司政治中立性的辩论",
-      "summary": "瑞典媒体继续讨论瑞典广播公司（Sveriges Radio）如何在实践中应用不偏不倚原则。争议不仅涉及个别员工，更涉及中立性要求的解释和实施。",
-      "source": "Ledarsidorna",
-      "link": "https://ledarsidorna.se/myten-om-sveriges-radio-bekraftad-som-myt/"
+      "headline": "针对Jomshof的煽动调查被撤销后遭议会监察专员投诉",
+      "summary": "瑞典民主党政治人物Jomshof的煽动案调查被撤销，此决定遭议会监察专员投诉",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
+    },
+    {
+      "headline": "哥特兰岛附近船只起火",
+      "summary": "瑞典哥特兰岛海域发生船只火灾，救援行动正在进行",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c13a712c-ee8a-4bcc-9528-b432dc71119d"
+    },
+    {
+      "headline": "荷兰船只在哥特兰岛外遇险",
+      "summary": "一艘荷兰船只在瑞典哥特兰岛Gotska Sandön附近遇险，引发大规模救援",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/gk6jB0/stort-padrag-utanfor-gotska-sandon?utm_medium=rss"
     }
-  ]
+  ],
+  "script": "瑞典移民政策再次成为焦点。移民部长近日表示，青少年移民应当获准完成高中学业，这一表态可能预示着居留许可政策的重要调整。目前瑞典对未成年移民的居留许可审批较为严格，许多正在就读高中的青少年面临被遣返的风险。移民部长的这番表态显示，政府内部可能正在考虑为在校青少年提供更长的居留期限，以确保他们能够完成基础教育。这一政策若获通过，将影响数千名正在瑞典接受教育的年轻移民。\n\n与此同时，极右翼政党瑞典民主党的高层领导近日宣布，他们在居留许可问题上已经达成内部共识。瑞典民主党作为现任联合政府的关键支持力量，其政策立场对瑞典移民法规有着决定性影响。该党一贯主张收紧移民政策，此次领导层达成一致意见，很可能意味着更严格的居留许可审批标准即将出台。这一共识的具体内容尚未公开，但预计将在未来几周内提交议会讨论。瑞典民主党的这一决定，与移民部长关于青少年教育的表态形成了微妙的对比,显示出联合政府内部在移民政策上仍存在不同声音。\n\n在政治层面，社会民主党领袖对现任政府提出了尖锐批评。批评的焦点集中在政府公布所谓\"改革空间\"之后的实际作为上。社民党领导人指出,政府在宣传上大谈改革,但在具体执行层面却缺乏实质性行动,导致许多承诺的改革措施迟迟未能落地。作为瑞典最大的反对党,社民党近期频繁质疑政府的施政效率,试图在明年大选前争取更多选民支持。这场政治交锋反映出瑞典政坛的紧张气氛正在升温。\n\n转向国防安全领域。军事研究人员发出警告,称瑞典新购置的护卫舰将可能成为敌对势力的高价值攻击目标。瑞典近年来大幅增加国防开支,其中包括采购多艘现代化护卫舰以增强波罗的海地区的海军实力。然而专家指出,这些先进舰艇配备了尖端雷达和武器系统,在冲突情况下必然会被视为优先打击对象。研究人员建议军方加强这些护卫舰的防护能力和生存性设计,并制定更完善的战术应对方案。随着波罗的海地区安全形势日趋复杂,瑞典海军面临的挑战也在不断增加。\n\n在刑事案件方面,瑞典警方正在调查一起涉及两名年轻女子殴打八旬老人的案件。这起事件在瑞典社会引发了广泛关注和愤慨。据报道,两名年轻女性涉嫌对一名80岁的老年人实施暴力攻击,受害者已被送往医院接受治疗。警方目前正在调查案件的具体经过和动机,两名嫌疑人已被传唤接受问询。瑞典近年来针对老年人的暴力犯罪案件有所增加,这起案件再次引发了公众对弱势群体安全保护的讨论。\n\n反法西斯组织Expo报道,一名经营纳粹商店的人员因煽动罪被瑞典法院定罪判刑。这家商店销售带有纳粹标志的物品和宣扬极端主义思想的材料。法院认定,店主的行为构成煽动种族仇恨,违反了瑞典刑法相关条款。Expo组织长期追踪和记录瑞典的极右翼和新纳粹活动,这次成功的法律诉讼被视为打击极端主义的重要胜利。判决显示瑞典司法系统对仇恨言论和极端主义宣传保持零容忍态度,也为类似案件的处理提供了法律先例。\n\n同样由反法西斯组织Expo报道,瑞典民主党政治人物Jomshof此前涉及的煽动案调查被检方撤销,这一决定随后遭到议会监察专员的正式投诉。Jomshof是瑞典民主党的重要人物,曾因发表争议性言论被举报涉嫌煽动罪。检方决定不予起诉的理由引发了质疑,议会监察专员认为检方的决定可能存在程序问题或法律适用不当。这一投诉将促使相关部门重新审视案件处理过程。此事凸显出瑞典在处理政治人物涉嫌违法言论时面临的法律和政治双重挑战。\n\n最后关注波罗的海地区的紧急事件。瑞典哥特兰岛附近海域发生船只火灾,当地救援力量已经展开行动。哥特兰岛位于波罗的海中部,是瑞典重要的战略岛屿,周边海域船只往来频繁。起火船只的类型和火灾原因目前尚未公布,瑞典海岸警卫队和消防部门正在现场进行灭火和救援工作。所幸目前没有人员伤亡的报告,但火势对船只造成的损害程度仍在评估中。\n\n几乎同一时间,另一艘荷兰船只在哥特兰岛外的Gotska Sandön附近海域遇险,引发了大规模救援行动。Gotska Sandön是哥特兰岛以北的一座小岛,周边海域以暗礁和浅滩著称,航行条件较为复杂。这艘荷兰船只遇到何种险情目前尚不清楚,瑞典海上救援中心已协调多艘救援船只和直升机赶往现场。冬季波罗的海天气恶劣,海况复杂,船只遇险事件时有发生。瑞典救援部门提醒所有在该海域航行的船只务必密切关注天气预报,做好充分的航行准备。这两起海上事件的集中发生,也凸显出波罗的海航行安全的重要性和救援体系的关键作用。"
 }
