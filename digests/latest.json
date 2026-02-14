@@ -2,43 +2,49 @@
   "date": "2026-02-15",
   "title": "瑞典新闻 — 2026年2月15日",
   "audio_url": "digests/2026-02-15.mp3",
-  "duration_seconds": 45,
+  "duration_seconds": 138,
   "stories": [
     {
-      "headline": "移民部长：青少年应被允许完成高中教育",
-      "summary": "瑞典移民部长宣布了一项新政策，支持青少年移民完成高中学业。这反映了政府对教育机会平等的承诺。",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/migrationsministern-tonaringar-ska-fa-slutfora-gymnasiet/cG9zdDo2MzM4Nw"
-    },
-    {
-      "headline": "瑞典民主党达成居留许可共识",
-      "summary": "瑞典民主党领导层在峰会上就居留许可政策达成一致。该党继续推行更严格的移民政策立场。",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sd-toppen-vi-ar-overens-om-uppehallstillstanden/cG9zdDo2MzU2OA"
-    },
-    {
-      "headline": "瑞典AI委员会扩展国际合作",
-      "summary": "瑞典AI委员会与加拿大建立了新的战略联系，并在议会进行了高层对话，旨在加强瑞典的创新竞争力和技能供应。",
+      "headline": "瑞典AI委员会发布劳动力市场报告",
+      "summary": "瑞典AI协会发布首份联合状态报告，强调AI对劳动市场的影响以及人才培养计划的重要性。AI Sweden因领导力被认可为年度社会行为者。",
       "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/ai-sweden-strengthens-canadian-ties-during-high-level-business-visit"
+      "link": "https://www.ai.se/en/news/labor-market-motion-labor-market-ai-council-presents-its-first-joint-status-report-how-ai"
     },
     {
-      "headline": "瑞典冬奥运动员表现不佳",
-      "summary": "瑞典运动员安德松在冬奥接力赛中摔倒两次，但瑞典女子冰壶队获得银牌。",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/dubbla-fall-for-andersson-i-os-stafetten/cG9zdDo2MzUyNA"
+      "headline": "瑞典极右翼游行参与人数创历史新低",
+      "summary": "新沙勒姆游行本年吸引参与人数历来最少，表明极右翼运动的影响力不断下降。同时多起涉及煽动仇恨的刑事案件正在进行。",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/nya-salemmarschen-lockade-farre-an-nagonsin/"
     },
     {
-      "headline": "瑞典跨性别运动员在奥运会中被误称代词",
-      "summary": "一名瑞典跨性别运动员在奥运会上被错误地称呼性别代词，美国电视台随后致歉。",
+      "headline": "爱泼斯坦死亡案重新调查",
+      "summary": "法医要求对美国金融家爱泼斯坦的死亡进行新的调查，对自杀结论提出质疑。法国检察机构表示将调查其关联网络，其中包括一名瑞典籍人士。",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/lundholm-blev-felkonad-i-os-nbc-ber-om-ursakt/cG9zdDo2MzU0Mw"
+      "link": "https://kvartal.se/nyheter/artiklar/rattslakare-kraver-ny-utredning-av-epsteins-dod/cG9zdDo2MzU2Ng"
     },
     {
-      "headline": "纳瓦尔尼之死与俄罗斯青蛙毒药",
-      "summary": "调查显示，俄罗斯使用青蛙毒药参与了反对派人士纳瓦尔尼的死亡事件，引发国际关注。",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/ryskt-grodgift-bakom-navalnyjs-dod/cG9zdDo2MzU1OQ"
+      "headline": "乌克兰寻求20年安全保障",
+      "summary": "乌克兰总统泽连斯基表示希望获得至少20年的安全保障协议，并提议进行两个月的休战期。这反映了乌克兰对长期安全承诺的需求。",
+      "source": "Omni",
+      "link": "https://omni.se/zelenskyj-vill-ha-minst-20-ars-sakerhetsgarantier/a/ArLkkr"
+    },
+    {
+      "headline": "美欧关系在慕尼黑峰会上趋于稳定",
+      "summary": "芬兰总统斯图布表示欧美关系已经改善，美国国务卿卢比奥强调美国和欧洲必须团结一致面对全球挑战。",
+      "source": "DN",
+      "link": "https://www.dn.se/varlden/stubb-relationen-mellan-eu-och-usa-har-lugnat-ner-sig/"
+    },
+    {
+      "headline": "瑞典宇航员梅尔抵达国际空站",
+      "summary": "瑞典裔美国宇航员杰西卡·梅尔成功带领Crew-12远征队抵达国际空间站，距地球约40英里。这是梅尔在太空探索中的又一项成就。",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/utrikes/rymdfarare-med-svensk-amerikanska-meir-framme"
+    },
+    {
+      "headline": "关于瑞典广播公司政治中立性的辩论",
+      "summary": "瑞典媒体继续讨论瑞典广播公司（Sveriges Radio）如何在实践中应用不偏不倚原则。争议不仅涉及个别员工，更涉及中立性要求的解释和实施。",
+      "source": "Ledarsidorna",
+      "link": "https://ledarsidorna.se/myten-om-sveriges-radio-bekraftad-som-myt/"
     }
   ]
 }

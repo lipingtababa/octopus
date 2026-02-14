@@ -1,42 +1,48 @@
 {
   "title": "瑞典新闻 — 2026年2月15日",
-  "script": "移民部长宣布，十几岁的学生应该被允许完成高中教育。这项政策声明来自瑞典政府，旨在改善移民青年的教育机会。与此同时，瑞典民主党领导层召开峰会，就居留许可问题达成共识，继续推进该党的移民限制议程。在科技领域，瑞典AI委员会与多个合作伙伴展开了多项倡议，包括与加拿大的高层商务访问和与议会的合作，旨在加强瑞典的创新能力和人才供应。在冬奥会上，瑞典运动员在接力赛中表现不佳，安德松在比赛中摔倒两次，但瑞典队随后获得了女子冰壶银牌。",
+  "script": "瑞典AI委员会发布劳动力市场报告，强调AI技术对人才培养计划的重要性。这份报告详细分析了瑞典AI产业的发展趋势，以及如何通过教育培训来应对AI带来的就业变化。瑞典AI协会（AI Sweden）因在推动人工智能发展方面的杰出领导力而被认可为年度社会行为者。\n\n瑞典极右翼运动继续受到关注。新沙勒姆游行（Salem march）本年吸引的参与人数创历史新低，表明这类活动的影响力不断下降。与此同时，多个因煽动仇恨和歧视而被起诉的案件正在进行中，包括针对拖曳皇后表演者的仇恨和针对纳粹分子破坏社民党会议的案件。\n\n在司法领域，一份新的验尸报告对美国金融家爱泼斯坦的死亡原因提出质疑。法医要求重新调查，认为自杀的结论不足以解释所有事实。此外，法国检察机构表示将调查爱泼斯坦的关联网络，其中包括一名瑞典籍人士。\n\n瑞典和乌克兰关系方面出现新的发展。乌克兰总统泽连斯基表示希望获得至少20年的安全保障，并提议进行为期两个月的休战，之后举行选举。这些声明反映了乌克兰对长期安全承诺的需求。\n\n芬兰总统亚历山大·斯图布在慕尼黑安全会议上表示，欧盟与美国之间的关系已经趋于稳定，跨大西洋关系得到了改善。美国国务卿卢比奥则在会议上发表讲话，强调美国和欧洲必须团结一致。\n\n瑞典宇航员杰西卡·梅尔（Jessica Meir）成功抵达国际空站，作为Crew-12远征队的指挥官。这位瑞典裔美国宇航员率领该任务团队完成了成功对接，距离地球约40英里。\n\n在公共媒体问题上，保守派评论人士继续质疑瑞典广播公司（Sveriges Radio）的政治中立性。关于该机构如何在实践中应用和维护不偏不倚的要求，引发了广泛讨论。",
   "stories": [
     {
-      "headline": "移民部长：青少年应被允许完成高中教育",
-      "summary": "瑞典移民部长宣布了一项新政策，支持青少年移民完成高中学业。这反映了政府对教育机会平等的承诺。",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/migrationsministern-tonaringar-ska-fa-slutfora-gymnasiet/cG9zdDo2MzM4Nw"
-    },
-    {
-      "headline": "瑞典民主党达成居留许可共识",
-      "summary": "瑞典民主党领导层在峰会上就居留许可政策达成一致。该党继续推行更严格的移民政策立场。",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sd-toppen-vi-ar-overens-om-uppehallstillstanden/cG9zdDo2MzU2OA"
-    },
-    {
-      "headline": "瑞典AI委员会扩展国际合作",
-      "summary": "瑞典AI委员会与加拿大建立了新的战略联系，并在议会进行了高层对话，旨在加强瑞典的创新竞争力和技能供应。",
+      "headline": "瑞典AI委员会发布劳动力市场报告",
+      "summary": "瑞典AI协会发布首份联合状态报告，强调AI对劳动市场的影响以及人才培养计划的重要性。AI Sweden因领导力被认可为年度社会行为者。",
       "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/ai-sweden-strengthens-canadian-ties-during-high-level-business-visit"
+      "link": "https://www.ai.se/en/news/labor-market-motion-labor-market-ai-council-presents-its-first-joint-status-report-how-ai"
     },
     {
-      "headline": "瑞典冬奥运动员表现不佳",
-      "summary": "瑞典运动员安德松在冬奥接力赛中摔倒两次，但瑞典女子冰壶队获得银牌。",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/dubbla-fall-for-andersson-i-os-stafetten/cG9zdDo2MzUyNA"
+      "headline": "瑞典极右翼游行参与人数创历史新低",
+      "summary": "新沙勒姆游行本年吸引参与人数历来最少，表明极右翼运动的影响力不断下降。同时多起涉及煽动仇恨的刑事案件正在进行。",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/nya-salemmarschen-lockade-farre-an-nagonsin/"
     },
     {
-      "headline": "瑞典跨性别运动员在奥运会中被误称代词",
-      "summary": "一名瑞典跨性别运动员在奥运会上被错误地称呼性别代词，美国电视台随后致歉。",
+      "headline": "爱泼斯坦死亡案重新调查",
+      "summary": "法医要求对美国金融家爱泼斯坦的死亡进行新的调查，对自杀结论提出质疑。法国检察机构表示将调查其关联网络，其中包括一名瑞典籍人士。",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/lundholm-blev-felkonad-i-os-nbc-ber-om-ursakt/cG9zdDo2MzU0Mw"
+      "link": "https://kvartal.se/nyheter/artiklar/rattslakare-kraver-ny-utredning-av-epsteins-dod/cG9zdDo2MzU2Ng"
     },
     {
-      "headline": "纳瓦尔尼之死与俄罗斯青蛙毒药",
-      "summary": "调查显示，俄罗斯使用青蛙毒药参与了反对派人士纳瓦尔尼的死亡事件，引发国际关注。",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/ryskt-grodgift-bakom-navalnyjs-dod/cG9zdDo2MzU1OQ"
+      "headline": "乌克兰寻求20年安全保障",
+      "summary": "乌克兰总统泽连斯基表示希望获得至少20年的安全保障协议，并提议进行两个月的休战期。这反映了乌克兰对长期安全承诺的需求。",
+      "source": "Omni",
+      "link": "https://omni.se/zelenskyj-vill-ha-minst-20-ars-sakerhetsgarantier/a/ArLkkr"
+    },
+    {
+      "headline": "美欧关系在慕尼黑峰会上趋于稳定",
+      "summary": "芬兰总统斯图布表示欧美关系已经改善，美国国务卿卢比奥强调美国和欧洲必须团结一致面对全球挑战。",
+      "source": "DN",
+      "link": "https://www.dn.se/varlden/stubb-relationen-mellan-eu-och-usa-har-lugnat-ner-sig/"
+    },
+    {
+      "headline": "瑞典宇航员梅尔抵达国际空站",
+      "summary": "瑞典裔美国宇航员杰西卡·梅尔成功带领Crew-12远征队抵达国际空间站，距地球约40英里。这是梅尔在太空探索中的又一项成就。",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/utrikes/rymdfarare-med-svensk-amerikanska-meir-framme"
+    },
+    {
+      "headline": "关于瑞典广播公司政治中立性的辩论",
+      "summary": "瑞典媒体继续讨论瑞典广播公司（Sveriges Radio）如何在实践中应用不偏不倚原则。争议不仅涉及个别员工，更涉及中立性要求的解释和实施。",
+      "source": "Ledarsidorna",
+      "link": "https://ledarsidorna.se/myten-om-sveriges-radio-bekraftad-som-myt/"
     }
   ]
 }
