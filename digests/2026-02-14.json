@@ -1,42 +1,42 @@
 {
-  "title": "Swedish News Briefing — 14 February 2026",
-  "script": "Good morning. Here's your Swedish news briefing for Sweden today, Saturday the 14th of February.\n\nLet's start with some important policy news. Sweden is investing billions in new naval frigates to strengthen its position against Russia. Defence Minister Pål Jonson says the purchase sends a clear signal that Sweden is ready to defend its territory. The deal could cost tens of billions of krona, but these ships will become a key part of Sweden's military capability in the Baltic Sea region.\n\nOn the political front, there's been some controversy around immigration enforcement. Teen deportations have sparked significant debate, with concerns being raised about how authorities are handling cases involving refugee children. Some voices are questioning whether current practices align with Swedish values, particularly regarding how family connections are being assessed.\n\nIn economic news, electricity prices remain a major concern for Swedish households. One homeowner we've heard from has taken matters into his own hands, optimising his heating system to reduce consumption and push back against rising costs. He says he's tired of sending money to electricity companies without getting value in return. If you're struggling with your bills, there are solutions available — energy audits and system upgrades can make a real difference.\n\nThere's also been attention on job-seeking in the age of artificial intelligence. As more companies use AI to filter applications, job hunters need to know the tricks to avoid being automatically sorted out. The advice is straightforward: tailor your applications, use relevant keywords, and make sure you're not getting lost in the algorithmic shuffle.\n\nOn a lighter note, sexual harassment on secondhand shopping platforms is becoming a concern. Young people selling clothes on apps like Vinted have reported receiving inappropriate messages. The Minister for Gender Equality is pushing for stricter requirements on digital platforms to protect users better — this is clearly an issue that needs addressing.\n\nFinally, if you're looking for something to do this weekend, the Berlin Film Festival is underway, and several Swedish cultural events are happening. Swedish actor Gustav Lindh is walking the red carpet for a new apocalyptic western film. Back home, Melodifestivalen — Sweden's song competition — continues with its third heat this weekend.\n\nThat's your briefing for today. For more details on any of these stories, visit SVT Nyheter or Dagens Nyheter online. Stay informed, stay safe, and we'll be back tomorrow with more Swedish news. Have a good weekend.",
+  "title": "Swedish News — 14 February 2026",
+  "script": "The Swedish government is moving forward with a major defence investment. New frigates will become Sweden's primary tool for power projection against Russia at sea. The billion-kronor purchase represents a significant advancement in Sweden's naval capabilities, though the total cost could reach tens of billions of kronor over time. Defence Minister Pål Jonsson says the move sends a clear signal that Sweden will defend its territory.\n\nElectricity prices remain a major concern for Swedish households. Some families are taking matters into their own hands. One homeowner has optimised his heating system to withstand price increases and reduce dependence on the grid. He's determined not to send more money than necessary to electricity companies. Simple solutions like adjusting thermostats and upgrading insulation are helping many Swedes cope with the ongoing energy crisis.\n\nImmigration policy is facing renewed scrutiny. The government's reduced activity support for long-term unemployed has sparked criticism from social workers and advocates. Psychologist Tove Falk argues that the policy is signal politics rather than genuine support for vulnerable jobseekers. Critics say the government should focus on real employment assistance instead of headline-grabbing measures.\n\nOnline safety for young people is becoming increasingly urgent. A DN investigation has found that teenage girls receive unwanted sexual messages whilst selling clothes on the secondhand platform Vinted. The Minister for Gender Equality is demanding higher requirements and greater pressure on digital platforms to implement safety measures from the start. The government is signalling that platforms must do more to protect young users from harassment and exploitation.\n\nFood safety inspections have uncovered a troubling case of fraud. Five tonnes of sweets that had expired more than a year ago were being repackaged for sale. Workers had used nail polish remover to erase the original expiration dates and stamped new ones onto the bags. When municipality inspectors arrived, the workers fled the scene. The case highlights ongoing concerns about food safety compliance and oversight in the distribution chain.\n\nFinally, a fire in a villa outside Sala has resulted in one death. The building was completely destroyed in the Saturday morning blaze. Police continue to investigate the circumstances of the fire as they work to determine the cause.",
   "stories": [
     {
-      "headline": "New frigates to become Sweden's military power against Russia",
-      "summary": "Sweden is purchasing new naval frigates in a billion-krona investment to strengthen its position in the Baltic Sea and signal readiness to defend its territory. Defence Minister Pål Jonson emphasises this purchase advances Sweden's strategic position against Russian military presence.",
+      "headline": "New frigates will be Sweden's means of power against Russia",
+      "summary": "Sweden is purchasing new frigates for billions of kronor to advance its naval capabilities and deter Russian aggression. Defence Minister Pål Jonsson states the investment sends a clear signal that Sweden will defend its territory. The total cost could reach tens of billions over the lifespan of the vessels.",
       "source": "SVT Nyheter",
       "link": "https://www.svt.se/nyheter/inrikes/nya-fregatter-blir-svenskt-maktmedel-mot-ryssland"
     },
     {
-      "headline": "Teen deportations raise questions about Swedish values and family assessment",
-      "summary": "Concerns are growing about how Swedish authorities handle deportations of refugee children, with critics questioning current practices around family tie verification. The issue has sparked debate about whether procedures align with Swedish humanitarian principles.",
-      "source": "Dagens Nyheter",
-      "link": "https://www.dn.se/kultur/kristina-lindquist-tonarsutvisningarna-gor-oss-till-ett-land-av-sociopater"
+      "headline": "Anders optimised the heating system: \"The electricity company won't get another month\"",
+      "summary": "A Swedish homeowner has taken steps to reduce electricity costs by optimising his heating system and insulation. Facing high energy prices across the country, many families are implementing solutions to withstand price increases and reduce grid dependence.",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/anders-optimerade-varmesystemet-elbolaget-ska-fan-inte-fa-en-manad-till/"
     },
     {
-      "headline": "Rising electricity prices push homeowners to optimise heating systems",
-      "summary": "Swedish households struggling with high electricity costs are finding solutions through system upgrades and optimisation. One homeowner has successfully reduced consumption and saved money by evaluating his heating setup — a strategy others can replicate.",
-      "source": "Dagens Nyheter",
-      "link": "https://www.dn.se/ekonomi/anders-optimerade-varmesystemet-elbolaget-ska-fan-inte-fa-en-manad-till"
+      "headline": "Stop with signal politics and give jobseekers real support",
+      "summary": "Psychologist Tove Falk criticises the government's reduced activity support for long-term unemployed as signal politics. She argues that those in vulnerable situations need genuine employment assistance rather than headline-grabbing policy measures.",
+      "source": "DN",
+      "link": "https://www.dn.se/insandare/sluta-med-signalpolitik-och-ge-jobbsokande-riktigt-stod/"
     },
     {
-      "headline": "AI job-filtering creates new challenges for Swedish job seekers",
-      "summary": "As artificial intelligence screens applications, job hunters need to understand how to avoid algorithmic filtering. Using relevant keywords and tailored applications are essential strategies in today's employment landscape.",
+      "headline": "After girls' alarm about Vinted: Minister wants higher requirements on digital platforms",
+      "summary": "A DN investigation reveals that teenage girls receive sexual messages whilst selling clothes on the secondhand platform Vinted. The Minister for Gender Equality is demanding that digital platforms implement stronger safety measures to protect young users from harassment.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/efter-tjejers-larm-om-vinted-minister-vill-ha-hogre-krav-pa-digitala-plattformar/"
+    },
+    {
+      "headline": "Five tonnes of sweets were given new best before dates — revealed during inspection",
+      "summary": "Municipality inspectors discovered that expired sweets were being repackaged and sold with false expiration dates. Workers had used nail polish remover to erase original dates and apply new ones. The workers fled when inspectors arrived.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/fem-ton-godis-fick-nya-bast-fore-datum-avslojades-vid-inspektion/"
+    },
+    {
+      "headline": "Fire in villa outside Sala — one person dead",
+      "summary": "A villa fire occurred just outside Sala on Saturday morning, completely destroying the building. Police report that one person died in the blaze as they investigate the circumstances.",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/ai-och-jobbsokande-har-ar-knepen-som-gor-att-du-inte-sorteras-bort"
-    },
-    {
-      "headline": "Sexual harassment on Vinted prompts government action on digital platform safety",
-      "summary": "Young people selling secondhand clothes on the app Vinted have reported receiving sexual messages. Sweden's Minister for Gender Equality is now calling for stronger legal requirements on digital platforms to protect users from harassment.",
-      "source": "Dagens Nyheter",
-      "link": "https://www.dn.se/sverige/efter-tjejers-larm-om-vinted-minister-vill-ha-hogre-krav-pa-digitala-plattformar"
-    },
-    {
-      "headline": "Melodifestivalen third heat features strong contenders",
-      "summary": "Sweden's famous song competition continued its third round with performances from Medina and Saga Ludvigsson, who both advanced directly to the final. The competition showcased diverse musical styles and talent.",
-      "source": "Dagens Nyheter",
-      "link": "https://www.dn.se/kultur/medina-och-saga-ludvigsson-till-final-i-melodifestivalen"
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/brand-i-villa-utanfor-sala"
     }
   ]
 }

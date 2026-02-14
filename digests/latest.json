@@ -1,44 +1,44 @@
 {
   "date": "2026-02-14",
-  "title": "Swedish News Briefing — 14 February 2026",
+  "title": "Swedish News — 14 February 2026",
   "audio_url": "digests/2026-02-14.mp3",
-  "duration_seconds": 149,
+  "duration_seconds": 151,
   "stories": [
     {
-      "headline": "New frigates to become Sweden's military power against Russia",
-      "summary": "Sweden is purchasing new naval frigates in a billion-krona investment to strengthen its position in the Baltic Sea and signal readiness to defend its territory. Defence Minister Pål Jonson emphasises this purchase advances Sweden's strategic position against Russian military presence.",
+      "headline": "New frigates will be Sweden's means of power against Russia",
+      "summary": "Sweden is purchasing new frigates for billions of kronor to advance its naval capabilities and deter Russian aggression. Defence Minister Pål Jonsson states the investment sends a clear signal that Sweden will defend its territory. The total cost could reach tens of billions over the lifespan of the vessels.",
       "source": "SVT Nyheter",
       "link": "https://www.svt.se/nyheter/inrikes/nya-fregatter-blir-svenskt-maktmedel-mot-ryssland"
     },
     {
-      "headline": "Teen deportations raise questions about Swedish values and family assessment",
-      "summary": "Concerns are growing about how Swedish authorities handle deportations of refugee children, with critics questioning current practices around family tie verification. The issue has sparked debate about whether procedures align with Swedish humanitarian principles.",
-      "source": "Dagens Nyheter",
-      "link": "https://www.dn.se/kultur/kristina-lindquist-tonarsutvisningarna-gor-oss-till-ett-land-av-sociopater"
+      "headline": "Anders optimised the heating system: \"The electricity company won't get another month\"",
+      "summary": "A Swedish homeowner has taken steps to reduce electricity costs by optimising his heating system and insulation. Facing high energy prices across the country, many families are implementing solutions to withstand price increases and reduce grid dependence.",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/anders-optimerade-varmesystemet-elbolaget-ska-fan-inte-fa-en-manad-till/"
     },
     {
-      "headline": "Rising electricity prices push homeowners to optimise heating systems",
-      "summary": "Swedish households struggling with high electricity costs are finding solutions through system upgrades and optimisation. One homeowner has successfully reduced consumption and saved money by evaluating his heating setup — a strategy others can replicate.",
-      "source": "Dagens Nyheter",
-      "link": "https://www.dn.se/ekonomi/anders-optimerade-varmesystemet-elbolaget-ska-fan-inte-fa-en-manad-till"
+      "headline": "Stop with signal politics and give jobseekers real support",
+      "summary": "Psychologist Tove Falk criticises the government's reduced activity support for long-term unemployed as signal politics. She argues that those in vulnerable situations need genuine employment assistance rather than headline-grabbing policy measures.",
+      "source": "DN",
+      "link": "https://www.dn.se/insandare/sluta-med-signalpolitik-och-ge-jobbsokande-riktigt-stod/"
     },
     {
-      "headline": "AI job-filtering creates new challenges for Swedish job seekers",
-      "summary": "As artificial intelligence screens applications, job hunters need to understand how to avoid algorithmic filtering. Using relevant keywords and tailored applications are essential strategies in today's employment landscape.",
+      "headline": "After girls' alarm about Vinted: Minister wants higher requirements on digital platforms",
+      "summary": "A DN investigation reveals that teenage girls receive sexual messages whilst selling clothes on the secondhand platform Vinted. The Minister for Gender Equality is demanding that digital platforms implement stronger safety measures to protect young users from harassment.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/efter-tjejers-larm-om-vinted-minister-vill-ha-hogre-krav-pa-digitala-plattformar/"
+    },
+    {
+      "headline": "Five tonnes of sweets were given new best before dates — revealed during inspection",
+      "summary": "Municipality inspectors discovered that expired sweets were being repackaged and sold with false expiration dates. Workers had used nail polish remover to erase original dates and apply new ones. The workers fled when inspectors arrived.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/fem-ton-godis-fick-nya-bast-fore-datum-avslojades-vid-inspektion/"
+    },
+    {
+      "headline": "Fire in villa outside Sala — one person dead",
+      "summary": "A villa fire occurred just outside Sala on Saturday morning, completely destroying the building. Police report that one person died in the blaze as they investigate the circumstances.",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/ai-och-jobbsokande-har-ar-knepen-som-gor-att-du-inte-sorteras-bort"
-    },
-    {
-      "headline": "Sexual harassment on Vinted prompts government action on digital platform safety",
-      "summary": "Young people selling secondhand clothes on the app Vinted have reported receiving sexual messages. Sweden's Minister for Gender Equality is now calling for stronger legal requirements on digital platforms to protect users from harassment.",
-      "source": "Dagens Nyheter",
-      "link": "https://www.dn.se/sverige/efter-tjejers-larm-om-vinted-minister-vill-ha-hogre-krav-pa-digitala-plattformar"
-    },
-    {
-      "headline": "Melodifestivalen third heat features strong contenders",
-      "summary": "Sweden's famous song competition continued its third round with performances from Medina and Saga Ludvigsson, who both advanced directly to the final. The competition showcased diverse musical styles and talent.",
-      "source": "Dagens Nyheter",
-      "link": "https://www.dn.se/kultur/medina-och-saga-ludvigsson-till-final-i-melodifestivalen"
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/brand-i-villa-utanfor-sala"
     }
   ]
 }
