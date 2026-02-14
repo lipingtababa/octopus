@@ -1,56 +1,44 @@
 {
   "date": "2026-02-15",
-  "title": "Swedish News — 15 February 2026",
+  "title": "瑞典新闻 — 2026年2月15日",
   "audio_url": "digests/2026-02-15.mp3",
-  "duration_seconds": 147,
+  "duration_seconds": 45,
   "stories": [
     {
-      "headline": "Swedish Migration Minister: teenagers must complete high school",
-      "summary": "Sweden's Minister of Migration has announced that teenagers should be permitted to finish their secondary education, indicating a potential policy shift affecting young asylum seekers and migrants in the education system.",
+      "headline": "移民部长：青少年应被允许完成高中教育",
+      "summary": "瑞典移民部长宣布了一项新政策，支持青少年移民完成高中学业。这反映了政府对教育机会平等的承诺。",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/migrationsministern-tonaringar-ska-fa-slutfora-gymnasiet/"
+      "link": "https://kvartal.se/nyheter/artiklar/migrationsministern-tonaringar-ska-fa-slutfora-gymnasiet/cG9zdDo2MzM4Nw"
     },
     {
-      "headline": "Sweden Democrats reach agreement on residence permits",
-      "summary": "Leadership of the Sweden Democrats has announced broad agreement on residence permit policies, positioning the party to shape immigration regulations under the current coalition government.",
+      "headline": "瑞典民主党达成居留许可共识",
+      "summary": "瑞典民主党领导层在峰会上就居留许可政策达成一致。该党继续推行更严格的移民政策立场。",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sd-toppen-vi-ar-overens-om-uppehallstillstanden/"
+      "link": "https://kvartal.se/nyheter/artiklar/sd-toppen-vi-ar-overens-om-uppehallstillstanden/cG9zdDo2MzU2OA"
     },
     {
-      "headline": "Salem march attendance hits record low",
-      "summary": "The annual neo-Nazi Salem march attracted fewer participants than ever before, according to Expo, Sweden's anti-racist foundation monitoring far-right movements.",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/nya-salemmarschen-lockade-farre-an-nagonsin/"
-    },
-    {
-      "headline": "Multiple neo-Nazi convictions this week",
-      "summary": "Swedish courts have sentenced multiple far-right activists: three people in the Janouch scandal, a man for inciting drag queens, and a Nazi activist for disrupting a Social Democrat meeting. The JO has challenged an abandoned incitement investigation into Sweden Democrats politician Richard Jomshof.",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/tredje-person-doms-i-janouch-harvan/"
-    },
-    {
-      "headline": "AI Sweden named societal actor of the year",
-      "summary": "Sweden's AI initiative has won recognition for expanding municipal adoption of AI tools and strengthening international partnerships. New programmes are equipping civil society and the retail sector with AI capabilities to meet labour market demands.",
+      "headline": "瑞典AI委员会扩展国际合作",
+      "summary": "瑞典AI委员会与加拿大建立了新的战略联系，并在议会进行了高层对话，旨在加强瑞典的创新竞争力和技能供应。",
       "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/ai-sweden-honored-leadership-named-societal-actor-year"
+      "link": "https://www.ai.se/en/news/ai-sweden-strengthens-canadian-ties-during-high-level-business-visit"
     },
     {
-      "headline": "Ukraine and Russia to resume peace talks",
-      "summary": "Ukraine and Russia will enter new talks next week. President Zelensky has proposed a two-month ceasefire followed by elections, and is seeking at least 20 years of security guarantees from Western allies.",
-      "source": "Omni",
-      "link": "https://omni.se/ukraina-och-ryssland-i-nya-samtal-nasta-vecka/"
+      "headline": "瑞典冬奥运动员表现不佳",
+      "summary": "瑞典运动员安德松在冬奥接力赛中摔倒两次，但瑞典女子冰壶队获得银牌。",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/dubbla-fall-for-andersson-i-os-stafetten/cG9zdDo2MzUyNA"
     },
     {
-      "headline": "Swedish researcher warns new frigates are strategic targets",
-      "summary": "A Swedish defence researcher has cautioned that Sweden's new frigates will become high-value military targets, underscoring the strategic significance of Nordic naval investment amid regional tensions.",
-      "source": "Omni",
-      "link": "https://omni.se/forskare-nya-fregatterna-blir-hogvardiga-mal/"
+      "headline": "瑞典跨性别运动员在奥运会中被误称代词",
+      "summary": "一名瑞典跨性别运动员在奥运会上被错误地称呼性别代词，美国电视台随后致歉。",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/lundholm-blev-felkonad-i-os-nbc-ber-om-ursakt/cG9zdDo2MzU0Mw"
     },
     {
-      "headline": "Sveriges Radio's impartiality questioned in new debate",
-      "summary": "A renewed examination of Sveriges Radio has highlighted longstanding questions about the broadcaster's claim to political independence. Critics argue the principle of impartiality — how it's defined and maintained — has become more myth than practice.",
-      "source": "Ledarsidorna",
-      "link": "https://ledarsidorna.se/myten-om-sveriges-radio-bekraftad-som-myt/"
+      "headline": "纳瓦尔尼之死与俄罗斯青蛙毒药",
+      "summary": "调查显示，俄罗斯使用青蛙毒药参与了反对派人士纳瓦尔尼的死亡事件，引发国际关注。",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/ryskt-grodgift-bakom-navalnyjs-dod/cG9zdDo2MzU1OQ"
     }
   ]
 }
