@@ -12,69 +12,65 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <div class="header-inner">
-      <img src="icon.svg" alt="Octopus" class="logo" width="40" height="40">
-      <h1>Octopus</h1>
-      <span class="subtitle">Swedish News Digest</span>
+
+  <!-- Full-screen player — the hero -->
+  <section id="player-screen" class="player-screen">
+    <div class="player-artwork">
+      <img src="icon.svg" alt="Octopus" width="120" height="120">
     </div>
-  </header>
+    <h1 id="digest-title" class="player-title">Octopus</h1>
+    <p id="digest-date" class="player-date">Swedish News Audio Digest</p>
 
-  <main>
-    <section id="player-section" class="player-section hidden">
-      <div class="player-card">
-        <h2 id="digest-title" class="digest-title"></h2>
-        <p id="digest-date" class="digest-date"></p>
-        <div class="audio-controls">
-          <button id="play-btn" class="play-btn" aria-label="Play">
-            <svg id="play-icon" viewBox="0 0 24 24" width="32" height="32" fill="currentColor">
-              <polygon points="5,3 19,12 5,21"/>
-            </svg>
-            <svg id="pause-icon" viewBox="0 0 24 24" width="32" height="32" fill="currentColor" class="hidden">
-              <rect x="5" y="3" width="4" height="18"/>
-              <rect x="15" y="3" width="4" height="18"/>
-            </svg>
-          </button>
-          <div class="progress-wrapper">
-            <input type="range" id="progress-bar" class="progress-bar" min="0" max="100" value="0" step="0.1">
-            <div class="time-display">
-              <span id="current-time">0:00</span>
-              <span id="duration">0:00</span>
-            </div>
-          </div>
+    <div id="loading-indicator" class="loading-indicator">Loading...</div>
+
+    <div id="player-controls" class="player-controls hidden">
+      <div class="progress-wrapper">
+        <input type="range" id="progress-bar" class="progress-bar" min="0" max="100" value="0" step="0.1">
+        <div class="time-display">
+          <span id="current-time">0:00</span>
+          <span id="duration">0:00</span>
         </div>
-        <audio id="audio-player" preload="metadata"></audio>
       </div>
-    </section>
-
-    <section id="status-section" class="status-section hidden">
-      <div class="status-card">
-        <p id="status-message" class="status-message"></p>
-        <button id="replay-btn" class="replay-btn hidden">Replay today's digest</button>
+      <div class="transport">
+        <button id="rewind-btn" class="transport-btn" aria-label="Rewind 15 seconds">
+          <svg viewBox="0 0 24 24" width="28" height="28" fill="currentColor"><path d="M12.5 3C7.81 3 4.01 6.54 3.68 11H1l3.89 3.89.07.14L9 11H6.73A5.77 5.77 0 0 1 12.5 5C15.81 5 18.5 7.69 18.5 11s-2.69 6-6 6c-1.83 0-3.45-.81-4.55-2.09l-1.46 1.44A7.96 7.96 0 0 0 12.5 19c4.42 0 8-3.58 8-8s-3.58-8-8-8z"/><text x="12.5" y="14.5" text-anchor="middle" font-size="7.5" font-weight="bold" fill="currentColor">15</text></svg>
+        </button>
+        <button id="play-btn" class="play-btn" aria-label="Play">
+          <svg id="play-icon" viewBox="0 0 24 24" width="40" height="40" fill="currentColor">
+            <polygon points="6,3 20,12 6,21"/>
+          </svg>
+          <svg id="pause-icon" viewBox="0 0 24 24" width="40" height="40" fill="currentColor" class="hidden">
+            <rect x="5" y="3" width="4" height="18"/>
+            <rect x="15" y="3" width="4" height="18"/>
+          </svg>
+        </button>
+        <button id="forward-btn" class="transport-btn" aria-label="Forward 15 seconds">
+          <svg viewBox="0 0 24 24" width="28" height="28" fill="currentColor"><path d="M11.5 3c4.69 0 8.49 3.54 8.82 8H23l-3.89 3.89-.07.14L15 11h2.27A5.77 5.77 0 0 0 11.5 5C8.19 5 5.5 7.69 5.5 11s2.69 6 6 6c1.83 0 3.45-.81 4.55-2.09l1.46 1.44A7.96 7.96 0 0 1 11.5 19c-4.42 0-8-3.58-8-8s3.58-8 8-8z"/><text x="11.5" y="14.5" text-anchor="middle" font-size="7.5" font-weight="bold" fill="currentColor">15</text></svg>
+        </button>
       </div>
-    </section>
+    </div>
 
-    <section id="loading-section" class="loading-section">
-      <div class="status-card">
-        <p class="status-message">Loading digest...</p>
-      </div>
-    </section>
+    <div id="status-area" class="status-area hidden">
+      <p id="status-message" class="status-message"></p>
+      <button id="replay-btn" class="replay-btn hidden">Replay</button>
+    </div>
 
-    <section id="stories-section" class="stories-section hidden">
-      <h2 class="section-heading">Today's Stories</h2>
-      <div id="stories-list" class="stories-list"></div>
-    </section>
+    <audio id="audio-player" preload="metadata"></audio>
+  </section>
 
-    <section id="past-section" class="past-section">
-      <h2 class="section-heading">Past Digests</h2>
-      <div id="past-list" class="past-list">
-        <p class="status-message">Loading past digests...</p>
-      </div>
-    </section>
-  </main>
+  <!-- Articles — scrollable below the player -->
+  <section id="stories-section" class="stories-section hidden">
+    <h2 class="section-heading">In this briefing</h2>
+    <div id="stories-list" class="stories-list"></div>
+  </section>
+
+  <section id="past-section" class="past-section hidden">
+    <h2 class="section-heading">Previous days</h2>
+    <div id="past-list" class="past-list"></div>
+  </section>
 
   <footer>
-    <p>&copy; 2026 Octopus &middot; Swedish News Audio Digest</p>
+    <p>Octopus &middot; Your Swedish news, in English</p>
   </footer>
 
   <script src="app.js"></script>
