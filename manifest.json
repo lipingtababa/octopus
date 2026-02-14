@@ -1,0 +1,22 @@
+{
+  "name": "Octopus",
+  "short_name": "Octopus",
+  "description": "Swedish News Audio Digest",
+  "start_url": "/octopus/",
+  "scope": "/octopus/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#e94560",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

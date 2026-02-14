@@ -1,0 +1,38 @@
+{
+  "date": "2026-02-14",
+  "title": "Swedish News Briefing \u2014 14 February 2026",
+  "audio_url": "digests/2026-02-14.mp3",
+  "duration_seconds": 180,
+  "stories": [
+    {
+      "headline": "Riksdag debates new housing policy ahead of spring budget",
+      "summary": "Parliament is set to vote on a comprehensive housing reform package that would increase funding for affordable housing construction across major Swedish cities.",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter"
+    },
+    {
+      "headline": "SL announces metro line extension timeline",
+      "summary": "Stockholm\u2019s public transport authority has released updated plans for the southern metro extension, with construction expected to begin in late 2026.",
+      "source": "Sveriges Radio",
+      "link": "https://sverigesradio.se"
+    },
+    {
+      "headline": "Migration agency reports decrease in asylum processing times",
+      "summary": "Migrationsverket has reduced average processing times by 30% following a digital transformation initiative launched last year.",
+      "source": "DN",
+      "link": "https://www.dn.se"
+    },
+    {
+      "headline": "Sweden\u2019s inflation rate holds steady at 2.1%",
+      "summary": "The Riksbank\u2019s latest figures show inflation remaining stable, with economists predicting a potential rate cut in the coming months.",
+      "source": "The Local",
+      "link": "https://www.thelocal.se"
+    },
+    {
+      "headline": "New personnummer rules take effect for EU citizens",
+      "summary": "Starting March 1st, EU citizens working in Sweden will have a simplified process for obtaining a personal identity number, reducing wait times from months to weeks.",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter"
+    }
+  ]
+}
