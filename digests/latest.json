@@ -1,62 +1,74 @@
 {
   "date": "2026-02-15",
-  "title": "瑞典新闻 — 15 February 2026",
+  "title": "瑞典新闻 — 2026年02月15日",
   "audio_url": "digests/2026-02-15.mp3",
-  "duration_seconds": 254,
+  "duration_seconds": 346,
   "stories": [
     {
-      "headline": "移民部长：青少年应获准完成高中学业",
-      "summary": "瑞典移民部长表示青少年应有机会完成高中教育，涉及居留许可政策调整",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/migrationsministern-tonaringar-ska-fa-slutfora-gymnasiet/cG9zdDo2MzM4Nw"
-    },
-    {
-      "headline": "瑞典民主党高层：我们在居留许可问题上已达成一致",
-      "summary": "极右翼政党瑞典民主党领导层就居留许可政策达成共识，影响移民政策走向",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sd-toppen-vi-ar-overens-om-uppehallstillstanden/cG9zdDo2MzU2OA"
-    },
-    {
-      "headline": "社民党领袖批评政府公布改革空间后",
-      "summary": "社会民主党领导人批评现政府在宣布改革空间后的做法",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-ledaren-kritiserar-regeringen-efter-besked-om-reformutrymme/cG9zdDo2MzQ3Nw"
-    },
-    {
-      "headline": "研究人员：新护卫舰将成为高价值目标",
-      "summary": "军事研究人员警告瑞典新购置的护卫舰可能成为高价值攻击目标",
-      "source": "Omni",
-      "link": "https://omni.se/forskare-nya-fregatterna-blir-hogvardiga-mal/a/L45LX1"
-    },
-    {
-      "headline": "两名年轻女子涉嫌殴打80岁老人",
-      "summary": "瑞典警方调查两名年轻女性涉嫌殴打一名八旬老人案件",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/tva-unga-kvinnor-misstankta-for-misshandel-av-80-arig-man/cG9zdDo2MzQ1MA"
-    },
-    {
-      "headline": "纳粹商店负责人因煽动罪被判刑",
-      "summary": "反法西斯组织Expo报道，经营纳粹商店的人员因煽动罪被瑞典法院定罪",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
-    },
-    {
-      "headline": "针对Jomshof的煽动调查被撤销后遭议会监察专员投诉",
-      "summary": "瑞典民主党政治人物Jomshof的煽动案调查被撤销，此决定遭议会监察专员投诉",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
-    },
-    {
-      "headline": "哥特兰岛附近船只起火",
-      "summary": "瑞典哥特兰岛海域发生船只火灾，救援行动正在进行",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c13a712c-ee8a-4bcc-9528-b432dc71119d"
-    },
-    {
-      "headline": "荷兰船只在哥特兰岛外遇险",
-      "summary": "一艘荷兰船只在瑞典哥特兰岛Gotska Sandön附近遇险，引发大规模救援",
+      "headline": "Center Party demands answers on teenage deportations",
+      "summary": "C wants Migration Agency to stop expelling teenagers",
       "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/gk6jB0/stort-padrag-utanfor-gotska-sandon?utm_medium=rss"
+      "link": "https://www.aftonbladet.se/nyheter/a/ExaExP/c-kraver-svar-om-tonarsutvisningar?utm_medium=rss"
+    },
+    {
+      "headline": "Asylum Rights Centre: Possible to stop teenage deportations",
+      "summary": "Legal organisation says authorities can halt teen expulsions",
+      "source": "Omni",
+      "link": "https://omni.se/asylrattscentrum-gar-att-stoppa-tonarsutvisningarna/a/3p4QwA"
+    },
+    {
+      "headline": "Children in prison: Locked up at 8pm",
+      "summary": "Investigation reveals daily life for imprisoned children in Sweden",
+      "source": "Omni",
+      "link": "https://omni.se/sa-blir-barnens-liv-i-fangelse-laser-in-dem-klockan-atta/a/wrO5Ad"
+    },
+    {
+      "headline": "New Salem march attracted fewest participants ever",
+      "summary": "Far-right march sees record low attendance",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/nya-salemmarschen-lockade-farre-an-nagonsin/"
+    },
+    {
+      "headline": "Man sentenced for inciting hatred against drag queens",
+      "summary": "Court convicts individual for hets mot folkgrupp targeting performers",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/man-doms-for-hets-mot-dragqueens/"
+    },
+    {
+      "headline": "Third person sentenced in Janouch scandal",
+      "summary": "Another conviction in far-right financial investigation",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/tredje-person-doms-i-janouch-harvan/"
+    },
+    {
+      "headline": "JO dismisses complaint against SD's Jomshof investigation",
+      "summary": "Parliamentary ombudsman writes off report against minister",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/jo-anmalan-mot-richard-jomshof-skrivs-av/"
+    },
+    {
+      "headline": "AI Sweden named Societal Actor of the Year",
+      "summary": "National AI centre honoured for leadership and impact",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/ai-sweden-honored-leadership-named-societal-actor-year"
+    },
+    {
+      "headline": "Labour Market AI Council presents first status report",
+      "summary": "New council examines AI impact on Swedish job market",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/labor-market-motion-labor-market-ai-council-presents-its-first-joint-status-report-how-ai"
+    },
+    {
+      "headline": "6-year-old denied school transport, must walk E12",
+      "summary": "Municipality rejects ride for child walking major highway",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/L45ag9/kommunen-nekar-skolskjuts-6-ariga-hjalmar-far-ga-pa-e12-i-forsmark?utm_medium=rss"
+    },
+    {
+      "headline": "Civilian evacuation exercises restart on Gotland",
+      "summary": "Island first to practice emergency population evacuation procedures",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/evakueringsovningar-for-civila-aterupptas-gotland-forst-ut/cG9zdDo2Mzc1NQ"
     }
   ]
 }

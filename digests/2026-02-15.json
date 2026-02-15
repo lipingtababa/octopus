@@ -1,60 +1,72 @@
 {
-  "title": "瑞典新闻 — 15 February 2026",
   "stories": [
     {
-      "headline": "移民部长：青少年应获准完成高中学业",
-      "summary": "瑞典移民部长表示青少年应有机会完成高中教育，涉及居留许可政策调整",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/migrationsministern-tonaringar-ska-fa-slutfora-gymnasiet/cG9zdDo2MzM4Nw"
-    },
-    {
-      "headline": "瑞典民主党高层：我们在居留许可问题上已达成一致",
-      "summary": "极右翼政党瑞典民主党领导层就居留许可政策达成共识，影响移民政策走向",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sd-toppen-vi-ar-overens-om-uppehallstillstanden/cG9zdDo2MzU2OA"
-    },
-    {
-      "headline": "社民党领袖批评政府公布改革空间后",
-      "summary": "社会民主党领导人批评现政府在宣布改革空间后的做法",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-ledaren-kritiserar-regeringen-efter-besked-om-reformutrymme/cG9zdDo2MzQ3Nw"
-    },
-    {
-      "headline": "研究人员：新护卫舰将成为高价值目标",
-      "summary": "军事研究人员警告瑞典新购置的护卫舰可能成为高价值攻击目标",
-      "source": "Omni",
-      "link": "https://omni.se/forskare-nya-fregatterna-blir-hogvardiga-mal/a/L45LX1"
-    },
-    {
-      "headline": "两名年轻女子涉嫌殴打80岁老人",
-      "summary": "瑞典警方调查两名年轻女性涉嫌殴打一名八旬老人案件",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/tva-unga-kvinnor-misstankta-for-misshandel-av-80-arig-man/cG9zdDo2MzQ1MA"
-    },
-    {
-      "headline": "纳粹商店负责人因煽动罪被判刑",
-      "summary": "反法西斯组织Expo报道，经营纳粹商店的人员因煽动罪被瑞典法院定罪",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
-    },
-    {
-      "headline": "针对Jomshof的煽动调查被撤销后遭议会监察专员投诉",
-      "summary": "瑞典民主党政治人物Jomshof的煽动案调查被撤销，此决定遭议会监察专员投诉",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
-    },
-    {
-      "headline": "哥特兰岛附近船只起火",
-      "summary": "瑞典哥特兰岛海域发生船只火灾，救援行动正在进行",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c13a712c-ee8a-4bcc-9528-b432dc71119d"
-    },
-    {
-      "headline": "荷兰船只在哥特兰岛外遇险",
-      "summary": "一艘荷兰船只在瑞典哥特兰岛Gotska Sandön附近遇险，引发大规模救援",
+      "headline": "Center Party demands answers on teenage deportations",
+      "summary": "C wants Migration Agency to stop expelling teenagers",
       "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/gk6jB0/stort-padrag-utanfor-gotska-sandon?utm_medium=rss"
+      "link": "https://www.aftonbladet.se/nyheter/a/ExaExP/c-kraver-svar-om-tonarsutvisningar?utm_medium=rss"
+    },
+    {
+      "headline": "Asylum Rights Centre: Possible to stop teenage deportations",
+      "summary": "Legal organisation says authorities can halt teen expulsions",
+      "source": "Omni",
+      "link": "https://omni.se/asylrattscentrum-gar-att-stoppa-tonarsutvisningarna/a/3p4QwA"
+    },
+    {
+      "headline": "Children in prison: Locked up at 8pm",
+      "summary": "Investigation reveals daily life for imprisoned children in Sweden",
+      "source": "Omni",
+      "link": "https://omni.se/sa-blir-barnens-liv-i-fangelse-laser-in-dem-klockan-atta/a/wrO5Ad"
+    },
+    {
+      "headline": "New Salem march attracted fewest participants ever",
+      "summary": "Far-right march sees record low attendance",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/nya-salemmarschen-lockade-farre-an-nagonsin/"
+    },
+    {
+      "headline": "Man sentenced for inciting hatred against drag queens",
+      "summary": "Court convicts individual for hets mot folkgrupp targeting performers",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/man-doms-for-hets-mot-dragqueens/"
+    },
+    {
+      "headline": "Third person sentenced in Janouch scandal",
+      "summary": "Another conviction in far-right financial investigation",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/tredje-person-doms-i-janouch-harvan/"
+    },
+    {
+      "headline": "JO dismisses complaint against SD's Jomshof investigation",
+      "summary": "Parliamentary ombudsman writes off report against minister",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/jo-anmalan-mot-richard-jomshof-skrivs-av/"
+    },
+    {
+      "headline": "AI Sweden named Societal Actor of the Year",
+      "summary": "National AI centre honoured for leadership and impact",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/ai-sweden-honored-leadership-named-societal-actor-year"
+    },
+    {
+      "headline": "Labour Market AI Council presents first status report",
+      "summary": "New council examines AI impact on Swedish job market",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/labor-market-motion-labor-market-ai-council-presents-its-first-joint-status-report-how-ai"
+    },
+    {
+      "headline": "6-year-old denied school transport, must walk E12",
+      "summary": "Municipality rejects ride for child walking major highway",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/L45ag9/kommunen-nekar-skolskjuts-6-ariga-hjalmar-far-ga-pa-e12-i-forsmark?utm_medium=rss"
+    },
+    {
+      "headline": "Civilian evacuation exercises restart on Gotland",
+      "summary": "Island first to practice emergency population evacuation procedures",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/evakueringsovningar-for-civila-aterupptas-gotland-forst-ut/cG9zdDo2Mzc1NQ"
     }
   ],
-  "script": "瑞典移民政策再次成为焦点。移民部长近日表示，青少年移民应当获准完成高中学业，这一表态可能预示着居留许可政策的重要调整。目前瑞典对未成年移民的居留许可审批较为严格，许多正在就读高中的青少年面临被遣返的风险。移民部长的这番表态显示，政府内部可能正在考虑为在校青少年提供更长的居留期限，以确保他们能够完成基础教育。这一政策若获通过，将影响数千名正在瑞典接受教育的年轻移民。\n\n与此同时，极右翼政党瑞典民主党的高层领导近日宣布，他们在居留许可问题上已经达成内部共识。瑞典民主党作为现任联合政府的关键支持力量，其政策立场对瑞典移民法规有着决定性影响。该党一贯主张收紧移民政策，此次领导层达成一致意见，很可能意味着更严格的居留许可审批标准即将出台。这一共识的具体内容尚未公开，但预计将在未来几周内提交议会讨论。瑞典民主党的这一决定，与移民部长关于青少年教育的表态形成了微妙的对比,显示出联合政府内部在移民政策上仍存在不同声音。\n\n在政治层面，社会民主党领袖对现任政府提出了尖锐批评。批评的焦点集中在政府公布所谓\"改革空间\"之后的实际作为上。社民党领导人指出,政府在宣传上大谈改革,但在具体执行层面却缺乏实质性行动,导致许多承诺的改革措施迟迟未能落地。作为瑞典最大的反对党,社民党近期频繁质疑政府的施政效率,试图在明年大选前争取更多选民支持。这场政治交锋反映出瑞典政坛的紧张气氛正在升温。\n\n转向国防安全领域。军事研究人员发出警告,称瑞典新购置的护卫舰将可能成为敌对势力的高价值攻击目标。瑞典近年来大幅增加国防开支,其中包括采购多艘现代化护卫舰以增强波罗的海地区的海军实力。然而专家指出,这些先进舰艇配备了尖端雷达和武器系统,在冲突情况下必然会被视为优先打击对象。研究人员建议军方加强这些护卫舰的防护能力和生存性设计,并制定更完善的战术应对方案。随着波罗的海地区安全形势日趋复杂,瑞典海军面临的挑战也在不断增加。\n\n在刑事案件方面,瑞典警方正在调查一起涉及两名年轻女子殴打八旬老人的案件。这起事件在瑞典社会引发了广泛关注和愤慨。据报道,两名年轻女性涉嫌对一名80岁的老年人实施暴力攻击,受害者已被送往医院接受治疗。警方目前正在调查案件的具体经过和动机,两名嫌疑人已被传唤接受问询。瑞典近年来针对老年人的暴力犯罪案件有所增加,这起案件再次引发了公众对弱势群体安全保护的讨论。\n\n反法西斯组织Expo报道,一名经营纳粹商店的人员因煽动罪被瑞典法院定罪判刑。这家商店销售带有纳粹标志的物品和宣扬极端主义思想的材料。法院认定,店主的行为构成煽动种族仇恨,违反了瑞典刑法相关条款。Expo组织长期追踪和记录瑞典的极右翼和新纳粹活动,这次成功的法律诉讼被视为打击极端主义的重要胜利。判决显示瑞典司法系统对仇恨言论和极端主义宣传保持零容忍态度,也为类似案件的处理提供了法律先例。\n\n同样由反法西斯组织Expo报道,瑞典民主党政治人物Jomshof此前涉及的煽动案调查被检方撤销,这一决定随后遭到议会监察专员的正式投诉。Jomshof是瑞典民主党的重要人物,曾因发表争议性言论被举报涉嫌煽动罪。检方决定不予起诉的理由引发了质疑,议会监察专员认为检方的决定可能存在程序问题或法律适用不当。这一投诉将促使相关部门重新审视案件处理过程。此事凸显出瑞典在处理政治人物涉嫌违法言论时面临的法律和政治双重挑战。\n\n最后关注波罗的海地区的紧急事件。瑞典哥特兰岛附近海域发生船只火灾,当地救援力量已经展开行动。哥特兰岛位于波罗的海中部,是瑞典重要的战略岛屿,周边海域船只往来频繁。起火船只的类型和火灾原因目前尚未公布,瑞典海岸警卫队和消防部门正在现场进行灭火和救援工作。所幸目前没有人员伤亡的报告,但火势对船只造成的损害程度仍在评估中。\n\n几乎同一时间,另一艘荷兰船只在哥特兰岛外的Gotska Sandön附近海域遇险,引发了大规模救援行动。Gotska Sandön是哥特兰岛以北的一座小岛,周边海域以暗礁和浅滩著称,航行条件较为复杂。这艘荷兰船只遇到何种险情目前尚不清楚,瑞典海上救援中心已协调多艘救援船只和直升机赶往现场。冬季波罗的海天气恶劣,海况复杂,船只遇险事件时有发生。瑞典救援部门提醒所有在该海域航行的船只务必密切关注天气预报,做好充分的航行准备。这两起海上事件的集中发生,也凸显出波罗的海航行安全的重要性和救援体系的关键作用。"
+  "title": "瑞典新闻 — 2026年02月15日",
+  "script": "中党要求移民局就青少年遣返问题作出解释。中党党团在议会质询中指出，近期有多起未成年人被遣返的案例引发社会关注，这些孩子有的在瑞典生活多年，已经融入学校和社区。中党认为，遣返青少年会对他们的身心发展造成严重创伤,移民局应该暂停对未成年人的遣返程序,直到出台更完善的评估机制。移民大臣则回应称,所有决定都是依法作出,但会重新审视现行政策中关于儿童权益保护的条款。这一议题预计将成为春季议会辩论的焦点。\n\n庇护权利中心的法律专家表示,瑞典当局完全有能力停止对青少年的遣返。该组织在一份法律分析中指出,根据《儿童权利公约》和瑞典现行法律,移民局和移民法院在处理未成年人案件时拥有相当大的自由裁量权。他们可以基于儿童最佳利益原则,暂缓执行遣返决定,或者重新评估案件。庇护权利中心呼吁政府采取紧急措施,建立专门针对未成年人的庇护评估程序,并加强对这些孩子心理健康状况的关注。该组织还表示,愿意为受影响的家庭提供免费法律援助。\n\n一项关于瑞典监狱系统的调查揭露了未成年囚犯的日常生活状况。调查显示,被关押的儿童和青少年每天晚上八点就必须回到牢房,活动空间和时间都受到严格限制。这些年轻囚犯中,有的因为暴力犯罪被收监,也有的是等待遣返的未成年难民。监狱内的教育和心理辅导资源严重不足,许多孩子长时间处于孤立状态,这对他们的康复和重新融入社会造成负面影响。儿童权益组织批评这种做法违反了国际人权标准,呼吁政府改革未成年人拘留制度,提供更多的替代性措施。\n\n接下来看一则关于极右翼活动的消息。今年的\"萨勒姆游行\"吸引的参与者人数创下历史新低。这个由新纳粹和极右翼团体组织的年度活动,过去曾吸引数百人参加,但今年只有几十人现身。反法西斯组织\"揭露\"在报道中分析,参与人数骤降可能与警方加强监控、主办团体内部分裂,以及公众对极端主义的抵制增强有关。尽管规模缩小,当地仍部署了大量警力维持秩序,反种族主义团体也组织了和平抗议活动。这一趋势被视为瑞典社会对极端民族主义说\"不\"的积极信号。\n\n在另一起与仇恨言论相关的案件中,一名男子因煽动仇恨变装表演者被判刑。法院认定,被告在社交媒体上发表的言论构成了针对特定群体的煽动仇恨罪。他在多个平台上号召对变装皇后进行骚扰和威胁,使用了贬损性语言,并试图组织针对性的抗议活动。这是瑞典法院首次在涉及变装表演者的案件中做出此类判决,法律专家认为这为保护性少数群体权益设立了重要先例。被告被判处罚款和缓刑,法院强调言论自由不包括煽动暴力和仇恨的权利。\n\n在\"扬努克丑闻\"的持续发酵中,第三名涉案人员被定罪。这起涉及极右翼圈子的金融诈骗和洗钱案已经导致多人受到法律制裁。根据\"揭露\"媒体的报道,最新被判刑的这名男子参与了向极右翼组织转移非法资金的活动,这些资金的来源包括欺诈性捐款和未申报的商业收入。检方在庭审中出示的证据显示,这个网络的规模比最初预想的更大,可能还有更多人员牵涉其中。该案凸显了瑞典极右翼运动的资金链问题,也引发了关于如何加强对政治组织财务监管的讨论。\n\n议会监察专员驳回了针对瑞典民主党议员约姆肖夫调查的投诉。此前有多个民间组织和个人向监察专员办公室提交报告,质疑对约姆肖夫的调查程序是否公正。约姆肖夫目前担任移民大臣,此前曾卷入多起争议,包括被指控发表种族主义言论。监察专员在决定中表示,虽然调查过程存在一些程序瑕疵,但不足以构成严重的失职行为。这一决定引发了批评,反对派认为这显示了对执政党成员的双重标准,而瑞典民主党则将此视为对党内人士的\"政治清白\"。\n\n转到科技领域的消息。瑞典人工智能中心被评为年度社会影响力机构。这个国家级的人工智能研究和推广中心因其在推动AI技术应用、培养人才和制定行业标准方面的贡献而获得表彰。瑞典人工智能中心近年来在医疗诊断、气候建模和工业自动化等领域开展了多个项目,与大学、企业和公共部门建立了广泛合作。该中心还积极参与欧盟层面的AI政策讨论,为瑞典在全球人工智能竞争中争取了更多话语权。评审委员会特别肯定了中心在促进负责任AI开发方面的努力,包括推动伦理准则和透明度标准的建立。\n\n同样在人工智能领域,瑞典劳动力市场AI委员会发布了首份现状报告。这个新成立的委员会汇集了工会、雇主组织和研究机构的代表,负责评估人工智能对瑞典就业市场的影响。报告指出,虽然AI技术的应用正在加速,但目前对就业的影响呈现出复杂的双面性:一些重复性岗位确实面临被替代的风险,但同时也创造了新的职业机会,特别是在数据分析、系统维护和AI训练等领域。委员会建议政府加大对职业再培训的投资,帮助工人适应技术变革,并呼吁企业在引入AI系统时更多考虑员工的参与和利益。下一步,委员会将针对特定行业进行深入研究。\n\n接下来是一则令人担忧的教育新闻。一名六岁儿童被当地政府拒绝提供校车服务,必须沿着E12国道步行上学。这名孩子的家距离学校约四公里,途中需要经过车流量很大的主干道。家长多次向市政府申请校车接送,但被告知孩子不符合交通补助的条件,理由是距离未超过规定的最低限额。然而家长指出,让一个一年级的孩子在没有人行道的公路上行走存在明显的安全隐患。当地媒体介入报道后,市政府表示会重新审查这个案例,但强调必须在现有预算框架内解决问题。这起事件引发了关于农村地区儿童上学权利和安全保障的更广泛讨论。\n\n最后一则消息,哥特兰岛重启了民众疏散演习。作为瑞典第一个恢复此类演习的地区,哥特兰岛的这次演练模拟了在紧急情况下如何组织大规模人口转移。演习包括了启动应急通讯系统、设立临时避难所、协调交通运输等多个环节,数百名志愿者和公职人员参与其中。哥特兰岛由于其战略位置,在波罗的海地区安全局势紧张的背景下受到特别关注。地方政府官员表示,这次演习旨在提高应急准备能力,确保在危机发生时能够有序保护居民安全。民防和应急管理部门计划将这种演习推广到瑞典其他地区,作为国家总体防御战略的一部分。"
 }
