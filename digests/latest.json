@@ -1,74 +1,68 @@
 {
-  "date": "2026-02-15",
-  "title": "瑞典新闻 — 2026年02月15日",
-  "audio_url": "digests/2026-02-15.mp3",
-  "duration_seconds": 346,
+  "date": "2026-02-16",
+  "title": "瑞典新闻 — 2026年02月16日",
+  "audio_url": "digests/2026-02-16.mp3",
+  "duration_seconds": 399,
   "stories": [
     {
-      "headline": "Center Party demands answers on teenage deportations",
-      "summary": "C wants Migration Agency to stop expelling teenagers",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/ExaExP/c-kraver-svar-om-tonarsutvisningar?utm_medium=rss"
-    },
-    {
-      "headline": "Asylum Rights Centre: Possible to stop teenage deportations",
-      "summary": "Legal organisation says authorities can halt teen expulsions",
-      "source": "Omni",
-      "link": "https://omni.se/asylrattscentrum-gar-att-stoppa-tonarsutvisningarna/a/3p4QwA"
-    },
-    {
-      "headline": "Children in prison: Locked up at 8pm",
-      "summary": "Investigation reveals daily life for imprisoned children in Sweden",
-      "source": "Omni",
-      "link": "https://omni.se/sa-blir-barnens-liv-i-fangelse-laser-in-dem-klockan-atta/a/wrO5Ad"
-    },
-    {
-      "headline": "New Salem march attracted fewest participants ever",
-      "summary": "Far-right march sees record low attendance",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/nya-salemmarschen-lockade-farre-an-nagonsin/"
-    },
-    {
-      "headline": "Man sentenced for inciting hatred against drag queens",
-      "summary": "Court convicts individual for hets mot folkgrupp targeting performers",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/man-doms-for-hets-mot-dragqueens/"
-    },
-    {
-      "headline": "Third person sentenced in Janouch scandal",
-      "summary": "Another conviction in far-right financial investigation",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/tredje-person-doms-i-janouch-harvan/"
-    },
-    {
-      "headline": "JO dismisses complaint against SD's Jomshof investigation",
-      "summary": "Parliamentary ombudsman writes off report against minister",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/jo-anmalan-mot-richard-jomshof-skrivs-av/"
-    },
-    {
-      "headline": "AI Sweden named Societal Actor of the Year",
-      "summary": "National AI centre honoured for leadership and impact",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/ai-sweden-honored-leadership-named-societal-actor-year"
-    },
-    {
-      "headline": "Labour Market AI Council presents first status report",
-      "summary": "New council examines AI impact on Swedish job market",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/labor-market-motion-labor-market-ai-council-presents-its-first-joint-status-report-how-ai"
-    },
-    {
-      "headline": "6-year-old denied school transport, must walk E12",
-      "summary": "Municipality rejects ride for child walking major highway",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/L45ag9/kommunen-nekar-skolskjuts-6-ariga-hjalmar-far-ga-pa-e12-i-forsmark?utm_medium=rss"
-    },
-    {
-      "headline": "Civilian evacuation exercises restart on Gotland",
-      "summary": "Island first to practice emergency population evacuation procedures",
+      "headline": "Flashback hit by major DDoS attack",
+      "summary": "Popular Swedish forum targeted by large overload attack",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/evakueringsovningar-for-civila-aterupptas-gotland-forst-ut/cG9zdDo2Mzc1NQ"
+      "link": "https://kvartal.se/nyheter/artiklar/stor-overbelastningsattack-mot-flashback/cG9zdDo2MzgxOA"
+    },
+    {
+      "headline": "School employee in Vingåker detained for rape",
+      "summary": "School staff member requested to be detained",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/skolanstalld-i-vingaker-begard-haktad-for-valdtakter/cG9zdDo2Mzg3NA"
+    },
+    {
+      "headline": "Kumla prepares facility for criminal children",
+      "summary": "Five teachers to handle young offenders",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/kumla-forbereder-for-att-ta-emot-kriminella-barn/cG9zdDo2MzgyMw"
+    },
+    {
+      "headline": "Left party local politician spread Russian propaganda",
+      "summary": "V did not act despite knowledge",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/lindashanwell/artiklar/vansterpartistisk-lokalpolitiker-spred-rysk-propaganda/cG9zdDo2MzgzNQ"
+    },
+    {
+      "headline": "SD promises strengthened Nordic cooperation",
+      "summary": "Aron Emilsson pledges closer Nordic ties if elected",
+      "source": "Omni",
+      "link": "https://omni.se/aron-emilsson-lovar-starkt-nordiskt-samarbete-om-sd-far-plats-i-regering/a/3p4Q99"
+    },
+    {
+      "headline": "Sida to use aid to facilitate deportations",
+      "summary": "Aid as leverage for countries accepting deportees",
+      "source": "Omni",
+      "link": "https://omni.se/sida-ska-forma-lander-ta-emot-utvisade-med-bistand/a/8pQVzQ"
+    },
+    {
+      "headline": "Sweden loses revenue when electricity sent to Finland",
+      "summary": "State and Norrland affected by electricity exports",
+      "source": "Omni",
+      "link": "https://omni.se/sa-forlorar-staten-och-norrland-nar-elen-skickas-till-finland/a/e7EKqO"
+    },
+    {
+      "headline": "Customs lacks equipment to scan drug containers",
+      "summary": "No Swedish port has fixed x-ray technology",
+      "source": "SVT",
+      "link": "https://www.svt.se/nyheter/inrikes/tullen-missar-knarkcontainrar-nar-ny-teknik-drojer"
+    },
+    {
+      "headline": "Sharp object found at Farsta residence",
+      "summary": "Same address had small explosion weeks ago",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/krim/farligt-foremal-hittat-i-farsta/"
+    },
+    {
+      "headline": "Museums prepare to protect cultural heritage in war",
+      "summary": "Contingency plans and priority lists being developed",
+      "source": "SVT",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/museernas-uppdrag-radda-kulturarvet-om-kriget-kommer"
     }
   ]
 }
