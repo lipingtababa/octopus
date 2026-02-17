@@ -1,68 +1,68 @@
 {
-  "date": "2026-02-16",
-  "title": "瑞典新闻 — 2026年02月16日",
-  "audio_url": "digests/2026-02-16.mp3",
-  "duration_seconds": 399,
+  "date": "2026-02-17",
+  "title": "瑞典新闻 — 2026年02月17日",
+  "audio_url": "digests/2026-02-17.mp3",
+  "duration_seconds": 356,
   "stories": [
     {
-      "headline": "Flashback hit by major DDoS attack",
-      "summary": "Popular Swedish forum targeted by large overload attack",
+      "headline": "Fiscal Policy Council criticises government's budget",
+      "summary": "Council delivers harsh criticism of fiscal policy decisions",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/stor-overbelastningsattack-mot-flashback/cG9zdDo2MzgxOA"
+      "link": "https://kvartal.se/nyheter/artiklar/regeringens-budget-kritiserad-av-finanspolitiska-radet/cG9zdDo2NDEzOQ"
     },
     {
-      "headline": "School employee in Vingåker detained for rape",
-      "summary": "School staff member requested to be detained",
+      "headline": "87 FGM cases discovered in Västerås",
+      "summary": "87 girls found to have undergone genital mutilation",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/skolanstalld-i-vingaker-begard-haktad-for-valdtakter/cG9zdDo2Mzg3NA"
+      "link": "https://kvartal.se/nyheter/artiklar/87-fall-av-konsstympade-flickor-upptackta-i-vasteras/cG9zdDo2Mzk5NA"
     },
     {
-      "headline": "Kumla prepares facility for criminal children",
-      "summary": "Five teachers to handle young offenders",
+      "headline": "Shortage of forensic psychology places leaves convicts free",
+      "summary": "Twenty convicted individuals at large due to capacity shortage",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/kumla-forbereder-for-att-ta-emot-kriminella-barn/cG9zdDo2MzgyMw"
+      "link": "https://kvartal.se/nyheter/artiklar/platsbrist-pa-rattspsyk-tjugotal-domda-pa-fri-fot/cG9zdDo2Mzk4NQ"
     },
     {
-      "headline": "Left party local politician spread Russian propaganda",
-      "summary": "V did not act despite knowledge",
+      "headline": "Teenage deportations under pressure from multiple parties",
+      "summary": "MP and V push S and L to halt deportations",
       "source": "Kvartal",
-      "link": "https://kvartal.se/lindashanwell/artiklar/vansterpartistisk-lokalpolitiker-spred-rysk-propaganda/cG9zdDo2MzgzNQ"
+      "link": "https://kvartal.se/nyheter/artiklar/mp-och-v-pressar-s-och-l-att-stoppa-tonarsutvisningarna/cG9zdDo2NDI2MA"
     },
     {
-      "headline": "SD promises strengthened Nordic cooperation",
-      "summary": "Aron Emilsson pledges closer Nordic ties if elected",
+      "headline": "Healthcare worker and babies face deportation threat",
+      "summary": "New deportation rules threaten workers and Swedish-born children",
       "source": "Omni",
-      "link": "https://omni.se/aron-emilsson-lovar-starkt-nordiskt-samarbete-om-sd-far-plats-i-regering/a/3p4Q99"
+      "link": "https://omni.se/darfor-hotas-vardpersonal-och-bebisar-av-utvisning/a/JOxLE8"
     },
     {
-      "headline": "Sida to use aid to facilitate deportations",
-      "summary": "Aid as leverage for countries accepting deportees",
+      "headline": "Record re-migration grant applications but few approved",
+      "summary": "272 applications received but none granted initially",
       "source": "Omni",
-      "link": "https://omni.se/sida-ska-forma-lander-ta-emot-utvisade-med-bistand/a/8pQVzQ"
+      "link": "https://omni.se/inga-atervandringsbidrag-beviljade-272-ansokningar-i-borjan-av-aret/a/vr5pVX"
     },
     {
-      "headline": "Sweden loses revenue when electricity sent to Finland",
-      "summary": "State and Norrland affected by electricity exports",
-      "source": "Omni",
-      "link": "https://omni.se/sa-forlorar-staten-och-norrland-nar-elen-skickas-till-finland/a/e7EKqO"
-    },
-    {
-      "headline": "Customs lacks equipment to scan drug containers",
-      "summary": "No Swedish port has fixed x-ray technology",
+      "headline": "School students increasingly negative towards LGBTQI people",
+      "summary": "Forum survey shows marked shift in youth tolerance",
       "source": "SVT",
-      "link": "https://www.svt.se/nyheter/inrikes/tullen-missar-knarkcontainrar-nar-ny-teknik-drojer"
+      "link": "https://www.svt.se/nyheter/inrikes/fler-unga-ar-negativa-till-homosexuella-och-transpersoner-forvanande"
     },
     {
-      "headline": "Sharp object found at Farsta residence",
-      "summary": "Same address had small explosion weeks ago",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/krim/farligt-foremal-hittat-i-farsta/"
+      "headline": "Fraud becoming Sweden's most common crime",
+      "summary": "Fraud cases surge to top of crime statistics",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/bedragerier-pa-vag-att-bli-vanligaste-brottet-i-sverige/cG9zdDo2NDQ1Ng"
     },
     {
-      "headline": "Museums prepare to protect cultural heritage in war",
-      "summary": "Contingency plans and priority lists being developed",
-      "source": "SVT",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/museernas-uppdrag-radda-kulturarvet-om-kriget-kommer"
+      "headline": "S considers pure Social Democrat minority government",
+      "summary": "Baudin says one-party government is viable option",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/baudin-om-regeringsfragan-dumt-att-stanga-dorren-till-en-ren-s-regering/"
+    },
+    {
+      "headline": "Electricity costs surge with new power charge model",
+      "summary": "New pricing system heavily criticised, savings tricks available",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/sa-kan-elkostnaderna-sankas-med-tusenlappar/"
     }
   ]
 }
