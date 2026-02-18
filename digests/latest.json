@@ -1,68 +1,80 @@
 {
-  "date": "2026-02-17",
-  "title": "瑞典新闻 — 2026年02月17日",
-  "audio_url": "digests/2026-02-17.mp3",
-  "duration_seconds": 356,
+  "date": "2026-02-18",
+  "title": "瑞典新闻 — 2026年02月18日",
+  "audio_url": "digests/2026-02-18.mp3",
+  "duration_seconds": 376,
   "stories": [
     {
-      "headline": "Fiscal Policy Council criticises government's budget",
-      "summary": "Council delivers harsh criticism of fiscal policy decisions",
+      "headline": "Explosion in Rinkeby for second consecutive night",
+      "summary": "Same apartment building targeted two nights running",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/regeringens-budget-kritiserad-av-finanspolitiska-radet/cG9zdDo2NDEzOQ"
+      "link": "https://kvartal.se/nyheter/artiklar/explosion-i-rinkeby-for-andra-natten-i-rad/cG9zdDo2NTA5NA"
     },
     {
-      "headline": "87 FGM cases discovered in Västerås",
-      "summary": "87 girls found to have undergone genital mutilation",
+      "headline": "Government establishes crisis commission for healthcare",
+      "summary": "New commission to address healthcare system crisis",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/87-fall-av-konsstympade-flickor-upptackta-i-vasteras/cG9zdDo2Mzk5NA"
+      "link": "https://kvartal.se/nyheter/artiklar/regeringen-inrattar-kriskommission-for-varden/cG9zdDo2NDk3OA"
     },
     {
-      "headline": "Shortage of forensic psychology places leaves convicts free",
-      "summary": "Twenty convicted individuals at large due to capacity shortage",
+      "headline": "Man suspected of selling wife to 120 men was family home",
+      "summary": "Family home provider faces extensive trafficking allegations",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/platsbrist-pa-rattspsyk-tjugotal-domda-pa-fri-fot/cG9zdDo2Mzk4NQ"
+      "link": "https://kvartal.se/nyheter/artiklar/misstanks-att-ha-salt-sin-fru-till-120-man-var-familjehem/cG9zdDo2NDk0OQ"
     },
     {
-      "headline": "Teenage deportations under pressure from multiple parties",
-      "summary": "MP and V push S and L to halt deportations",
+      "headline": "Tidö coalition split on migration policy",
+      "summary": "Disagreement over revoking permanent residence permits",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/mp-och-v-pressar-s-och-l-att-stoppa-tonarsutvisningarna/cG9zdDo2NDI2MA"
+      "link": "https://kvartal.se/nyheter/artiklar/spricka-i-tido-om-migrationen/cG9zdDo2NTEwMQ"
     },
     {
-      "headline": "Healthcare worker and babies face deportation threat",
-      "summary": "New deportation rules threaten workers and Swedish-born children",
-      "source": "Omni",
-      "link": "https://omni.se/darfor-hotas-vardpersonal-och-bebisar-av-utvisning/a/JOxLE8"
+      "headline": "SD: M 'cannot be trusted' on migration",
+      "summary": "Sweden Democrats criticise Moderates over residence permit issue",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/politik/sd-kallor-m-gar-inte-att-lita-pa/"
     },
     {
-      "headline": "Record re-migration grant applications but few approved",
-      "summary": "272 applications received but none granted initially",
-      "source": "Omni",
-      "link": "https://omni.se/inga-atervandringsbidrag-beviljade-272-ansokningar-i-borjan-av-aret/a/vr5pVX"
-    },
-    {
-      "headline": "School students increasingly negative towards LGBTQI people",
-      "summary": "Forum survey shows marked shift in youth tolerance",
-      "source": "SVT",
-      "link": "https://www.svt.se/nyheter/inrikes/fler-unga-ar-negativa-till-homosexuella-och-transpersoner-forvanande"
-    },
-    {
-      "headline": "Fraud becoming Sweden's most common crime",
-      "summary": "Fraud cases surge to top of crime statistics",
+      "headline": "Clear majority opposes teenage expulsions",
+      "summary": "Public opinion against deporting underage migrants",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/bedragerier-pa-vag-att-bli-vanligaste-brottet-i-sverige/cG9zdDo2NDQ1Ng"
+      "link": "https://kvartal.se/nyheter/artiklar/klar-majoritet-emot-tonarsutvisningar/cG9zdDo2NDkxMQ"
     },
     {
-      "headline": "S considers pure Social Democrat minority government",
-      "summary": "Baudin says one-party government is viable option",
+      "headline": "Pedophile ring exposed in Sweden",
+      "summary": "Network calling themselves 'peddos and pervs' uncovered",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/pedos-and-pervs-svensken-bakom-natverket/cG9zdDo2NTA5Ng"
+    },
+    {
+      "headline": "Four inmates arrested after suspected murder attempt in prison",
+      "summary": "Prison violence leads to attempted murder charges",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/fyra-intagna-anhallna-efter-misstankt-mordforsok-pa-anstalt/cG9zdDo2NTA2Nw"
+    },
+    {
+      "headline": "SSU chairman in Köping threatened with deportation to Iraq",
+      "summary": "21-year-old activist faces expulsion after ten years",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/baudin-om-regeringsfragan-dumt-att-stanga-dorren-till-en-ren-s-regering/"
+      "link": "https://www.dn.se/sverige/ssus-ordforande-i-koping-hotas-av-utvisning-till-irak/"
     },
     {
-      "headline": "Electricity costs surge with new power charge model",
-      "summary": "New pricing system heavily criticised, savings tricks available",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/sa-kan-elkostnaderna-sankas-med-tusenlappar/"
+      "headline": "Employment gap shrinks for foreign-born workers",
+      "summary": "More foreign-born Swedes employed, narrowing employment gap",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/ekonomi/fler-utlandsfodda-far-jobb-gapet-minskar-snabbt/"
+    },
+    {
+      "headline": "Shortcomings in Cosmic journal system purchase",
+      "summary": "Problems identified in healthcare IT system procurement",
+      "source": "Sveriges Radio Ekot",
+      "link": "https://www.sverigesradio.se/artikel/9160147"
+    },
+    {
+      "headline": "Report shows increased intolerance among young people",
+      "summary": "Youth unwilling to live near LGBT persons",
+      "source": "Omni",
+      "link": "https://omni.se/vill-inte-bo-granne-med-hbt-person-rapport-visar-okad-intolerans-bland-unga/a/QJyB0R"
     }
   ]
 }
