@@ -1,80 +1,68 @@
 {
-  "date": "2026-02-18",
-  "title": "瑞典新闻 — 2026年02月18日",
-  "audio_url": "digests/2026-02-18.mp3",
-  "duration_seconds": 376,
+  "date": "2026-02-19",
+  "title": "瑞典新闻 — 2026年02月19日",
+  "audio_url": "digests/2026-02-19.mp3",
+  "duration_seconds": 361,
   "stories": [
     {
-      "headline": "Explosion in Rinkeby for second consecutive night",
-      "summary": "Same apartment building targeted two nights running",
+      "headline": "Strong opposition within Liberalerna against residence permit proposal",
+      "summary": "Internal party conflict over migration policy proposal",
+      "source": "Ekot",
+      "link": "https://kvartal.se/nyheter/artiklar/ekot-starkt-motstand-mot-forslag-om-uppehallsforslag-inom-l/cG9zdDo2NTQxMg"
+    },
+    {
+      "headline": "Suspected bribery within SL - received millions",
+      "summary": "Stockholm public transport official suspected of corruption",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/explosion-i-rinkeby-for-andra-natten-i-rad/cG9zdDo2NTA5NA"
+      "link": "https://kvartal.se/nyheter/artiklar/misstank-mutharva-inom-sl-tog-emot-miljoner/cG9zdDo2NTQ0Mw"
     },
     {
-      "headline": "Government establishes crisis commission for healthcare",
-      "summary": "New commission to address healthcare system crisis",
+      "headline": "SD opens for changes in migration policy",
+      "summary": "Sweden Democrats signal flexibility on immigration stance",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/regeringen-inrattar-kriskommission-for-varden/cG9zdDo2NDk3OA"
+      "link": "https://kvartal.se/nyheter/artiklar/sd-oppnar-for-andringar-i-migrationspolitiken/cG9zdDo2NTYyMQ"
     },
     {
-      "headline": "Man suspected of selling wife to 120 men was family home",
-      "summary": "Family home provider faces extensive trafficking allegations",
+      "headline": "Kristersson proposes chemical castration of paedophiles",
+      "summary": "Prime Minister suggests controversial punishment for sex offenders",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/misstanks-att-ha-salt-sin-fru-till-120-man-var-familjehem/cG9zdDo2NDk0OQ"
+      "link": "https://kvartal.se/nyheter/artiklar/kristersson-foreslar-kemisk-kastrering-av-pedofiler/cG9zdDo2NTY2MQ"
     },
     {
-      "headline": "Tidö coalition split on migration policy",
-      "summary": "Disagreement over revoking permanent residence permits",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/spricka-i-tido-om-migrationen/cG9zdDo2NTEwMQ"
-    },
-    {
-      "headline": "SD: M 'cannot be trusted' on migration",
-      "summary": "Sweden Democrats criticise Moderates over residence permit issue",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/politik/sd-kallor-m-gar-inte-att-lita-pa/"
-    },
-    {
-      "headline": "Clear majority opposes teenage expulsions",
-      "summary": "Public opinion against deporting underage migrants",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/klar-majoritet-emot-tonarsutvisningar/cG9zdDo2NDkxMQ"
-    },
-    {
-      "headline": "Pedophile ring exposed in Sweden",
-      "summary": "Network calling themselves 'peddos and pervs' uncovered",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/pedos-and-pervs-svensken-bakom-natverket/cG9zdDo2NTA5Ng"
-    },
-    {
-      "headline": "Four inmates arrested after suspected murder attempt in prison",
-      "summary": "Prison violence leads to attempted murder charges",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/fyra-intagna-anhallna-efter-misstankt-mordforsok-pa-anstalt/cG9zdDo2NTA2Nw"
-    },
-    {
-      "headline": "SSU chairman in Köping threatened with deportation to Iraq",
-      "summary": "21-year-old activist faces expulsion after ten years",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/ssus-ordforande-i-koping-hotas-av-utvisning-till-irak/"
-    },
-    {
-      "headline": "Employment gap shrinks for foreign-born workers",
-      "summary": "More foreign-born Swedes employed, narrowing employment gap",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/ekonomi/fler-utlandsfodda-far-jobb-gapet-minskar-snabbt/"
-    },
-    {
-      "headline": "Shortcomings in Cosmic journal system purchase",
-      "summary": "Problems identified in healthcare IT system procurement",
-      "source": "Sveriges Radio Ekot",
-      "link": "https://www.sverigesradio.se/artikel/9160147"
-    },
-    {
-      "headline": "Report shows increased intolerance among young people",
-      "summary": "Youth unwilling to live near LGBT persons",
+      "headline": "Trump's new world order makes Sweden discuss euro adoption",
+      "summary": "Geopolitical shifts revive Swedish euro currency debate",
       "source": "Omni",
-      "link": "https://omni.se/vill-inte-bo-granne-med-hbt-person-rapport-visar-okad-intolerans-bland-unga/a/QJyB0R"
+      "link": "https://omni.se/ny-varldsordning-far-sverige-att-blasa-liv-i-eurodebatten/a/6q605o"
+    },
+    {
+      "headline": "Long waiting times in healthcare most important to voters",
+      "summary": "Healthcare queues top voter priority ahead of election",
+      "source": "Omni",
+      "link": "https://omni.se/langa-vantetider-i-varden-ar-viktigast-for-valjarna/a/K8zxBX"
+    },
+    {
+      "headline": "Nobody wants to build wind power anymore",
+      "summary": "Wind power investments in Sweden stop completely",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/ingen-vill-bygga-vindkraft-langre/"
+    },
+    {
+      "headline": "Teacher caught with child pornography could return to work",
+      "summary": "Police blocked from alerting independent schools about suspects",
+      "source": "SVT",
+      "link": "https://www.svt.se/nyheter/granskning/ug/larare-greps-med-barnpornografi-kunde-atervanda-till-jobbet"
+    },
+    {
+      "headline": "Nooshi Dadgostar: S must change on teenage expulsions",
+      "summary": "V leader demands Social Democrats reverse migration policy",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/nooshi-dadgostar-s-maste-andra-sig-det-ar-inte-vardigt/"
+    },
+    {
+      "headline": "Lucas arranged Zoom meetings for global paedophile network",
+      "summary": "Swedish man led international child abuse coordination group",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/Gx3LKB/pedofilen-lucas-karlsson-ledde-globalt-pedofilnatverk?utm_medium=rss"
     }
   ]
 }
