@@ -5,9 +5,7 @@
   var playerControls = document.getElementById('player-controls');
   var loadingIndicator = document.getElementById('loading-indicator');
   var statusArea = document.getElementById('status-area');
-  var storiesSection = document.getElementById('stories-section');
   var pastSection = document.getElementById('past-section');
-  var storiesList = document.getElementById('stories-list');
   var pastList = document.getElementById('past-list');
   var digestTitle = document.getElementById('digest-title');
   var digestDate = document.getElementById('digest-date');
@@ -148,7 +146,7 @@
     }
 
     localStorage.setItem(STORAGE_KEY, digest.date);
-    renderStories(digest.stories);
+
   }
 
   function showUpToDate(digest) {
@@ -168,7 +166,7 @@
       loadDigest(digest, true);
     });
 
-    renderStories(digest.stories);
+
   }
 
   function showError(message) {
@@ -180,29 +178,6 @@
     show(statusArea);
   }
 
-  // --- Stories (secondary) ---
-
-  function renderStories(stories) {
-    if (!stories || stories.length === 0) {
-      hide(storiesSection);
-      return;
-    }
-
-    storiesList.innerHTML = '';
-    stories.forEach(function (story) {
-      var card = document.createElement('a');
-      card.className = 'story-card';
-      card.href = story.link;
-      card.target = '_blank';
-      card.rel = 'noopener noreferrer';
-      card.innerHTML =
-        '<h3 class="story-headline">' + escapeHtml(story.headline) + '</h3>' +
-        '<p class="story-summary">' + escapeHtml(story.summary) + '</p>' +
-        '<span class="story-source">' + escapeHtml(story.source) + '</span>';
-      storiesList.appendChild(card);
-    });
-    show(storiesSection);
-  }
 
   // --- Past Digests ---
 

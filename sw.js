@@ -1,4 +1,4 @@
-var CACHE_NAME = 'octopus-v2';
+var CACHE_NAME = 'octopus-v3';
 
 var STATIC_ASSETS = [
   './',
