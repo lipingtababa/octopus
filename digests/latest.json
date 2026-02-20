@@ -1,68 +1,68 @@
 {
-  "date": "2026-02-19",
-  "title": "瑞典新闻 — 2026年02月19日",
-  "audio_url": "digests/2026-02-19.mp3",
-  "duration_seconds": 361,
+  "date": "2026-02-20",
+  "title": "瑞典新闻 — 2026年02月20日",
+  "audio_url": "digests/2026-02-20.mp3",
+  "duration_seconds": 296,
   "stories": [
     {
-      "headline": "Strong opposition within Liberalerna against residence permit proposal",
-      "summary": "Internal party conflict over migration policy proposal",
-      "source": "Ekot",
-      "link": "https://kvartal.se/nyheter/artiklar/ekot-starkt-motstand-mot-forslag-om-uppehallsforslag-inom-l/cG9zdDo2NTQxMg"
-    },
-    {
-      "headline": "Suspected bribery within SL - received millions",
-      "summary": "Stockholm public transport official suspected of corruption",
+      "headline": "Sweden develops war app to warn of air raids",
+      "summary": "Civil Contingencies Agency creating mobile air raid warning system",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/misstank-mutharva-inom-sl-tog-emot-miljoner/cG9zdDo2NTQ0Mw"
+      "link": "https://kvartal.se/nyheter/artiklar/mcf-tar-fram-krigsapp-prototyp-klar-inom-ett-halvar/cG9zdDo2NjQyNA"
     },
     {
-      "headline": "SD opens for changes in migration policy",
-      "summary": "Sweden Democrats signal flexibility on immigration stance",
+      "headline": "Åkesson backs down from controversial migration law",
+      "summary": "Sweden Democrats leader reverses position on disputed immigration legislation",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sd-oppnar-for-andringar-i-migrationspolitiken/cG9zdDo2NTYyMQ"
+      "link": "https://kvartal.se/nyheter/artiklar/akesson-backar-fran-omstridd-migrationslag/cG9zdDo2NjE3MA"
     },
     {
-      "headline": "Kristersson proposes chemical castration of paedophiles",
-      "summary": "Prime Minister suggests controversial punishment for sex offenders",
+      "headline": "SD proposes lifetime electronics ban for child sex offenders",
+      "summary": "Sweden Democrats suggest permanent digital device restrictions after convictions",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/kristersson-foreslar-kemisk-kastrering-av-pedofiler/cG9zdDo2NTY2MQ"
+      "link": "https://kvartal.se/nyheter/artiklar/sd-obestamd-inlasning-och-livstidsforbud-mot-elektronik-vid-sexualbrott-mot-barn/cG9zdDo2NjE3OA"
     },
     {
-      "headline": "Trump's new world order makes Sweden discuss euro adoption",
-      "summary": "Geopolitical shifts revive Swedish euro currency debate",
-      "source": "Omni",
-      "link": "https://omni.se/ny-varldsordning-far-sverige-att-blasa-liv-i-eurodebatten/a/6q605o"
+      "headline": "Woman dismissed after suspected poisonings at Akademiska hospital",
+      "summary": "Healthcare worker fired following poisoning investigation at Uppsala hospital",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/kvinna-avskedas-efter-misstankta-forgiftningar-pa-akademiska/cG9zdDo2NjEwOA"
     },
     {
-      "headline": "Long waiting times in healthcare most important to voters",
-      "summary": "Healthcare queues top voter priority ahead of election",
-      "source": "Omni",
-      "link": "https://omni.se/langa-vantetider-i-varden-ar-viktigast-for-valjarna/a/K8zxBX"
+      "headline": "Busch opens for stopping criticized electricity effect tariffs",
+      "summary": "Minister considers halting controversial power grid tariff structure",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/busch-oppnar-for-stopp-av-effekttarifferna/cG9zdDo2NjEzOQ"
     },
     {
-      "headline": "Nobody wants to build wind power anymore",
-      "summary": "Wind power investments in Sweden stop completely",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/ingen-vill-bygga-vindkraft-langre/"
+      "headline": "SD pressures SVT and SR about external collaborations",
+      "summary": "Sweden Democrats question public broadcasters over partnership arrangements",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/sd-trycker-pa-svt-och-sr-om-samarbeten/cG9zdDo2NjEwNw"
     },
     {
-      "headline": "Teacher caught with child pornography could return to work",
-      "summary": "Police blocked from alerting independent schools about suspects",
-      "source": "SVT",
-      "link": "https://www.svt.se/nyheter/granskning/ug/larare-greps-med-barnpornografi-kunde-atervanda-till-jobbet"
-    },
-    {
-      "headline": "Nooshi Dadgostar: S must change on teenage expulsions",
-      "summary": "V leader demands Social Democrats reverse migration policy",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/nooshi-dadgostar-s-maste-andra-sig-det-ar-inte-vardigt/"
-    },
-    {
-      "headline": "Lucas arranged Zoom meetings for global paedophile network",
-      "summary": "Swedish man led international child abuse coordination group",
+      "headline": "Large majority wants to stop teenage deportations",
+      "summary": "Voters support reintroducing special circumstances to prevent youth expulsions",
       "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/Gx3LKB/pedofilen-lucas-karlsson-ledde-globalt-pedofilnatverk?utm_medium=rss"
+      "link": "https://www.aftonbladet.se/nyheter/a/5pGaoz/stor-majoritet-vill-stoppa-tonarsutvisningarna-visar-demoskop?utm_medium=rss"
+    },
+    {
+      "headline": "Long queues of data centres could raise electricity prices",
+      "summary": "Grid connection demand may double consumption within fifteen years",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/sverige/lang-ko-av-nya-elslukare-kan-lyfta-elpriset/"
+    },
+    {
+      "headline": "Government enables increased fossil exports after energy lobbying",
+      "summary": "Rule changes boost fossil support despite climate commitments",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/regeringen-oppnar-for-okad-fossilexport-efter-lobbykampanj-fran-energibolag/"
+    },
+    {
+      "headline": "Åkesson links anti-Semitism to immigration in statement",
+      "summary": "SD leader connects rising anti-Semitism to migration patterns",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/akesson-antisemitism-ar-kopplad-till-invandring/cG9zdDo2NjQyOQ"
     }
   ]
 }
