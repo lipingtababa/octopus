@@ -1,68 +1,80 @@
 {
-  "date": "2026-02-20",
-  "title": "瑞典新闻 — 2026年02月20日",
-  "audio_url": "digests/2026-02-20.mp3",
-  "duration_seconds": 296,
+  "date": "2026-02-21",
+  "title": "瑞典新闻 — 2026年02月21日",
+  "audio_url": "digests/2026-02-21.mp3",
+  "duration_seconds": 324,
   "stories": [
     {
-      "headline": "Sweden develops war app to warn of air raids",
-      "summary": "Civil Contingencies Agency creating mobile air raid warning system",
+      "headline": "Kvartal warns of long waiting times in elderly care",
+      "summary": "Elderly care facing increased delays and capacity issues",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/mcf-tar-fram-krigsapp-prototyp-klar-inom-ett-halvar/cG9zdDo2NjQyNA"
+      "link": "https://kvartal.se/nyheter/artiklar/varnar-for-langa-vantetider-i-aldreomsorgen/cG9zdDo2NjQ3OA"
     },
     {
-      "headline": "Åkesson backs down from controversial migration law",
-      "summary": "Sweden Democrats leader reverses position on disputed immigration legislation",
+      "headline": "Man in 20s wanted in custody for terrorist organisation",
+      "summary": "Swedish authorities seek detention for terrorism participation suspect",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/akesson-backar-fran-omstridd-migrationslag/cG9zdDo2NjE3MA"
+      "link": "https://kvartal.se/nyheter/artiklar/man-i-20-arsaldern-begard-haktad-for-deltagande-i-terrororganisation/cG9zdDo2NjQ5NQ"
     },
     {
-      "headline": "SD proposes lifetime electronics ban for child sex offenders",
-      "summary": "Sweden Democrats suggest permanent digital device restrictions after convictions",
+      "headline": "Ebba Busch KU-notified after rising electricity prices",
+      "summary": "Energy minister faces constitutional committee scrutiny over power cables",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sd-obestamd-inlasning-och-livstidsforbud-mot-elektronik-vid-sexualbrott-mot-barn/cG9zdDo2NjE3OA"
+      "link": "https://kvartal.se/nyheter/artiklar/ebba-busch-ku-anmald-for-elkabel-till-finland/cG9zdDo2NjY4OA"
     },
     {
-      "headline": "Woman dismissed after suspected poisonings at Akademiska hospital",
-      "summary": "Healthcare worker fired following poisoning investigation at Uppsala hospital",
+      "headline": "Gävle man charged with over 50 child rapes",
+      "summary": "Major child sexual abuse prosecution in central Sweden",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/kvinna-avskedas-efter-misstankta-forgiftningar-pa-akademiska/cG9zdDo2NjEwOA"
+      "link": "https://kvartal.se/nyheter/artiklar/man-fran-gavle-atalas-for-over-50-valdtakter-mot-barn/cG9zdDo2NjcyNQ"
     },
     {
-      "headline": "Busch opens for stopping criticized electricity effect tariffs",
-      "summary": "Minister considers halting controversial power grid tariff structure",
+      "headline": "Social Democrats back chemical castration for paedophiles",
+      "summary": "Opposition party shifts position on controversial sentencing measure",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/busch-oppnar-for-stopp-av-effekttarifferna/cG9zdDo2NjEzOQ"
+      "link": "https://kvartal.se/nyheter/artiklar/s-sager-ja-till-kemisk-kastrering-av-pedofiler/cG9zdDo2Njg1MA"
     },
     {
-      "headline": "SD pressures SVT and SR about external collaborations",
-      "summary": "Sweden Democrats question public broadcasters over partnership arrangements",
+      "headline": "S backs down on stopping 18-year-old deportations",
+      "summary": "Social Democrats withdraw proposal on immigration age limits",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sd-trycker-pa-svt-och-sr-om-samarbeten/cG9zdDo2NjEwNw"
+      "link": "https://kvartal.se/nyheter/artiklar/s-forslag-om-att-stoppa-artonarsutvisningar/cG9zdDo2NjkzNw"
     },
     {
-      "headline": "Large majority wants to stop teenage deportations",
-      "summary": "Voters support reintroducing special circumstances to prevent youth expulsions",
+      "headline": "Government launches Swedish AI model",
+      "summary": "National artificial intelligence system unveiled by authorities",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/regeringen-lanserar-svensk-ai-modell/cG9zdDo2NzEwMg"
+    },
+    {
+      "headline": "Abandoned hate crime investigation against Jomshof JO-notified",
+      "summary": "Parliamentary ombudsman receives complaint over dropped SD case",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
+    },
+    {
+      "headline": "Two Nazis charged after Pride action disruption",
+      "summary": "Extremists face prosecution following anti-Pride demonstration",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/efter-aktion-mot-pride-tva-nazister-atalas/"
+    },
+    {
+      "headline": "Nazi shop manager convicted of incitement",
+      "summary": "Person responsible for extremist retail outlet found guilty",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
+    },
+    {
+      "headline": "Schools with most complaints registered by municipality",
+      "summary": "Aftonbladet compiles national School Inspectorate reports since 2022",
       "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/5pGaoz/stor-majoritet-vill-stoppa-tonarsutvisningarna-visar-demoskop?utm_medium=rss"
+      "link": "https://www.aftonbladet.se/nyheter/a/9pKxnl/ny-lista-skolorna-i-sverige-med-flest-anmalningar?utm_medium=rss"
     },
     {
-      "headline": "Long queues of data centres could raise electricity prices",
-      "summary": "Grid connection demand may double consumption within fifteen years",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/sverige/lang-ko-av-nya-elslukare-kan-lyfta-elpriset/"
-    },
-    {
-      "headline": "Government enables increased fossil exports after energy lobbying",
-      "summary": "Rule changes boost fossil support despite climate commitments",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/regeringen-oppnar-for-okad-fossilexport-efter-lobbykampanj-fran-energibolag/"
-    },
-    {
-      "headline": "Åkesson links anti-Semitism to immigration in statement",
-      "summary": "SD leader connects rising anti-Semitism to migration patterns",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/akesson-antisemitism-ar-kopplad-till-invandring/cG9zdDo2NjQyOQ"
+      "headline": "Heavy villa fire in Kristinehamn, ten children evacuated",
+      "summary": "Multiple children and adults escape burning house safely",
+      "source": "SVT",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/kraftig-brand-i-villa-i-kristinehamn-minst-tio-barn-evakuerade"
     }
   ]
 }
