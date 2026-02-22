@@ -1,80 +1,68 @@
 {
-  "date": "2026-02-21",
-  "title": "瑞典新闻 — 2026年02月21日",
-  "audio_url": "digests/2026-02-21.mp3",
-  "duration_seconds": 324,
+  "date": "2026-02-22",
+  "title": "瑞典新闻 — 2026年02月22日",
+  "audio_url": "digests/2026-02-22.mp3",
+  "duration_seconds": 330,
   "stories": [
     {
-      "headline": "Kvartal warns of long waiting times in elderly care",
-      "summary": "Elderly care facing increased delays and capacity issues",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/varnar-for-langa-vantetider-i-aldreomsorgen/cG9zdDo2NjQ3OA"
-    },
-    {
-      "headline": "Man in 20s wanted in custody for terrorist organisation",
-      "summary": "Swedish authorities seek detention for terrorism participation suspect",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/man-i-20-arsaldern-begard-haktad-for-deltagande-i-terrororganisation/cG9zdDo2NjQ5NQ"
-    },
-    {
-      "headline": "Ebba Busch KU-notified after rising electricity prices",
-      "summary": "Energy minister faces constitutional committee scrutiny over power cables",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/ebba-busch-ku-anmald-for-elkabel-till-finland/cG9zdDo2NjY4OA"
-    },
-    {
-      "headline": "Gävle man charged with over 50 child rapes",
-      "summary": "Major child sexual abuse prosecution in central Sweden",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/man-fran-gavle-atalas-for-over-50-valdtakter-mot-barn/cG9zdDo2NjcyNQ"
-    },
-    {
-      "headline": "Social Democrats back chemical castration for paedophiles",
-      "summary": "Opposition party shifts position on controversial sentencing measure",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-sager-ja-till-kemisk-kastrering-av-pedofiler/cG9zdDo2Njg1MA"
-    },
-    {
-      "headline": "S backs down on stopping 18-year-old deportations",
-      "summary": "Social Democrats withdraw proposal on immigration age limits",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-forslag-om-att-stoppa-artonarsutvisningar/cG9zdDo2NjkzNw"
-    },
-    {
-      "headline": "Government launches Swedish AI model",
-      "summary": "National artificial intelligence system unveiled by authorities",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/regeringen-lanserar-svensk-ai-modell/cG9zdDo2NzEwMg"
-    },
-    {
-      "headline": "Abandoned hate crime investigation against Jomshof JO-notified",
-      "summary": "Parliamentary ombudsman receives complaint over dropped SD case",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
-    },
-    {
-      "headline": "Two Nazis charged after Pride action disruption",
-      "summary": "Extremists face prosecution following anti-Pride demonstration",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/efter-aktion-mot-pride-tva-nazister-atalas/"
-    },
-    {
-      "headline": "Nazi shop manager convicted of incitement",
-      "summary": "Person responsible for extremist retail outlet found guilty",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
-    },
-    {
-      "headline": "Schools with most complaints registered by municipality",
-      "summary": "Aftonbladet compiles national School Inspectorate reports since 2022",
+      "headline": "Explosion at villa in Nacka outside Stockholm",
+      "summary": "Detonation damages property in residential area early Sunday",
       "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/9pKxnl/ny-lista-skolorna-i-sverige-med-flest-anmalningar?utm_medium=rss"
+      "link": "https://www.aftonbladet.se/nyheter/a/e7Ebm9/larm-om-small-utanfor-stockholm?utm_medium=rss"
     },
     {
-      "headline": "Heavy villa fire in Kristinehamn, ten children evacuated",
-      "summary": "Multiple children and adults escape burning house safely",
-      "source": "SVT",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/kraftig-brand-i-villa-i-kristinehamn-minst-tio-barn-evakuerade"
+      "headline": "Eight-month-old baby issued deportation order",
+      "summary": "Infant's case sparks political debate on deportation policy",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/inrikes/kan-en-bebis-utvisas"
+    },
+    {
+      "headline": "Liberals in Gothenburg open to SD cooperation",
+      "summary": "L party says yes to governing with Sweden Democrats",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/l-i-goteborg-sager-ja-till-sd-samarbete/cG9zdDo2NzQ4NA"
+    },
+    {
+      "headline": "Magdalena Andersson: strict migration policy here to stay",
+      "summary": "S leader rules out compromise on migration with opposition",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/magdalena-andersson-att-stram-migration-behovs-ar-fast-forankrat/"
+    },
+    {
+      "headline": "Sky-high electricity prices worry Swedish customers",
+      "summary": "Record energy costs causing concern among Swedish households",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/skyhoga-elpriser-oroar-kunder/cG9zdDo2NzM2Ng"
+    },
+    {
+      "headline": "Nazi convicted for disrupting Social Democrat meeting",
+      "summary": "Court sentences far-right activist over political disruption",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/ytterligare-en-nazist-doms-efter-storning-av-s-mote/"
+    },
+    {
+      "headline": "University of Gothenburg removes post after terrorism criticism",
+      "summary": "GU takes down seminar announcement following public backlash",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/gu-tar-ned-inlagg-efter-terrorkritik/cG9zdDo2NzMzNg"
+    },
+    {
+      "headline": "EU abortion funding vote imminent",
+      "summary": "EU to decide on cross-border abortion financial support",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/j0a6Mz/snart-avgors-det-ska-alla-i-eu-kunna-gora-abort?utm_medium=rss"
+    },
+    {
+      "headline": "AI Sweden strengthens Canadian ties in high-level visit",
+      "summary": "National AI organisation builds international partnerships",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/ai-sweden-strengthens-canadian-ties-during-high-level-business-visit"
+    },
+    {
+      "headline": "Parken Zoo targets pensioners for summer jobs",
+      "summary": "Eskilstuna zoo recruits retirees among 300 seasonal workers",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/parken-zoo-vill-ha-pensionarer-som-sommarjobbare-en-bra-mix"
     }
   ]
 }
