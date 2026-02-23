@@ -1,68 +1,68 @@
 {
-  "date": "2026-02-22",
-  "title": "瑞典新闻 — 2026年02月22日",
-  "audio_url": "digests/2026-02-22.mp3",
-  "duration_seconds": 330,
+  "date": "2026-02-23",
+  "title": "瑞典新闻 — 2026年02月23日",
+  "audio_url": "digests/2026-02-23.mp3",
+  "duration_seconds": 337,
   "stories": [
     {
-      "headline": "Explosion at villa in Nacka outside Stockholm",
-      "summary": "Detonation damages property in residential area early Sunday",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/e7Ebm9/larm-om-small-utanfor-stockholm?utm_medium=rss"
+      "headline": "SEB suspects accounts used to circumvent Russia sanctions",
+      "summary": "Swedish bank flags potential sanctions violations linked to Russia.",
+      "source": "Sveriges Radio Ekot",
+      "link": "https://www.sverigesradio.se/artikel/9163128"
     },
     {
-      "headline": "Eight-month-old baby issued deportation order",
-      "summary": "Infant's case sparks political debate on deportation policy",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/kan-en-bebis-utvisas"
-    },
-    {
-      "headline": "Liberals in Gothenburg open to SD cooperation",
-      "summary": "L party says yes to governing with Sweden Democrats",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/l-i-goteborg-sager-ja-till-sd-samarbete/cG9zdDo2NzQ4NA"
-    },
-    {
-      "headline": "Magdalena Andersson: strict migration policy here to stay",
-      "summary": "S leader rules out compromise on migration with opposition",
+      "headline": "Denmark drops Palantir over security fears, Swedish police continue",
+      "summary": "Denmark exits Palantir contract; Sweden's justice minister dismisses concerns.",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/magdalena-andersson-att-stram-migration-behovs-ar-fast-forankrat/"
+      "link": "https://www.dn.se/ledare/isobel-hadley-kamptz-danmark-sager-upp-palantir-av-sakerhetsskal-svensk-polis-fortsatter/"
     },
     {
-      "headline": "Sky-high electricity prices worry Swedish customers",
-      "summary": "Record energy costs causing concern among Swedish households",
+      "headline": "Gang rapist escapes deportation",
+      "summary": "Court rules gang criminal cannot be deported despite conviction.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/skyhoga-elpriser-oroar-kunder/cG9zdDo2NzM2Ng"
+      "link": "https://kvartal.se/nyheter/artiklar/gangkriminell-valdtaktsman-slipper-utvisning/cG9zdDo2NzgwNA"
     },
     {
-      "headline": "Nazi convicted for disrupting Social Democrat meeting",
-      "summary": "Court sentences far-right activist over political disruption",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/ytterligare-en-nazist-doms-efter-storning-av-s-mote/"
-    },
-    {
-      "headline": "University of Gothenburg removes post after terrorism criticism",
-      "summary": "GU takes down seminar announcement following public backlash",
+      "headline": "Mental violence to become criminal offence this summer",
+      "summary": "New law criminalising psychological abuse passes Swedish parliament.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/gu-tar-ned-inlagg-efter-terrorkritik/cG9zdDo2NzMzNg"
+      "link": "https://kvartal.se/nyheter/artiklar/psykiskt-vald-ska-bli-straffbart-i-sommar/cG9zdDo2Nzg4Nw"
     },
     {
-      "headline": "EU abortion funding vote imminent",
-      "summary": "EU to decide on cross-border abortion financial support",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/j0a6Mz/snart-avgors-det-ska-alla-i-eu-kunna-gora-abort?utm_medium=rss"
+      "headline": "L party rejects conversion of permanent residence permits",
+      "summary": "Liberals block proposal to convert permanent residency status.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/l-sager-nej-till-omvandling-av-permanenta-uppehallstillstand/cG9zdDo2ODA1Mg"
     },
     {
-      "headline": "AI Sweden strengthens Canadian ties in high-level visit",
-      "summary": "National AI organisation builds international partnerships",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/ai-sweden-strengthens-canadian-ties-during-high-level-business-visit"
-    },
-    {
-      "headline": "Parken Zoo targets pensioners for summer jobs",
-      "summary": "Eskilstuna zoo recruits retirees among 300 seasonal workers",
+      "headline": "SSAB fossil-free steel to German defence giant Rheinmetall",
+      "summary": "Oxelösund steel mill signs letter of intent with Rheinmetall.",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/parken-zoo-vill-ha-pensionarer-som-sommarjobbare-en-bra-mix"
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/fossilfritt-stal-fran-ssab-i-oxelosund-till-tyska-forsvarsjatten-rheinmetall"
+    },
+    {
+      "headline": "Swedish embassy warns citizens after Mexico cartel unrest",
+      "summary": "Embassy issues alert after cartel leader killed, chaos erupts.",
+      "source": "Omni",
+      "link": "https://omni.se/ambassaden-varnar-svenskar-efter-oroligheterna/a/oEWJ9a"
+    },
+    {
+      "headline": "Shingles vaccine may reduce dementia risk",
+      "summary": "New research links vaccine to lower dementia incidence in Sweden.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/det-har-vet-vi-om-baltrosvaccin-och-demens/"
+    },
+    {
+      "headline": "Fire in central Stockholm, young man arrested",
+      "summary": "Arson suspected after early morning blaze on Kungsholmen.",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/Exa0y5/brand-i-centrala-stockholm-ung-man-gripen?utm_medium=rss"
+    },
+    {
+      "headline": "Lund University: Writing style can reveal when you are lying",
+      "summary": "Thesis shows text patterns expose deception, not just speech.",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/ny-forskning-ditt-skrivande-kan-avsloja-nar-du-ljuger"
     }
   ]
 }
