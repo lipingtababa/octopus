@@ -1,68 +1,68 @@
 {
-  "date": "2026-02-23",
-  "title": "瑞典新闻 — 2026年02月23日",
-  "audio_url": "digests/2026-02-23.mp3",
-  "duration_seconds": 337,
+  "date": "2026-02-24",
+  "title": "瑞典新闻 — 2026年02月24日",
+  "audio_url": "digests/2026-02-24.mp3",
+  "duration_seconds": 344,
   "stories": [
     {
-      "headline": "SEB suspects accounts used to circumvent Russia sanctions",
-      "summary": "Swedish bank flags potential sanctions violations linked to Russia.",
-      "source": "Sveriges Radio Ekot",
-      "link": "https://www.sverigesradio.se/artikel/9163128"
-    },
-    {
-      "headline": "Denmark drops Palantir over security fears, Swedish police continue",
-      "summary": "Denmark exits Palantir contract; Sweden's justice minister dismisses concerns.",
+      "headline": "Four minors arrested after fatal shooting in Eskilstuna",
+      "summary": "25-year-old man shot dead at restaurant, four teens arrested",
       "source": "DN",
-      "link": "https://www.dn.se/ledare/isobel-hadley-kamptz-danmark-sager-upp-palantir-av-sakerhetsskal-svensk-polis-fortsatter/"
+      "link": "https://www.dn.se/sverige/fyra-minderariga-gripna-efter-dodskjutningen-i-eskilstuna/"
     },
     {
-      "headline": "Gang rapist escapes deportation",
-      "summary": "Court rules gang criminal cannot be deported despite conviction.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/gangkriminell-valdtaktsman-slipper-utvisning/cG9zdDo2NzgwNA"
-    },
-    {
-      "headline": "Mental violence to become criminal offence this summer",
-      "summary": "New law criminalising psychological abuse passes Swedish parliament.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/psykiskt-vald-ska-bli-straffbart-i-sommar/cG9zdDo2Nzg4Nw"
-    },
-    {
-      "headline": "L party rejects conversion of permanent residence permits",
-      "summary": "Liberals block proposal to convert permanent residency status.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/l-sager-nej-till-omvandling-av-permanenta-uppehallstillstand/cG9zdDo2ODA1Mg"
-    },
-    {
-      "headline": "SSAB fossil-free steel to German defence giant Rheinmetall",
-      "summary": "Oxelösund steel mill signs letter of intent with Rheinmetall.",
+      "headline": "Man seriously injured after stabbing in Malmö",
+      "summary": "Man stabbed with knife on Monday evening",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/fossilfritt-stal-fran-ssab-i-oxelosund-till-tyska-forsvarsjatten-rheinmetall"
+      "link": "https://www.svt.se/nyheter/lokalt/skane/man-allvarligt-skadad-efter-knivhugg-i-malmo"
     },
     {
-      "headline": "Swedish embassy warns citizens after Mexico cartel unrest",
-      "summary": "Embassy issues alert after cartel leader killed, chaos erupts.",
+      "headline": "Nuclear reactor taken offline, may affect electricity prices",
+      "summary": "Unexpected failure keeps reactor offline until end of May",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/reaktor-stoppas-till-slutet-av-maj-kan-paverka-elpriset-i-sverige/cG9zdDo2ODMwNQ"
+    },
+    {
+      "headline": "Tougher benefit requirements for immigrants proposed",
+      "summary": "Government tightening conditions for immigrant welfare grants",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/hardare-krav-for-bidrag-till-invandrare/cG9zdDo2ODM1Mg"
+    },
+    {
+      "headline": "Supercomputers a major threat to healthcare sector",
+      "summary": "RISE warns of AI computing power risks to healthcare",
       "source": "Omni",
-      "link": "https://omni.se/ambassaden-varnar-svenskar-efter-oroligheterna/a/oEWJ9a"
+      "link": "https://omni.se/rise-superdatorer-ett-allvarligt-hot-mot-vardsektorn/a/WvRb1K"
     },
     {
-      "headline": "Shingles vaccine may reduce dementia risk",
-      "summary": "New research links vaccine to lower dementia incidence in Sweden.",
+      "headline": "Deepseek accused of stealing data from Anthropic",
+      "summary": "Chinese AI firm accused of training data theft",
+      "source": "Omni",
+      "link": "https://omni.se/anthropic-anklagar-kinesiska-ai-bolag-for-datastold/a/L4lAGx"
+    },
+    {
+      "headline": "Closed al-Hol camp: unclear where Sweden-linked women and children are",
+      "summary": "IS camp shut; Swedish connections unaccounted for",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/det-har-vet-vi-om-baltrosvaccin-och-demens/"
+      "link": "https://www.dn.se/varlden/okanda-al-hol-lagret-har-stangts-oklart-var-kvinnorna-och-barnen-med-sverigekoppling-finns/"
     },
     {
-      "headline": "Fire in central Stockholm, young man arrested",
-      "summary": "Arson suspected after early morning blaze on Kungsholmen.",
+      "headline": "Nordic cancer funds warn EU about white snus",
+      "summary": "Cancer organisations urge EU to tighten white snus rules",
       "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/Exa0y5/brand-i-centrala-stockholm-ung-man-gripen?utm_medium=rss"
+      "link": "https://www.aftonbladet.se/nyheter/a/QJ7oXR/nordiska-cancerfonder-varnar-eu-for-vitt-snus?utm_medium=rss"
     },
     {
-      "headline": "Lund University: Writing style can reveal when you are lying",
-      "summary": "Thesis shows text patterns expose deception, not just speech.",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/skane/ny-forskning-ditt-skrivande-kan-avsloja-nar-du-ljuger"
+      "headline": "Salem march draws lowest turnout ever",
+      "summary": "Far-right annual march attendance hits new low",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/nya-salemmarschen-lockade-farre-an-nagonsin/"
+    },
+    {
+      "headline": "Man convicted of inciting hatred against drag queens",
+      "summary": "Swedish court sentences man for hate speech conviction",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/man-doms-for-hets-mot-dragqueens/"
     }
   ]
 }
