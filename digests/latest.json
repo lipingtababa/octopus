@@ -1,68 +1,68 @@
 {
-  "date": "2026-02-24",
-  "title": "瑞典新闻 — 2026年02月24日",
-  "audio_url": "digests/2026-02-24.mp3",
-  "duration_seconds": 344,
+  "date": "2026-02-25",
+  "title": "瑞典新闻 — 2026年02月25日",
+  "audio_url": "digests/2026-02-25.mp3",
+  "duration_seconds": 346,
   "stories": [
     {
-      "headline": "Four minors arrested after fatal shooting in Eskilstuna",
-      "summary": "25-year-old man shot dead at restaurant, four teens arrested",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/fyra-minderariga-gripna-efter-dodskjutningen-i-eskilstuna/"
+      "headline": "One third of Tidö Agreement points unresolved before election",
+      "summary": "Major coalition deal incomplete with one year until polls",
+      "source": "Omni",
+      "link": "https://omni.se/en-tredjedel-av-tidoavtalets-punkter-obehandlade-ett-ar-innan-valet/a/K8nzJM"
     },
     {
-      "headline": "Man seriously injured after stabbing in Malmö",
-      "summary": "Man stabbed with knife on Monday evening",
+      "headline": "EU asylum rules changing: rejections without examination",
+      "summary": "New EU rules allow asylum rejection without full review",
+      "source": "Omni",
+      "link": "https://omni.se/avslag-utan-provning-nu-andras-spelreglerna-for-asyl-i-eu/a/Okry0A"
+    },
+    {
+      "headline": "SD's soul: Muslims don't belong in Sweden at all",
+      "summary": "DN columnist analyses SD's core stance on Muslim integration",
+      "source": "DN",
+      "link": "https://www.dn.se/ledare/lisa-magnusson-det-later-som-tom-populism-men-i-sjalva-verket-ar-detta-sds-sjal/"
+    },
+    {
+      "headline": "Swedish embassy in Somalia: ambassador pressured Sida chief",
+      "summary": "Diplomat threatened official over aid funds, then expelled",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/harda-pressen-inne-pa-svenska-ambassaden-avslojas-av-chatt/"
+    },
+    {
+      "headline": "Sweden gives 250 million in humanitarian aid to Ukraine",
+      "summary": "Quarter-billion kronor package announced for Ukraine relief",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/sverige-ger-kvarts-miljard-i-humanitart-stod-till-ukraina/cG9zdDo2ODg4MA"
+    },
+    {
+      "headline": "Minister Pourmokhtari wants to scrap contested climate goal",
+      "summary": "Energy minister moves to remove debated emissions target",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/pourmokhtari-vill-skrota-omdebatterat-klimatmal/cG9zdDo2ODg4Ng"
+    },
+    {
+      "headline": "Swedes downloading child abuse material at higher rates than Norwegians",
+      "summary": "Norwegian police sting reveals Swedes more willing to download",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/skane/man-allvarligt-skadad-efter-knivhugg-i-malmo"
+      "link": "https://www.svt.se/nyheter/granskning/ug/tror-att-de-laddar-ner-barnpornografi-mots-av-polisen"
     },
     {
-      "headline": "Nuclear reactor taken offline, may affect electricity prices",
-      "summary": "Unexpected failure keeps reactor offline until end of May",
+      "headline": "Suspected gang leader Rawa Majid linked to alias Don Fox",
+      "summary": "Alias tied to fugitive Swedish gang leader Rawa Majid",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/reaktor-stoppas-till-slutet-av-maj-kan-paverka-elpriset-i-sverige/cG9zdDo2ODMwNQ"
+      "link": "https://kvartal.se/nyheter/artiklar/aliaset-don-fox-misstanks-vara-rawa-majid/cG9zdDo2OTAzMA"
     },
     {
-      "headline": "Tougher benefit requirements for immigrants proposed",
-      "summary": "Government tightening conditions for immigrant welfare grants",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/hardare-krav-for-bidrag-till-invandrare/cG9zdDo2ODM1Mg"
+      "headline": "AI Sweden named societal actor of the year",
+      "summary": "National AI organisation recognised for societal contributions",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/ai-sweden-honored-leadership-named-societal-actor-year"
     },
     {
-      "headline": "Supercomputers a major threat to healthcare sector",
-      "summary": "RISE warns of AI computing power risks to healthcare",
-      "source": "Omni",
-      "link": "https://omni.se/rise-superdatorer-ett-allvarligt-hot-mot-vardsektorn/a/WvRb1K"
-    },
-    {
-      "headline": "Deepseek accused of stealing data from Anthropic",
-      "summary": "Chinese AI firm accused of training data theft",
-      "source": "Omni",
-      "link": "https://omni.se/anthropic-anklagar-kinesiska-ai-bolag-for-datastold/a/L4lAGx"
-    },
-    {
-      "headline": "Closed al-Hol camp: unclear where Sweden-linked women and children are",
-      "summary": "IS camp shut; Swedish connections unaccounted for",
-      "source": "DN",
-      "link": "https://www.dn.se/varlden/okanda-al-hol-lagret-har-stangts-oklart-var-kvinnorna-och-barnen-med-sverigekoppling-finns/"
-    },
-    {
-      "headline": "Nordic cancer funds warn EU about white snus",
-      "summary": "Cancer organisations urge EU to tighten white snus rules",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/QJ7oXR/nordiska-cancerfonder-varnar-eu-for-vitt-snus?utm_medium=rss"
-    },
-    {
-      "headline": "Salem march draws lowest turnout ever",
-      "summary": "Far-right annual march attendance hits new low",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/nya-salemmarschen-lockade-farre-an-nagonsin/"
-    },
-    {
-      "headline": "Man convicted of inciting hatred against drag queens",
-      "summary": "Swedish court sentences man for hate speech conviction",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/man-doms-for-hets-mot-dragqueens/"
+      "headline": "LLMs being used to analyse Swedish healthcare incidents",
+      "summary": "AI tools applied to patient safety incident analysis in Sweden",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/large-language-models-analyze-healthcare-incidents"
     }
   ]
 }
