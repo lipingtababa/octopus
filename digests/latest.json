@@ -1,68 +1,80 @@
 {
-  "date": "2026-02-25",
-  "title": "瑞典新闻 — 2026年02月25日",
-  "audio_url": "digests/2026-02-25.mp3",
-  "duration_seconds": 346,
+  "date": "2026-02-26",
+  "title": "瑞典新闻 — 2026年02月26日",
+  "audio_url": "digests/2026-02-26.mp3",
+  "duration_seconds": 384,
   "stories": [
     {
-      "headline": "One third of Tidö Agreement points unresolved before election",
-      "summary": "Major coalition deal incomplete with one year until polls",
+      "headline": "39 HVB homes closed after serious deficiencies",
+      "summary": "Inspections find major failings at residential care homes",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/39-hvb-hem-stangda-efter-allvarliga-brister/cG9zdDo2OTQ3NA"
+    },
+    {
+      "headline": "All prison sentences can lead to deportation",
+      "summary": "Government sharpens rules linking criminal sentences to expulsion",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/skarpta-straff-for-utvisningar/cG9zdDo2OTUzNg"
+    },
+    {
+      "headline": "Business warns: deportations threaten Sweden's prosperity",
+      "summary": "Industry voices alarm over economic impact of expulsion policy",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/naringslivet-utvisningarna-hotar-sveriges-valstand/cG9zdDo2OTYyNA"
+    },
+    {
+      "headline": "Liberals vote no to pause on 18-year-old expulsions",
+      "summary": "L rejects moratorium despite record-low poll numbers",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/l-rostar-nej-till-paus-for-artonarsutvisningar/cG9zdDo2OTY3Mg"
+    },
+    {
+      "headline": "79 lawyers: Withdrawing residence permits is illegal",
+      "summary": "Legal experts say government's residency revocations breach law",
       "source": "Omni",
-      "link": "https://omni.se/en-tredjedel-av-tidoavtalets-punkter-obehandlade-ett-ar-innan-valet/a/K8nzJM"
+      "link": "https://omni.se/79-jurister-olagligt-att-dra-tillbaka-uppehallstillstand/a/Pd43b0"
     },
     {
-      "headline": "EU asylum rules changing: rejections without examination",
-      "summary": "New EU rules allow asylum rejection without full review",
+      "headline": "Liberals hit new record low in polling",
+      "summary": "Party far below 4% threshold, majority expects Riksdag exit",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/politik/matning-majoritet-tror-att-l-aker-ur-riksdagen/"
+    },
+    {
+      "headline": "Åkesson demands Morgan Johansson resign over X post",
+      "summary": "SD leader calls on Social Democrat to quit after retweet row",
       "source": "Omni",
-      "link": "https://omni.se/avslag-utan-provning-nu-andras-spelreglerna-for-asyl-i-eu/a/Okry0A"
+      "link": "https://omni.se/akesson-kraver-johanssons-avgang-efter-delning-pa-x/a/BxWxPw"
     },
     {
-      "headline": "SD's soul: Muslims don't belong in Sweden at all",
-      "summary": "DN columnist analyses SD's core stance on Muslim integration",
+      "headline": "Train punctuality at rock bottom in new statistics",
+      "summary": "Cancelled trains now included; researcher calls figures alarming",
       "source": "DN",
-      "link": "https://www.dn.se/ledare/lisa-magnusson-det-later-som-tom-populism-men-i-sjalva-verket-ar-detta-sds-sjal/"
+      "link": "https://www.dn.se/sverige/fler-sena-tag-i-ny-statistik-pa-bottenniva/"
     },
     {
-      "headline": "Swedish embassy in Somalia: ambassador pressured Sida chief",
-      "summary": "Diplomat threatened official over aid funds, then expelled",
+      "headline": "Billions flow to vocational colleges with no teaching requirements",
+      "summary": "Courses run with minimal teacher hours despite public funding",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/harda-pressen-inne-pa-svenska-ambassaden-avslojas-av-chatt/"
+      "link": "https://www.dn.se/ekonomi/miljarder-till-yrkeshogskolan-utan-krav-pa-undervisningens-omfattning/"
     },
     {
-      "headline": "Sweden gives 250 million in humanitarian aid to Ukraine",
-      "summary": "Quarter-billion kronor package announced for Ukraine relief",
+      "headline": "SMHI extends ice warning across large parts of Sweden",
+      "summary": "Yellow warnings issued for dangerous road conditions Thursday",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/XMb9Wn/smhi-utokar-varning-for-ishalka"
+    },
+    {
+      "headline": "Swedish nuclear start-up Svenska Blykalla proposes faster path",
+      "summary": "Company outlines accelerated route to new nuclear capacity",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sverige-ger-kvarts-miljard-i-humanitart-stod-till-ukraina/cG9zdDo2ODg4MA"
+      "link": "https://kvartal.se/nyheter/artiklar/svenska-blykalla-snabbare-vag-till-ny-karnkraft/cG9zdDo2OTU5MA"
     },
     {
-      "headline": "Minister Pourmokhtari wants to scrap contested climate goal",
-      "summary": "Energy minister moves to remove debated emissions target",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/pourmokhtari-vill-skrota-omdebatterat-klimatmal/cG9zdDo2ODg4Ng"
-    },
-    {
-      "headline": "Swedes downloading child abuse material at higher rates than Norwegians",
-      "summary": "Norwegian police sting reveals Swedes more willing to download",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/granskning/ug/tror-att-de-laddar-ner-barnpornografi-mots-av-polisen"
-    },
-    {
-      "headline": "Suspected gang leader Rawa Majid linked to alias Don Fox",
-      "summary": "Alias tied to fugitive Swedish gang leader Rawa Majid",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/aliaset-don-fox-misstanks-vara-rawa-majid/cG9zdDo2OTAzMA"
-    },
-    {
-      "headline": "AI Sweden named societal actor of the year",
-      "summary": "National AI organisation recognised for societal contributions",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/ai-sweden-honored-leadership-named-societal-actor-year"
-    },
-    {
-      "headline": "LLMs being used to analyse Swedish healthcare incidents",
-      "summary": "AI tools applied to patient safety incident analysis in Sweden",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/large-language-models-analyze-healthcare-incidents"
+      "headline": "Palme family: Murder investigation has clouded father's memory",
+      "summary": "Sons speak out 40 years on from Olof Palme's killing",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/marten-palme-mordutredningen-har-grumlat-minnet-av-var-far/"
     }
   ]
 }
