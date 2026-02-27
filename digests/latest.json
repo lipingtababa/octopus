@@ -1,80 +1,74 @@
 {
-  "date": "2026-02-26",
-  "title": "瑞典新闻 — 2026年02月26日",
-  "audio_url": "digests/2026-02-26.mp3",
-  "duration_seconds": 384,
+  "date": "2026-02-27",
+  "title": "瑞典新闻 — 2026年02月27日",
+  "audio_url": "digests/2026-02-27.mp3",
+  "duration_seconds": 403,
   "stories": [
     {
-      "headline": "39 HVB homes closed after serious deficiencies",
-      "summary": "Inspections find major failings at residential care homes",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/39-hvb-hem-stangda-efter-allvarliga-brister/cG9zdDo2OTQ3NA"
-    },
-    {
-      "headline": "All prison sentences can lead to deportation",
-      "summary": "Government sharpens rules linking criminal sentences to expulsion",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/skarpta-straff-for-utvisningar/cG9zdDo2OTUzNg"
-    },
-    {
-      "headline": "Business warns: deportations threaten Sweden's prosperity",
-      "summary": "Industry voices alarm over economic impact of expulsion policy",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/naringslivet-utvisningarna-hotar-sveriges-valstand/cG9zdDo2OTYyNA"
-    },
-    {
-      "headline": "Liberals vote no to pause on 18-year-old expulsions",
-      "summary": "L rejects moratorium despite record-low poll numbers",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/l-rostar-nej-till-paus-for-artonarsutvisningar/cG9zdDo2OTY3Mg"
-    },
-    {
-      "headline": "79 lawyers: Withdrawing residence permits is illegal",
-      "summary": "Legal experts say government's residency revocations breach law",
-      "source": "Omni",
-      "link": "https://omni.se/79-jurister-olagligt-att-dra-tillbaka-uppehallstillstand/a/Pd43b0"
-    },
-    {
-      "headline": "Liberals hit new record low in polling",
-      "summary": "Party far below 4% threshold, majority expects Riksdag exit",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/politik/matning-majoritet-tror-att-l-aker-ur-riksdagen/"
-    },
-    {
-      "headline": "Åkesson demands Morgan Johansson resign over X post",
-      "summary": "SD leader calls on Social Democrat to quit after retweet row",
-      "source": "Omni",
-      "link": "https://omni.se/akesson-kraver-johanssons-avgang-efter-delning-pa-x/a/BxWxPw"
-    },
-    {
-      "headline": "Train punctuality at rock bottom in new statistics",
-      "summary": "Cancelled trains now included; researcher calls figures alarming",
+      "headline": "Defence Minister opens for nuclear weapons on Swedish soil",
+      "summary": "Jonson says nuclear weapons acceptable in wartime Sweden",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/fler-sena-tag-i-ny-statistik-pa-bottenniva/"
+      "link": "https://www.dn.se/sverige/jonson-oppnar-for-karnvapen-i-sverige-i-krigstid/"
     },
     {
-      "headline": "Billions flow to vocational colleges with no teaching requirements",
-      "summary": "Courses run with minimal teacher hours despite public funding",
-      "source": "DN",
-      "link": "https://www.dn.se/ekonomi/miljarder-till-yrkeshogskolan-utan-krav-pa-undervisningens-omfattning/"
+      "headline": "Russian drone approached aircraft carrier in Malmö",
+      "summary": "Defence confirms drone incident near Malmö harbour",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/forsvaret-bekraftar-dronarincident/cG9zdDo3MDIxMQ"
     },
     {
-      "headline": "SMHI extends ice warning across large parts of Sweden",
-      "summary": "Yellow warnings issued for dangerous road conditions Thursday",
+      "headline": "Serious threat from foreign power",
+      "summary": "Sweden facing significant threat from foreign state actor",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/allvarligt-hot-fran-frammande-makt/cG9zdDo3MDAzMQ"
+    },
+    {
+      "headline": "Energy minister: No specific threat to Swedish energy system",
+      "summary": "Busch downplays reports of threat to Swedish infrastructure",
+      "source": "Omni",
+      "link": "https://omni.se/inget-specifikt-hot-mot-svenska-energisystem/a/3pEBGv"
+    },
+    {
+      "headline": "Riksdag rejects Social Democrats' bid to halt teen deportations",
+      "summary": "Proposal to stop eighteen-year-old deportations voted down",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/nej-till-s-forslag-om-att-stoppa-artonarsutvisningar/cG9zdDo3MDA1NQ"
+    },
+    {
+      "headline": "Migration Agency sceptical of proposed deportation safety valve",
+      "summary": "Migrationsverket doubts effect of proposed immigration relief measure",
       "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/XMb9Wn/smhi-utokar-varning-for-ishalka"
+      "link": "https://www.aftonbladet.se/nyheter/a/3pEqE9/migrationsverket-tror-inte-pa-effekt-for-ventilen?utm_medium=rss"
     },
     {
-      "headline": "Swedish nuclear start-up Svenska Blykalla proposes faster path",
-      "summary": "Company outlines accelerated route to new nuclear capacity",
+      "headline": "Migration Agency clarifies: children not deported alone",
+      "summary": "Agency issues statement following public debate on deportations",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/svenska-blykalla-snabbare-vag-till-ny-karnkraft/cG9zdDo2OTU5MA"
+      "link": "https://kvartal.se/nyheter/artiklar/migrationsverket-fortydligar-barn-utvisas-inte-ensamma/cG9zdDo3MDI4Ng"
     },
     {
-      "headline": "Palme family: Murder investigation has clouded father's memory",
-      "summary": "Sons speak out 40 years on from Olof Palme's killing",
+      "headline": "Pentagon threatens to ban Anthropic; CEO refuses",
+      "summary": "US military demands AI access, Anthropic CEO rejects ultimatum",
+      "source": "Omni",
+      "link": "https://omni.se/anthropics-vd-hoten-biter-inte-det-blir-ett-nej/a/43oL4a"
+    },
+    {
+      "headline": "Sida director-general resigns",
+      "summary": "Head of Sweden's aid agency steps down",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/sidas-generaldirektor-avgar/cG9zdDo3MDE5Ng"
+    },
+    {
+      "headline": "Pharmacy prescription system down nationwide",
+      "summary": "Swedes unable to collect prescriptions at pharmacies",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/gar-inte-att-hamta-ut-recept-pa-apoteket/cG9zdDo3MDEyMA"
+    },
+    {
+      "headline": "Amanda Lind denies MP is soft on crime",
+      "summary": "Green Party leader pushes back on criminal policy criticism",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/marten-palme-mordutredningen-har-grumlat-minnet-av-var-far/"
+      "link": "https://www.dn.se/sverige/amanda-lind-klistra-inte-pa-oss-att-vi-ar-soft-on-crime/"
     }
   ]
 }
