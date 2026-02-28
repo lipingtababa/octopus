@@ -1,74 +1,80 @@
 {
-  "date": "2026-02-27",
-  "title": "瑞典新闻 — 2026年02月27日",
-  "audio_url": "digests/2026-02-27.mp3",
-  "duration_seconds": 403,
+  "date": "2026-02-28",
+  "title": "瑞典新闻 — 2026年02月28日",
+  "audio_url": "digests/2026-02-28.mp3",
+  "duration_seconds": 457,
   "stories": [
     {
-      "headline": "Defence Minister opens for nuclear weapons on Swedish soil",
-      "summary": "Jonson says nuclear weapons acceptable in wartime Sweden",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/jonson-oppnar-for-karnvapen-i-sverige-i-krigstid/"
-    },
-    {
-      "headline": "Russian drone approached aircraft carrier in Malmö",
-      "summary": "Defence confirms drone incident near Malmö harbour",
+      "headline": "Lyten buys Northvolt in billion-dollar deal",
+      "summary": "US battery firm acquires bankrupt Swedish gigafactory",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/forsvaret-bekraftar-dronarincident/cG9zdDo3MDIxMQ"
+      "link": "https://kvartal.se/nyheter/artiklar/lyten-koper-northvolt-miljardaffaren-i-hamn/cG9zdDo3MDQ0NQ"
     },
     {
-      "headline": "Serious threat from foreign power",
-      "summary": "Sweden facing significant threat from foreign state actor",
+      "headline": "Russian drone confirmed near Malmö",
+      "summary": "Armed Forces confirm drone over Swedish territory was Russian",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/allvarligt-hot-fran-frammande-makt/cG9zdDo3MDAzMQ"
+      "link": "https://kvartal.se/nyheter/artiklar/forsvarsmakten-bekraftar-dronaren-var-rysk/cG9zdDo3MDk3Nw"
     },
     {
-      "headline": "Energy minister: No specific threat to Swedish energy system",
-      "summary": "Busch downplays reports of threat to Swedish infrastructure",
+      "headline": "Activist convicted of threatening ministers",
+      "summary": "Court sentences activist for harassment of government ministers",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/aktivist-doms-for-hot-och-ofredande-mot-ministrar/cG9zdDo3MDYwOQ"
+    },
+    {
+      "headline": "Authority lists SD as misinformation example",
+      "summary": "Government agency names Sweden Democrats in disinformation report",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/myndighet-namner-sd-som-exempel-pa-desinformation/cG9zdDo3MDg0MA"
+    },
+    {
+      "headline": "40 years since Palme murder: can DNA solve it?",
+      "summary": "New forensic technology revisited as anniversary passes",
       "source": "Omni",
-      "link": "https://omni.se/inget-specifikt-hot-mot-svenska-energisystem/a/3pEBGv"
+      "link": "https://omni.se/40-ar-sedan-palme-mordades-kan-ny-dna-teknik-losa-gatan/a/0pQW5J"
     },
     {
-      "headline": "Riksdag rejects Social Democrats' bid to halt teen deportations",
-      "summary": "Proposal to stop eighteen-year-old deportations voted down",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/nej-till-s-forslag-om-att-stoppa-artonarsutvisningar/cG9zdDo3MDA1NQ"
-    },
-    {
-      "headline": "Migration Agency sceptical of proposed deportation safety valve",
-      "summary": "Migrationsverket doubts effect of proposed immigration relief measure",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/3pEqE9/migrationsverket-tror-inte-pa-effekt-for-ventilen?utm_medium=rss"
-    },
-    {
-      "headline": "Migration Agency clarifies: children not deported alone",
-      "summary": "Agency issues statement following public debate on deportations",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/migrationsverket-fortydligar-barn-utvisas-inte-ensamma/cG9zdDo3MDI4Ng"
-    },
-    {
-      "headline": "Pentagon threatens to ban Anthropic; CEO refuses",
-      "summary": "US military demands AI access, Anthropic CEO rejects ultimatum",
-      "source": "Omni",
-      "link": "https://omni.se/anthropics-vd-hoten-biter-inte-det-blir-ett-nej/a/43oL4a"
-    },
-    {
-      "headline": "Sida director-general resigns",
-      "summary": "Head of Sweden's aid agency steps down",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sidas-generaldirektor-avgar/cG9zdDo3MDE5Ng"
-    },
-    {
-      "headline": "Pharmacy prescription system down nationwide",
-      "summary": "Swedes unable to collect prescriptions at pharmacies",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/gar-inte-att-hamta-ut-recept-pa-apoteket/cG9zdDo3MDEyMA"
-    },
-    {
-      "headline": "Amanda Lind denies MP is soft on crime",
-      "summary": "Green Party leader pushes back on criminal policy criticism",
+      "headline": "Police probe errors that sank Palme investigation",
+      "summary": "Critical failures on murder night detailed by former officers",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/amanda-lind-klistra-inte-pa-oss-att-vi-ar-soft-on-crime/"
+      "link": "https://www.dn.se/sverige/har-ar-misstagen-som-sankte-palmeutredningen/"
+    },
+    {
+      "headline": "14-year-old admits two shootings, planned third",
+      "summary": "Youngest murder suspect in Norrköping confesses, planned more",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/14-aringen-skulle-morda-igen-se-polisens-bilder"
+    },
+    {
+      "headline": "Young killers trend alarms crime commissioner",
+      "summary": "Trial opens; police warn of worrying pattern of juvenile violence",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/kriminalkommissarien-om-unga-mordare-det-ar-bekymmersamt"
+    },
+    {
+      "headline": "RS virus antibody treatment: zero hospitalisations in Luleå",
+      "summary": "New infant treatment shows dramatic results in first season",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/succe-for-behandling-mot-rs-virus-inget-barn-inlagt-i-lulea"
+    },
+    {
+      "headline": "Chemical castration debate after SVT abuse exposé",
+      "summary": "Politicians push policy after Mission Review child abuse programme",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/inrikes/i-fokus-kan-kemisk-kastrering-fa-stopp-pa-overgreppen-mot-barn"
+    },
+    {
+      "headline": "Half of small businesses lack AI fraud protection",
+      "summary": "Alarm raised over SME vulnerability to AI-driven scams",
+      "source": "Omni",
+      "link": "https://omni.se/larmet-halften-av-smaforetagen-saknar-skydd-mot-ai-bedragerier/a/Pdol7z"
+    },
+    {
+      "headline": "Swedish and UK finance ministers: Don't believe Putin",
+      "summary": "Svantesson co-authors Politico piece on Russian economic failure",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/varlden/svensk-minister-tro--inte-pa-putins-logner/"
     }
   ]
 }
