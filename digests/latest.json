@@ -1,80 +1,68 @@
 {
-  "date": "2026-02-28",
-  "title": "瑞典新闻 — 2026年02月28日",
-  "audio_url": "digests/2026-02-28.mp3",
-  "duration_seconds": 457,
+  "date": "2026-03-01",
+  "title": "瑞典新闻 — 2026年03月01日",
+  "audio_url": "digests/2026-03-01.mp3",
+  "duration_seconds": 340,
   "stories": [
     {
-      "headline": "Lyten buys Northvolt in billion-dollar deal",
-      "summary": "US battery firm acquires bankrupt Swedish gigafactory",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/lyten-koper-northvolt-miljardaffaren-i-hamn/cG9zdDo3MDQ0NQ"
-    },
-    {
-      "headline": "Russian drone confirmed near Malmö",
-      "summary": "Armed Forces confirm drone over Swedish territory was Russian",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/forsvarsmakten-bekraftar-dronaren-var-rysk/cG9zdDo3MDk3Nw"
-    },
-    {
-      "headline": "Activist convicted of threatening ministers",
-      "summary": "Court sentences activist for harassment of government ministers",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/aktivist-doms-for-hot-och-ofredande-mot-ministrar/cG9zdDo3MDYwOQ"
-    },
-    {
-      "headline": "Authority lists SD as misinformation example",
-      "summary": "Government agency names Sweden Democrats in disinformation report",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/myndighet-namner-sd-som-exempel-pa-desinformation/cG9zdDo3MDg0MA"
-    },
-    {
-      "headline": "40 years since Palme murder: can DNA solve it?",
-      "summary": "New forensic technology revisited as anniversary passes",
-      "source": "Omni",
-      "link": "https://omni.se/40-ar-sedan-palme-mordades-kan-ny-dna-teknik-losa-gatan/a/0pQW5J"
-    },
-    {
-      "headline": "Police probe errors that sank Palme investigation",
-      "summary": "Critical failures on murder night detailed by former officers",
+      "headline": "Increased terrorist attack risk in Sweden after Iran strikes",
+      "summary": "Terror expert warns of elevated assassination risk in Sweden short-term",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/har-ar-misstagen-som-sankte-palmeutredningen/"
+      "link": "https://www.dn.se/sverige/okad-risk-for-terrorangrepp-aven-i-sverige/"
     },
     {
-      "headline": "14-year-old admits two shootings, planned third",
-      "summary": "Youngest murder suspect in Norrköping confesses, planned more",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/14-aringen-skulle-morda-igen-se-polisens-bilder"
-    },
-    {
-      "headline": "Young killers trend alarms crime commissioner",
-      "summary": "Trial opens; police warn of worrying pattern of juvenile violence",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/kriminalkommissarien-om-unga-mordare-det-ar-bekymmersamt"
-    },
-    {
-      "headline": "RS virus antibody treatment: zero hospitalisations in Luleå",
-      "summary": "New infant treatment shows dramatic results in first season",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/succe-for-behandling-mot-rs-virus-inget-barn-inlagt-i-lulea"
-    },
-    {
-      "headline": "Chemical castration debate after SVT abuse exposé",
-      "summary": "Politicians push policy after Mission Review child abuse programme",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/i-fokus-kan-kemisk-kastrering-fa-stopp-pa-overgreppen-mot-barn"
-    },
-    {
-      "headline": "Half of small businesses lack AI fraud protection",
-      "summary": "Alarm raised over SME vulnerability to AI-driven scams",
+      "headline": "Iranians in Sweden thank Trump after attack",
+      "summary": "Swedish-Iranians express support following US-Israeli strikes on regime",
       "source": "Omni",
-      "link": "https://omni.se/larmet-halften-av-smaforetagen-saknar-skydd-mot-ai-bedragerier/a/Pdol7z"
+      "link": "https://omni.se/iranier-i-sverige-tackar-trump-efter-attacken/a/7p6xzV"
     },
     {
-      "headline": "Swedish and UK finance ministers: Don't believe Putin",
-      "summary": "Svantesson co-authors Politico piece on Russian economic failure",
+      "headline": "Darya and Donya deported from Sweden to Iran: 'We're going to die'",
+      "summary": "Two women deported to Iran amid regime collapse and uncertainty",
+      "source": "Omni",
+      "link": "https://omni.se/darya-och-donya-utvisades-fran-sverige-till-iran-hejda-vi-ska-do-nu/a/5pBomb"
+    },
+    {
+      "headline": "Social Democrats pressed on migration line, open to 'valve' and stop law",
+      "summary": "S-party signals openness to stricter migration controls under pressure",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/s-pressas-om-migrationslinjen-oppnar-for-ventil-och-stopplag/cG9zdDo3MTY2MA"
+    },
+    {
+      "headline": "Swedish Foreign Ministry advises against travel to Dubai",
+      "summary": "UD warns Swedes away after explosions hit Dubai luxury areas",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/explosioner-i-dubai/cG9zdDo3MTQ3MA"
+    },
+    {
+      "headline": "New law gives municipalities expanded crime background checks",
+      "summary": "From March 1, municipalities can check crime records for care workers",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/nya-lag-ger-kommunerna-utokad-brottskontroll-ny-mojlighet"
+    },
+    {
+      "headline": "Expo investigation of migration minister nominated for Golden Spade",
+      "summary": "Expo's scrutiny of migration minister shortlisted for top journalism award",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/expos-granskning-av-migrationsministern-nomineras-till-guldspaden/"
+    },
+    {
+      "headline": "Third person sentenced in the Janouch affair",
+      "summary": "Another conviction in the prolonged Janouch fraud and deception case",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/tredje-person-doms-i-janouch-harvan/"
+    },
+    {
+      "headline": "Örebro researchers can predict Crohn's disease years before diagnosis",
+      "summary": "Blood markers detected years before Crohn's symptoms appear in patients",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/inrikes/nu-kan-man-identifiera-svara-magsjukdomen-langt-innan-den-bryter-ut"
+    },
+    {
+      "headline": "SMHI warns of heavy snowfall in central Sweden",
+      "summary": "March arrives with snow warnings and potential traffic disruptions",
       "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/varlden/svensk-minister-tro--inte-pa-putins-logner/"
+      "link": "https://www.expressen.se/nyheter/vader/smhi-varnar-for-snofall-i-mellersta-sverige/"
     }
   ]
 }
