@@ -1,68 +1,74 @@
 {
-  "date": "2026-03-01",
-  "title": "瑞典新闻 — 2026年03月01日",
-  "audio_url": "digests/2026-03-01.mp3",
-  "duration_seconds": 340,
+  "date": "2026-03-02",
+  "title": "瑞典新闻 — 2026年03月02日",
+  "audio_url": "digests/2026-03-02.mp3",
+  "duration_seconds": 347,
   "stories": [
     {
-      "headline": "Increased terrorist attack risk in Sweden after Iran strikes",
-      "summary": "Terror expert warns of elevated assassination risk in Sweden short-term",
+      "headline": "Thousands of Swedes stranded after Iran-Israel fighting",
+      "summary": "Swedes unable to leave region amid escalating conflict",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/tusentals-svenskar-strandsatta-efter-attackerna/cG9zdDo3MjIzNg"
+    },
+    {
+      "headline": "Migration minister: Hard to get Swedes home from conflict zone",
+      "summary": "Malmer Stenergard uncertain Sweden can assist stranded nationals",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/malmer-stenergard-m-svart-att-fa-hem-manniskor/cG9zdDo3MjI4OA"
+    },
+    {
+      "headline": "Over 400 people sentenced to deportation still in Sweden",
+      "summary": "Hundreds with deportation orders remain despite rulings",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/over-400-utvisningsdomda-kvar-i-sverige/cG9zdDo3MjI4MQ"
+    },
+    {
+      "headline": "Eight years needed to cancel residence permits under new proposal",
+      "summary": "Migration Agency warns of massive backlog if policy enacted",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/d4wpeX/atta-ar-for-att-riva-upp-uppehallstillstand"
+    },
+    {
+      "headline": "Only ~600 per year expected to claim new return migration allowance",
+      "summary": "New increased re-migration grant to reach few recipients",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/Pd4qxp/sa-manga-bedoms-fa-atervandringsbidrag"
+    },
+    {
+      "headline": "Hundreds of gang-era shooting deaths remain unsolved",
+      "summary": "Police carry backlog of 459 unsolved gang murders",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/okad-risk-for-terrorangrepp-aven-i-sverige/"
+      "link": "https://www.dn.se/sverige/efter-gangkrigen-hundratals-olosta-dodsskjutningar/"
     },
     {
-      "headline": "Iranians in Sweden thank Trump after attack",
-      "summary": "Swedish-Iranians express support following US-Israeli strikes on regime",
+      "headline": "Municipalities terminate contracts with fraudulent home care firms",
+      "summary": "Councils cancel agreements after welfare companies caught cheating",
       "source": "Omni",
-      "link": "https://omni.se/iranier-i-sverige-tackar-trump-efter-attacken/a/7p6xzV"
+      "link": "https://omni.se/kommuner-bryter-avtal-med-fuskande-hemtjanstforetag/a/0pQkaB"
     },
     {
-      "headline": "Darya and Donya deported from Sweden to Iran: 'We're going to die'",
-      "summary": "Two women deported to Iran amid regime collapse and uncertainty",
-      "source": "Omni",
-      "link": "https://omni.se/darya-och-donya-utvisades-fran-sverige-till-iran-hejda-vi-ska-do-nu/a/5pBomb"
+      "headline": "Suspected €70bn fraud against EU under investigation",
+      "summary": "Criminals attempted record-level fraud against EU funds in 2025",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/RjGqAd/misstankta-miljardbedragerier-mot-eu-utreds"
     },
     {
-      "headline": "Social Democrats pressed on migration line, open to 'valve' and stop law",
-      "summary": "S-party signals openness to stricter migration controls under pressure",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-pressas-om-migrationslinjen-oppnar-for-ventil-och-stopplag/cG9zdDo3MTY2MA"
-    },
-    {
-      "headline": "Swedish Foreign Ministry advises against travel to Dubai",
-      "summary": "UD warns Swedes away after explosions hit Dubai luxury areas",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/explosioner-i-dubai/cG9zdDo3MTQ3MA"
-    },
-    {
-      "headline": "New law gives municipalities expanded crime background checks",
-      "summary": "From March 1, municipalities can check crime records for care workers",
+      "headline": "Over 1,000 rapes reported in Uppsala County over five years",
+      "summary": "Rape reports rising; police warn of serious social problem",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/nya-lag-ger-kommunerna-utokad-brottskontroll-ny-mojlighet"
+      "link": "https://www.svt.se/nyheter/lokalt/uppsala/over-1-000-anmalda-valdtakter-pa-fem-ar-antalet-okar"
     },
     {
-      "headline": "Expo investigation of migration minister nominated for Golden Spade",
-      "summary": "Expo's scrutiny of migration minister shortlisted for top journalism award",
+      "headline": "Two Nazis charged after action against Pride event",
+      "summary": "Prosecution follows far-right group attack on Pride march",
       "source": "Expo",
-      "link": "https://expo.se/nyhet/expos-granskning-av-migrationsministern-nomineras-till-guldspaden/"
+      "link": "https://expo.se/nyhet/efter-aktion-mot-pride-tva-nazister-atalas/"
     },
     {
-      "headline": "Third person sentenced in the Janouch affair",
-      "summary": "Another conviction in the prolonged Janouch fraud and deception case",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/tredje-person-doms-i-janouch-harvan/"
-    },
-    {
-      "headline": "Örebro researchers can predict Crohn's disease years before diagnosis",
-      "summary": "Blood markers detected years before Crohn's symptoms appear in patients",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/nu-kan-man-identifiera-svara-magsjukdomen-langt-innan-den-bryter-ut"
-    },
-    {
-      "headline": "SMHI warns of heavy snowfall in central Sweden",
-      "summary": "March arrives with snow warnings and potential traffic disruptions",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/vader/smhi-varnar-for-snofall-i-mellersta-sverige/"
+      "headline": "AI Sweden: Labour market AI council visits Riksdag",
+      "summary": "AI skills and competitiveness briefing given to parliamentarians",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/labor-market-ai-council-visits-riksdag-strengthen-swedens-skills-supply-and-competitiveness"
     }
   ]
 }
