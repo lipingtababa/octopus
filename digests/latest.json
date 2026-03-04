@@ -1,74 +1,80 @@
 {
-  "date": "2026-03-02",
-  "title": "瑞典新闻 — 2026年03月02日",
-  "audio_url": "digests/2026-03-02.mp3",
-  "duration_seconds": 347,
+  "date": "2026-03-04",
+  "title": "瑞典新闻 — 2026年03月04日",
+  "audio_url": "digests/2026-03-04.mp3",
+  "duration_seconds": 404,
   "stories": [
     {
-      "headline": "Thousands of Swedes stranded after Iran-Israel fighting",
-      "summary": "Swedes unable to leave region amid escalating conflict",
+      "headline": "Säpo warns of increased threat to Sweden",
+      "summary": "Security police raise threat level against Sweden",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/tusentals-svenskar-strandsatta-efter-attackerna/cG9zdDo3MjIzNg"
+      "link": "https://kvartal.se/nyheter/artiklar/sapo-okat-mot-sverige/cG9zdDo3MzgxMw"
     },
     {
-      "headline": "Migration minister: Hard to get Swedes home from conflict zone",
-      "summary": "Malmer Stenergard uncertain Sweden can assist stranded nationals",
+      "headline": "Stop law on teen deportations voted down",
+      "summary": "Parliament rejects law protecting under-18s from deportation",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/malmer-stenergard-m-svart-att-fa-hem-manniskor/cG9zdDo3MjI4OA"
+      "link": "https://kvartal.se/nyheter/artiklar/stopplag-mot-artonarsutvisningar-nedrostad/cG9zdDo3MzQwMw"
     },
     {
-      "headline": "Over 400 people sentenced to deportation still in Sweden",
-      "summary": "Hundreds with deportation orders remain despite rulings",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/over-400-utvisningsdomda-kvar-i-sverige/cG9zdDo3MjI4MQ"
+      "headline": "Moderate youth leader confident on teen deportation fix",
+      "summary": "MUF leader expects solution for unfairly deported teens",
+      "source": "The Local",
+      "link": "https://www.thelocal.se/20260304/moderate-youth-leader-confident-of-solution-for-swedens-teen-deportations"
     },
     {
-      "headline": "Eight years needed to cancel residence permits under new proposal",
-      "summary": "Migration Agency warns of massive backlog if policy enacted",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/d4wpeX/atta-ar-for-att-riva-upp-uppehallstillstand"
-    },
-    {
-      "headline": "Only ~600 per year expected to claim new return migration allowance",
-      "summary": "New increased re-migration grant to reach few recipients",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/Pd4qxp/sa-manga-bedoms-fa-atervandringsbidrag"
-    },
-    {
-      "headline": "Hundreds of gang-era shooting deaths remain unsolved",
-      "summary": "Police carry backlog of 459 unsolved gang murders",
+      "headline": "Kristersson: SD more experienced, but no automatic government role",
+      "summary": "PM softens stance on SD in government ahead of election",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/efter-gangkrigen-hundratals-olosta-dodsskjutningar/"
+      "link": "https://www.dn.se/sverige/kristersson-om-regeringsfragan-sd-ar-mer-erfaret-nu/"
     },
     {
-      "headline": "Municipalities terminate contracts with fraudulent home care firms",
-      "summary": "Councils cancel agreements after welfare companies caught cheating",
+      "headline": "Stranded Swedes told little can be done",
+      "summary": "Foreign Ministry offers little help to Swedes stranded abroad",
       "source": "Omni",
-      "link": "https://omni.se/kommuner-bryter-avtal-med-fuskande-hemtjanstforetag/a/0pQkaB"
+      "link": "https://omni.se/inte-sa-mycket-vi-kan-gora-det-kan-strandade-svenskar-vanta-sig-av-ud/a/zOEXe4"
     },
     {
-      "headline": "Suspected €70bn fraud against EU under investigation",
-      "summary": "Criminals attempted record-level fraud against EU funds in 2025",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/RjGqAd/misstankta-miljardbedragerier-mot-eu-utreds"
+      "headline": "Memorial for Khamenei held in Stockholm amid protests",
+      "summary": "Pro-regime vigil met by regime-critical celebration across street",
+      "source": "Omni",
+      "link": "https://omni.se/minnesstund-for-khamenei-i-stockholm-regimkritiskt-firande-tvars-over-gatan/a/j0lAPL"
     },
     {
-      "headline": "Over 1,000 rapes reported in Uppsala County over five years",
-      "summary": "Rape reports rising; police warn of serious social problem",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/uppsala/over-1-000-anmalda-valdtakter-pa-fem-ar-antalet-okar"
+      "headline": "Sweden's economy affected by Iran conflict",
+      "summary": "Oil prices and markets hit by US attacks on Iran",
+      "source": "Omni",
+      "link": "https://omni.se/sa-paverkas-din-och-sveriges-ekonomi-av-anfallen-mot-iran/a/Ok82yO"
     },
     {
-      "headline": "Two Nazis charged after action against Pride event",
-      "summary": "Prosecution follows far-right group attack on Pride march",
+      "headline": "KDU leader calls Liberals a 'chaos party'",
+      "summary": "Youth conservative leader attacks coalition partner Liberals publicly",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/kdu-ledaren-om-l-kaos-partiet/cG9zdDo3MzM3NQ"
+    },
+    {
+      "headline": "Kiruna halts million-kronor procurement after bias criticism",
+      "summary": "Municipality stops controversial contract amid conflict-of-interest allegations",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/federicomoreno/artiklar/efter-jav-kritik-kiruna-stoppar-miljonupphandling/cG9zdDo3MzgxNA"
+    },
+    {
+      "headline": "Nazi sentenced after disrupting Social Democrat meeting",
+      "summary": "Court convicts far-right activist for disrupting S party event",
       "source": "Expo",
-      "link": "https://expo.se/nyhet/efter-aktion-mot-pride-tva-nazister-atalas/"
+      "link": "https://expo.se/nyhet/ytterligare-en-nazist-doms-efter-storning-av-s-mote/"
     },
     {
-      "headline": "AI Sweden: Labour market AI council visits Riksdag",
-      "summary": "AI skills and competitiveness briefing given to parliamentarians",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/labor-market-ai-council-visits-riksdag-strengthen-swedens-skills-supply-and-competitiveness"
+      "headline": "Over 2,000 suspected crimes against vital public services",
+      "summary": "Police report surge in attacks on socially critical functions",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/Pd4A8J/fler-misstankta-brott-mot-samhallsviktig-verksamhet?utm_medium=rss"
+    },
+    {
+      "headline": "Södertälje TV channel 'doomed' — cannot open bank account",
+      "summary": "Assyria TV faces closure after 18 months without banking access",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/tv-kanalen-i-sodertalje-dodsdomd-kan-inte-oppna-nytt-bankkonto"
     }
   ]
 }
