@@ -1,80 +1,68 @@
 {
-  "date": "2026-03-04",
-  "title": "瑞典新闻 — 2026年03月04日",
-  "audio_url": "digests/2026-03-04.mp3",
-  "duration_seconds": 404,
+  "date": "2026-03-05",
+  "title": "瑞典新闻 — 2026年03月05日",
+  "audio_url": "digests/2026-03-05.mp3",
+  "duration_seconds": 353,
   "stories": [
     {
-      "headline": "Säpo warns of increased threat to Sweden",
-      "summary": "Security police raise threat level against Sweden",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sapo-okat-mot-sverige/cG9zdDo3MzgxMw"
+      "headline": "NATO confidence plummets among Swedes",
+      "summary": "Swedes now trust police and Systembolaget more than NATO",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/sverige/fortroendet-for-nato-rasar/"
     },
     {
-      "headline": "Stop law on teen deportations voted down",
-      "summary": "Parliament rejects law protecting under-18s from deportation",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/stopplag-mot-artonarsutvisningar-nedrostad/cG9zdDo3MzQwMw"
-    },
-    {
-      "headline": "Moderate youth leader confident on teen deportation fix",
-      "summary": "MUF leader expects solution for unfairly deported teens",
-      "source": "The Local",
-      "link": "https://www.thelocal.se/20260304/moderate-youth-leader-confident-of-solution-for-swedens-teen-deportations"
-    },
-    {
-      "headline": "Kristersson: SD more experienced, but no automatic government role",
-      "summary": "PM softens stance on SD in government ahead of election",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/kristersson-om-regeringsfragan-sd-ar-mer-erfaret-nu/"
-    },
-    {
-      "headline": "Stranded Swedes told little can be done",
-      "summary": "Foreign Ministry offers little help to Swedes stranded abroad",
-      "source": "Omni",
-      "link": "https://omni.se/inte-sa-mycket-vi-kan-gora-det-kan-strandade-svenskar-vanta-sig-av-ud/a/zOEXe4"
-    },
-    {
-      "headline": "Memorial for Khamenei held in Stockholm amid protests",
-      "summary": "Pro-regime vigil met by regime-critical celebration across street",
-      "source": "Omni",
-      "link": "https://omni.se/minnesstund-for-khamenei-i-stockholm-regimkritiskt-firande-tvars-over-gatan/a/j0lAPL"
-    },
-    {
-      "headline": "Sweden's economy affected by Iran conflict",
-      "summary": "Oil prices and markets hit by US attacks on Iran",
-      "source": "Omni",
-      "link": "https://omni.se/sa-paverkas-din-och-sveriges-ekonomi-av-anfallen-mot-iran/a/Ok82yO"
-    },
-    {
-      "headline": "KDU leader calls Liberals a 'chaos party'",
-      "summary": "Youth conservative leader attacks coalition partner Liberals publicly",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/kdu-ledaren-om-l-kaos-partiet/cG9zdDo3MzM3NQ"
-    },
-    {
-      "headline": "Kiruna halts million-kronor procurement after bias criticism",
-      "summary": "Municipality stops controversial contract amid conflict-of-interest allegations",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/federicomoreno/artiklar/efter-jav-kritik-kiruna-stoppar-miljonupphandling/cG9zdDo3MzgxNA"
-    },
-    {
-      "headline": "Nazi sentenced after disrupting Social Democrat meeting",
-      "summary": "Court convicts far-right activist for disrupting S party event",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/ytterligare-en-nazist-doms-efter-storning-av-s-mote/"
-    },
-    {
-      "headline": "Over 2,000 suspected crimes against vital public services",
-      "summary": "Police report surge in attacks on socially critical functions",
+      "headline": "First return migration grants approved",
+      "summary": "Migration Agency grants new higher return allowances for first time",
       "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/Pd4A8J/fler-misstankta-brott-mot-samhallsviktig-verksamhet?utm_medium=rss"
+      "link": "https://www.aftonbladet.se/nyheter/a/JOQemP/forsta-nya-atervandringsbidragen-beviljade"
     },
     {
-      "headline": "Södertälje TV channel 'doomed' — cannot open bank account",
-      "summary": "Assyria TV faces closure after 18 months without banking access",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/tv-kanalen-i-sodertalje-dodsdomd-kan-inte-oppna-nytt-bankkonto"
+      "headline": "Ebba Busch: Political Islam a threat to Sweden",
+      "summary": "KD leader warns political Islam could enter Riksdag",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/ebba-busch-jattefa-bar-niqab-men-det-ar-ett-kanonstort-problem/"
+    },
+    {
+      "headline": "Malmö gang leader arrested in Poland",
+      "summary": "Wanted Swedish gang leader apprehended by Polish authorities",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/gangtopp-fran-malmo-gripen-i-polen/cG9zdDo3NDU4NA"
+    },
+    {
+      "headline": "Electricity price soared in February",
+      "summary": "Swedish electricity prices surged sharply last month",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/elpriset-rusade-i-februari/cG9zdDo3NDY1NQ"
+    },
+    {
+      "headline": "13-year-olds in prison — effective or not?",
+      "summary": "Kumla prison chief criticises plan to jail young children",
+      "source": "Omni",
+      "link": "https://omni.se/13-aringar-i-fangelse-effektiv-atgard-eller-inte/a/63pe60"
+    },
+    {
+      "headline": "Man convicted for inciting hatred against drag queens",
+      "summary": "Court sentences man for hate speech targeting drag performers",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/man-doms-for-hets-mot-dragqueens/"
+    },
+    {
+      "headline": "Promising brain tumour treatment results in Swedish research",
+      "summary": "Laser and immunotherapy kept 40% of patients alive at 18 months",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/lovande-resultat-for-behandling-av-dodlig-hjarntumor/"
+    },
+    {
+      "headline": "Declaration fraud warning: fake tax authority websites",
+      "summary": "Fraudsters targeting Swedes with fake Skatteverket phishing sites",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/varnar-for-deklarationsbedragare-falsk-hemsida/"
+    },
+    {
+      "headline": "Swedes lured into pyramid schemes via remote job ads",
+      "summary": "Scammers recruit Swedes with fake online work opportunities",
+      "source": "Omni",
+      "link": "https://omni.se/sa-luras-svenskar-in-i-pyramidspel-med-dromjobb-pa-distans/a/3pEm7d"
     }
   ]
 }
