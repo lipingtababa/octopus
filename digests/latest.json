@@ -1,68 +1,80 @@
 {
-  "date": "2026-03-05",
-  "title": "瑞典新闻 — 2026年03月05日",
-  "audio_url": "digests/2026-03-05.mp3",
-  "duration_seconds": 353,
+  "date": "2026-03-06",
+  "title": "瑞典新闻 — 2026年03月06日",
+  "audio_url": "digests/2026-03-06.mp3",
+  "duration_seconds": 412,
   "stories": [
     {
-      "headline": "NATO confidence plummets among Swedes",
-      "summary": "Swedes now trust police and Systembolaget more than NATO",
+      "headline": "Tidö parties agree on teenage deportations",
+      "summary": "Coalition reaches deal on deporting convicted teenagers",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/tidopartierna-overens-om-tonarsutvisningarna/cG9zdDo3NTE0Mw"
+    },
+    {
+      "headline": "Åkesson wants to pause teenage deportations",
+      "summary": "SD leader reverses course, calls for pause on policy",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/akesson-pausa-artonarsutvisningarna/cG9zdDo3NTAzNg"
+    },
+    {
+      "headline": "Migration minister: No repeat of 2015",
+      "summary": "Minister signals tough stance on new refugee flows",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/migrationsministern-slar-fast-vill-inte-ha-ett-nytt-2015/cG9zdDo3NTIxOQ"
+    },
+    {
+      "headline": "Kristersson: Ban under-15s from TikTok",
+      "summary": "PM calls for strict social media age verification",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/kristerssons-besked-stopp-for-barn-pa-tiktok/"
+    },
+    {
+      "headline": "Swedish police deploy to Abu Dhabi",
+      "summary": "Swedish police force sent to UAE",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/svensk-polis-skickar-styrka-till-abu-dhabi/cG9zdDo3NTA2NA"
+    },
+    {
+      "headline": "Riksdag majority backs nuclear deterrence",
+      "summary": "Parliament supports Swedish nuclear deterrence policy",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/majoritet-i-riksdagen-for-karnvapenavskrackning/cG9zdDo3NTI3Mw"
+    },
+    {
+      "headline": "Swedish Schools Agency director resigns after two years",
+      "summary": "Skolverket director general steps down unexpectedly",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/skolverkets-gd-avgar-efter-tva-ar/cG9zdDo3NTA0OA"
+    },
+    {
+      "headline": "Housing prices hit record in central Stockholm",
+      "summary": "February sets new condominium price record in Stockholm",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/nytt-prisrekord-pa-bostadsratter-i-centrala-stockholm/"
+    },
+    {
+      "headline": "Arjeplog has Sweden's least reliable electricity grid",
+      "summary": "Power outages increasing despite billions invested",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/darfor-har-arjeplog-sveriges-minst-palitliga-elnat/"
+    },
+    {
+      "headline": "Major train disruptions hit Stockholm, Gothenburg, Malmö",
+      "summary": "Widespread rail network outage affects three major cities",
       "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/sverige/fortroendet-for-nato-rasar/"
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1dbe8778-2558-4fa7-af93-26215240daf4"
     },
     {
-      "headline": "First return migration grants approved",
-      "summary": "Migration Agency grants new higher return allowances for first time",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/JOQemP/forsta-nya-atervandringsbidragen-beviljade"
-    },
-    {
-      "headline": "Ebba Busch: Political Islam a threat to Sweden",
-      "summary": "KD leader warns political Islam could enter Riksdag",
+      "headline": "DN: AI deepfakes cross realism threshold, regulation urgent",
+      "summary": "AI-generated video now nearly indistinguishable from reality",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/ebba-busch-jattefa-bar-niqab-men-det-ar-ett-kanonstort-problem/"
+      "link": "https://www.dn.se/ledare/en-partiledare-som-vill-forgora-sverige-ar-bara-borjan/"
     },
     {
-      "headline": "Malmö gang leader arrested in Poland",
-      "summary": "Wanted Swedish gang leader apprehended by Polish authorities",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/gangtopp-fran-malmo-gripen-i-polen/cG9zdDo3NDU4NA"
-    },
-    {
-      "headline": "Electricity price soared in February",
-      "summary": "Swedish electricity prices surged sharply last month",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/elpriset-rusade-i-februari/cG9zdDo3NDY1NQ"
-    },
-    {
-      "headline": "13-year-olds in prison — effective or not?",
-      "summary": "Kumla prison chief criticises plan to jail young children",
+      "headline": "Expert: Rawa Majid could become Israeli target",
+      "summary": "Gang leader Rawa Majid flagged as potential Israeli target",
       "source": "Omni",
-      "link": "https://omni.se/13-aringar-i-fangelse-effektiv-atgard-eller-inte/a/63pe60"
-    },
-    {
-      "headline": "Man convicted for inciting hatred against drag queens",
-      "summary": "Court sentences man for hate speech targeting drag performers",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/man-doms-for-hets-mot-dragqueens/"
-    },
-    {
-      "headline": "Promising brain tumour treatment results in Swedish research",
-      "summary": "Laser and immunotherapy kept 40% of patients alive at 18 months",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/lovande-resultat-for-behandling-av-dodlig-hjarntumor/"
-    },
-    {
-      "headline": "Declaration fraud warning: fake tax authority websites",
-      "summary": "Fraudsters targeting Swedes with fake Skatteverket phishing sites",
-      "source": "DN",
-      "link": "https://www.dn.se/ekonomi/varnar-for-deklarationsbedragare-falsk-hemsida/"
-    },
-    {
-      "headline": "Swedes lured into pyramid schemes via remote job ads",
-      "summary": "Scammers recruit Swedes with fake online work opportunities",
-      "source": "Omni",
-      "link": "https://omni.se/sa-luras-svenskar-in-i-pyramidspel-med-dromjobb-pa-distans/a/3pEm7d"
+      "link": "https://omni.se/expert-rawa-majid-kan-bli-maltavla-for-israel/a/gkEMMa"
     }
   ]
 }
