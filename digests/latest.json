@@ -1,80 +1,80 @@
 {
-  "date": "2026-03-06",
-  "title": "瑞典新闻 — 2026年03月06日",
-  "audio_url": "digests/2026-03-06.mp3",
-  "duration_seconds": 412,
+  "date": "2026-03-07",
+  "title": "瑞典新闻 — 2026年03月07日",
+  "audio_url": "digests/2026-03-07.mp3",
+  "duration_seconds": 360,
   "stories": [
     {
-      "headline": "Tidö parties agree on teenage deportations",
-      "summary": "Coalition reaches deal on deporting convicted teenagers",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/tidopartierna-overens-om-tonarsutvisningarna/cG9zdDo3NTE0Mw"
-    },
-    {
-      "headline": "Åkesson wants to pause teenage deportations",
-      "summary": "SD leader reverses course, calls for pause on policy",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/akesson-pausa-artonarsutvisningarna/cG9zdDo3NTAzNg"
-    },
-    {
-      "headline": "Migration minister: No repeat of 2015",
-      "summary": "Minister signals tough stance on new refugee flows",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/migrationsministern-slar-fast-vill-inte-ha-ett-nytt-2015/cG9zdDo3NTIxOQ"
-    },
-    {
-      "headline": "Kristersson: Ban under-15s from TikTok",
-      "summary": "PM calls for strict social media age verification",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/kristerssons-besked-stopp-for-barn-pa-tiktok/"
-    },
-    {
-      "headline": "Swedish police deploy to Abu Dhabi",
-      "summary": "Swedish police force sent to UAE",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/svensk-polis-skickar-styrka-till-abu-dhabi/cG9zdDo3NTA2NA"
-    },
-    {
-      "headline": "Riksdag majority backs nuclear deterrence",
-      "summary": "Parliament supports Swedish nuclear deterrence policy",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/majoritet-i-riksdagen-for-karnvapenavskrackning/cG9zdDo3NTI3Mw"
-    },
-    {
-      "headline": "Swedish Schools Agency director resigns after two years",
-      "summary": "Skolverket director general steps down unexpectedly",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/skolverkets-gd-avgar-efter-tva-ar/cG9zdDo3NTA0OA"
-    },
-    {
-      "headline": "Housing prices hit record in central Stockholm",
-      "summary": "February sets new condominium price record in Stockholm",
-      "source": "DN",
-      "link": "https://www.dn.se/ekonomi/nytt-prisrekord-pa-bostadsratter-i-centrala-stockholm/"
-    },
-    {
-      "headline": "Arjeplog has Sweden's least reliable electricity grid",
-      "summary": "Power outages increasing despite billions invested",
-      "source": "DN",
-      "link": "https://www.dn.se/ekonomi/darfor-har-arjeplog-sveriges-minst-palitliga-elnat/"
-    },
-    {
-      "headline": "Major train disruptions hit Stockholm, Gothenburg, Malmö",
-      "summary": "Widespread rail network outage affects three major cities",
+      "headline": "Civil Defence Authority: Swedes must prepare for three-year war",
+      "summary": "MCF director general warns public to ready for prolonged conflict",
       "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1dbe8778-2558-4fa7-af93-26215240daf4"
+      "link": "https://www.expressen.se/nyheter/sverige/myndigheten-for-civilt-forsvar-svenskar-maste-vara-redo-for-tre-ars-krig/"
     },
     {
-      "headline": "DN: AI deepfakes cross realism threshold, regulation urgent",
-      "summary": "AI-generated video now nearly indistinguishable from reality",
-      "source": "DN",
-      "link": "https://www.dn.se/ledare/en-partiledare-som-vill-forgora-sverige-ar-bara-borjan/"
+      "headline": "Government charters planes to fly stranded Swedes home",
+      "summary": "State intervention as Ving also repatriates 300 stranded travellers",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/regeringen-chartrar-plan-flyger-hem-svenskar/cG9zdDo3NTYyOQ"
     },
     {
-      "headline": "Expert: Rawa Majid could become Israeli target",
-      "summary": "Gang leader Rawa Majid flagged as potential Israeli target",
-      "source": "Omni",
-      "link": "https://omni.se/expert-rawa-majid-kan-bli-maltavla-for-israel/a/gkEMMa"
+      "headline": "UD demands immediate Swish payment for charter tickets",
+      "summary": "Foreign ministry requires upfront digital payment for emergency flights",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/ud-kraver-omedelbar-swish-for-flygbiljetter/cG9zdDo3NTk4MQ"
+    },
+    {
+      "headline": "Meta sued in Sweden over AI glasses privacy review",
+      "summary": "Legal action follows Swedish examination of Meta smart glasses",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/meta-stams-efter-svensk-granskning-av-ai-glasogon/cG9zdDo3NTU0NQ"
+    },
+    {
+      "headline": "L and SD still deadlocked over permanent residence permits",
+      "summary": "Coalition partners fail to resolve immigration policy dispute",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/l-och-sd-fortsatt-oense-om-permanenta-uppehallstillstand/cG9zdDo3NTU4Mg"
+    },
+    {
+      "headline": "Government plans to scrutinise religious influencers",
+      "summary": "Proposal to review online religious figures and their content",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/regeringen-vill-granska-religiosa-influerare/cG9zdDo3NTg2Mw"
+    },
+    {
+      "headline": "Police chief linked to suspect in drug bust investigation",
+      "summary": "Senior officer has connections to person caught in narcotics case",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/polischef-har-kopplingar-till-misstankt-i-narkotikaharva/cG9zdDo3NTk0NA"
+    },
+    {
+      "headline": "Suspicious vessel boarded outside Trelleborg",
+      "summary": "Swedish authorities board unidentified ship near southern coast",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/misstankt-fartyg-bordat-utanfor-trelleborg/cG9zdDo3NjAyMQ"
+    },
+    {
+      "headline": "Social Democrats blocked from questioning prime minister",
+      "summary": "Opposition S party denied opportunity to interrogate Kristersson",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/s-vi-nekas-att-fraga-ut-statsministern/cG9zdDo3NTgwNg"
+    },
+    {
+      "headline": "Sweden sends healthcare staff to Middle East",
+      "summary": "Government deploys medical personnel amid regional conflict escalation",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/sverige-skickar-sjukvardspersonal-till-mellanostern/cG9zdDo3NjA2MA"
+    },
+    {
+      "headline": "ALS drug blocked in Sweden despite saving lives abroad",
+      "summary": "Patients say authorities are 'playing with our lives' over delay",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/Wvj5Oa/lakemedel-mot-als-raddar-liv-stoppas-i-sverige?utm_medium=rss"
+    },
+    {
+      "headline": "Treatment delay at Malmö hospital leads to patient death",
+      "summary": "Woman dies of septic shock after care delayed at Skåne university hospital",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/sverige/behandling-drojde-kvinna-dog-av-septisk-chock/"
     }
   ]
 }
