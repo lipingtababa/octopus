@@ -1,80 +1,74 @@
 {
-  "date": "2026-03-07",
-  "title": "瑞典新闻 — 2026年03月07日",
-  "audio_url": "digests/2026-03-07.mp3",
-  "duration_seconds": 360,
+  "date": "2026-03-08",
+  "title": "瑞典新闻 — 2026年03月08日",
+  "audio_url": "digests/2026-03-08.mp3",
+  "duration_seconds": 389,
   "stories": [
     {
-      "headline": "Civil Defence Authority: Swedes must prepare for three-year war",
-      "summary": "MCF director general warns public to ready for prolonged conflict",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/sverige/myndigheten-for-civilt-forsvar-svenskar-maste-vara-redo-for-tre-ars-krig/"
+      "headline": "Stranded Swedes flown home from Dubai",
+      "summary": "180 Swedes evacuated, plane lands at Arlanda airport.",
+      "source": "Omni",
+      "link": "https://omni.se/ud-s-chartrade-plan-har-landat-i-sverige/a/gkEgV9"
     },
     {
-      "headline": "Government charters planes to fly stranded Swedes home",
-      "summary": "State intervention as Ving also repatriates 300 stranded travellers",
+      "headline": "Deportations to Lebanon paused",
+      "summary": "Sweden halts deportations amid escalating Lebanon conflict.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/regeringen-chartrar-plan-flyger-hem-svenskar/cG9zdDo3NTYyOQ"
+      "link": "https://kvartal.se/nyheter/artiklar/utvisningar-till-libanon-pausas/cG9zdDo3NjM4MQ"
     },
     {
-      "headline": "UD demands immediate Swish payment for charter tickets",
-      "summary": "Foreign ministry requires upfront digital payment for emergency flights",
+      "headline": "Sweden must survive three-month invasion, says expert",
+      "summary": "Defence analyst Frisell outlines worst-case war scenario.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/ud-kraver-omedelbar-swish-for-flygbiljetter/cG9zdDo3NTk4MQ"
+      "link": "https://kvartal.se/nyheter/artiklar/frisell-sverige-maste-klara-tre-manaders-invasion/cG9zdDo3NjM5Mg"
     },
     {
-      "headline": "Meta sued in Sweden over AI glasses privacy review",
-      "summary": "Legal action follows Swedish examination of Meta smart glasses",
+      "headline": "Swedish au pairs recruited into Epstein's circle",
+      "summary": "Agency ad linked Swedish girls to Epstein network.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/meta-stams-efter-svensk-granskning-av-ai-glasogon/cG9zdDo3NTU0NQ"
+      "link": "https://kvartal.se/nyheter/artiklar/svenska-barnflickor-rekryterades-till-epsteins-krets/cG9zdDo3NjM4Nw"
     },
     {
-      "headline": "L and SD still deadlocked over permanent residence permits",
-      "summary": "Coalition partners fail to resolve immigration policy dispute",
+      "headline": "Empty apartments threatening Swedish municipalities",
+      "summary": "Quarter of municipalities fear collapse from population decline.",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/tomma-lagenheter-pressar-kommuner-minskat-invanarantal-slar-hart/"
+    },
+    {
+      "headline": "Ljusnarsberg municipality risks collapse",
+      "summary": "Abandoned buildings, vandalism as population hollows out.",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/kommunen-som-riskerar-att-ga-under-ingen-bryr-sig-om-oss-vi-finns-inte/"
+    },
+    {
+      "headline": "KD calls for smartphone age limit",
+      "summary": "Christian Democrats want legal age cap on smartphones.",
+      "source": "Omni",
+      "link": "https://omni.se/kd-vill-se-aldersgrans-for-smarta-telefoner/a/oEndpK"
+    },
+    {
+      "headline": "Heart muscle disease cases double in Sweden",
+      "summary": "Cases doubled in 20 years, high excess mortality.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/fler-fall-av-hjartmuskelsjukdom-i-sverige-sa-kanner-du-igen-symtomen/"
+    },
+    {
+      "headline": "Reading crisis risks mass unemployment, expert warns",
+      "summary": "Literacy decline threatens Sweden's future labour market.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/l-och-sd-fortsatt-oense-om-permanenta-uppehallstillstand/cG9zdDo3NTU4Mg"
+      "link": "https://kvartal.se/jorgenhuitfeldt/artiklar/laskrisen-kan-leda-till-massarbetsloshet/cG9zdDo3NDIzMg"
     },
     {
-      "headline": "Government plans to scrutinise religious influencers",
-      "summary": "Proposal to review online religious figures and their content",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/regeringen-vill-granska-religiosa-influerare/cG9zdDo3NTg2Mw"
+      "headline": "Nazi shop manager convicted of incitement",
+      "summary": "Court convicts person responsible for Swedish Nazi shop.",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
     },
     {
-      "headline": "Police chief linked to suspect in drug bust investigation",
-      "summary": "Senior officer has connections to person caught in narcotics case",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/polischef-har-kopplingar-till-misstankt-i-narkotikaharva/cG9zdDo3NTk0NA"
-    },
-    {
-      "headline": "Suspicious vessel boarded outside Trelleborg",
-      "summary": "Swedish authorities board unidentified ship near southern coast",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/misstankt-fartyg-bordat-utanfor-trelleborg/cG9zdDo3NjAyMQ"
-    },
-    {
-      "headline": "Social Democrats blocked from questioning prime minister",
-      "summary": "Opposition S party denied opportunity to interrogate Kristersson",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-vi-nekas-att-fraga-ut-statsministern/cG9zdDo3NTgwNg"
-    },
-    {
-      "headline": "Sweden sends healthcare staff to Middle East",
-      "summary": "Government deploys medical personnel amid regional conflict escalation",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sverige-skickar-sjukvardspersonal-till-mellanostern/cG9zdDo3NjA2MA"
-    },
-    {
-      "headline": "ALS drug blocked in Sweden despite saving lives abroad",
-      "summary": "Patients say authorities are 'playing with our lives' over delay",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/Wvj5Oa/lakemedel-mot-als-raddar-liv-stoppas-i-sverige?utm_medium=rss"
-    },
-    {
-      "headline": "Treatment delay at Malmö hospital leads to patient death",
-      "summary": "Woman dies of septic shock after care delayed at Skåne university hospital",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/sverige/behandling-drojde-kvinna-dog-av-septisk-chock/"
+      "headline": "Jomshof incitement case dropped, JO complaint dismissed",
+      "summary": "SD politician's hate speech probe closed, JO complaint rejected.",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/jo-anmalan-mot-richard-jomshof-skrivs-av/"
     }
   ]
 }
