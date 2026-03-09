@@ -1,74 +1,68 @@
 {
-  "date": "2026-03-08",
-  "title": "瑞典新闻 — 2026年03月08日",
-  "audio_url": "digests/2026-03-08.mp3",
-  "duration_seconds": 389,
+  "date": "2026-03-09",
+  "title": "瑞典新闻 — 2026年03月09日",
+  "audio_url": "digests/2026-03-09.mp3",
+  "duration_seconds": 396,
   "stories": [
     {
-      "headline": "Stranded Swedes flown home from Dubai",
-      "summary": "180 Swedes evacuated, plane lands at Arlanda airport.",
-      "source": "Omni",
-      "link": "https://omni.se/ud-s-chartrade-plan-har-landat-i-sverige/a/gkEgV9"
+      "headline": "Powercell fraud allegations: green hydrogen tech 'doesn't work'",
+      "summary": "SVT/NRK reveal listed company sold faulty technology despite internal alarms.",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/larmen-inifran-borsbolaget-powercell-bluff-bakom-hyllad-gron-vatgasteknik"
     },
     {
-      "headline": "Deportations to Lebanon paused",
-      "summary": "Sweden halts deportations amid escalating Lebanon conflict.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/utvisningar-till-libanon-pausas/cG9zdDo3NjM4MQ"
+      "headline": "Oil price surges past $100 – biggest rise in 40 years",
+      "summary": "Iran war drives record single-day oil price increase.",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/ekonomi/oljepriset-rusar-over-100-dollar-fatet/"
     },
     {
-      "headline": "Sweden must survive three-month invasion, says expert",
-      "summary": "Defence analyst Frisell outlines worst-case war scenario.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/frisell-sverige-maste-klara-tre-manaders-invasion/cG9zdDo3NjM5Mg"
+      "headline": "Bris: children's calls about violence on the rise",
+      "summary": "Nearly 63,000 children contacted Bris in 2025.",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/sverige/bris-samtalen-om-vald-har-okat/"
     },
     {
-      "headline": "Swedish au pairs recruited into Epstein's circle",
-      "summary": "Agency ad linked Swedish girls to Epstein network.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/svenska-barnflickor-rekryterades-till-epsteins-krets/cG9zdDo3NjM4Nw"
+      "headline": "Clothing chaos at Norrland University Hospital risks infection",
+      "summary": "Staff forced to wear dirty clothes due to shortage.",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/kladkaos-pa-norrlands-universitetssjukhus-risk-att-vi-sprider-smitta"
     },
     {
-      "headline": "Empty apartments threatening Swedish municipalities",
-      "summary": "Quarter of municipalities fear collapse from population decline.",
+      "headline": "60 Swedish municipalities governed by Moderates and Social Democrats",
+      "summary": "Former political rivals ruling together across Sweden.",
       "source": "DN",
-      "link": "https://www.dn.se/ekonomi/tomma-lagenheter-pressar-kommuner-minskat-invanarantal-slar-hart/"
+      "link": "https://www.dn.se/sverige/forna-fiender-styr-nu-i-60-kommuner-ganska-kontroversiellt-i-mitt-parti/"
     },
     {
-      "headline": "Ljusnarsberg municipality risks collapse",
-      "summary": "Abandoned buildings, vandalism as population hollows out.",
-      "source": "DN",
-      "link": "https://www.dn.se/ekonomi/kommunen-som-riskerar-att-ga-under-ingen-bryr-sig-om-oss-vi-finns-inte/"
+      "headline": "Luleå celebrates 80,000 residents, eyes 100,000",
+      "summary": "Northern city targets major population growth within 15 years.",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/firade-80-000-invanare-sa-ska-lulea-bli-100-000"
     },
     {
-      "headline": "KD calls for smartphone age limit",
-      "summary": "Christian Democrats want legal age cap on smartphones.",
-      "source": "Omni",
-      "link": "https://omni.se/kd-vill-se-aldersgrans-for-smarta-telefoner/a/oEndpK"
-    },
-    {
-      "headline": "Heart muscle disease cases double in Sweden",
-      "summary": "Cases doubled in 20 years, high excess mortality.",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/fler-fall-av-hjartmuskelsjukdom-i-sverige-sa-kanner-du-igen-symtomen/"
-    },
-    {
-      "headline": "Reading crisis risks mass unemployment, expert warns",
-      "summary": "Literacy decline threatens Sweden's future labour market.",
+      "headline": "USA warns Americans in Sweden to keep a low profile",
+      "summary": "US issues alert amid Iran war tensions.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/jorgenhuitfeldt/artiklar/laskrisen-kan-leda-till-massarbetsloshet/cG9zdDo3NDIzMg"
+      "link": "https://kvartal.se/nyheter/artiklar/usa-varnar-amerikaner-i-sverige-hall-lag-profil/cG9zdDo3Njc1NQ"
     },
     {
-      "headline": "Nazi shop manager convicted of incitement",
-      "summary": "Court convicts person responsible for Swedish Nazi shop.",
+      "headline": "Expo JO-reports dropped incitement case against Jomshof",
+      "summary": "SD politician's dropped hate speech investigation referred to JO.",
       "source": "Expo",
-      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
+      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
     },
     {
-      "headline": "Jomshof incitement case dropped, JO complaint dismissed",
-      "summary": "SD politician's hate speech probe closed, JO complaint rejected.",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/jo-anmalan-mot-richard-jomshof-skrivs-av/"
+      "headline": "Can Sweden grow economically without destroying the planet?",
+      "summary": "DN examines degrowth versus green growth debate.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/slaget-om-planeten-maste-vi-bli-fattigare-for-att-overleva/"
+    },
+    {
+      "headline": "Avalanche danger at high level in four Swedish mountain areas",
+      "summary": "Authorities warn of significant avalanche risk in Swedish mountains.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/stor-lavinfara-i-fyra-svenska-fjallomraden/cG9zdDo3NjgwMg"
     }
   ]
 }
