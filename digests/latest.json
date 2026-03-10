@@ -1,68 +1,80 @@
 {
-  "date": "2026-03-09",
-  "title": "瑞典新闻 — 2026年03月09日",
-  "audio_url": "digests/2026-03-09.mp3",
-  "duration_seconds": 396,
+  "date": "2026-03-10",
+  "title": "瑞典新闻 — 2026年03月10日",
+  "audio_url": "digests/2026-03-10.mp3",
+  "duration_seconds": 414,
   "stories": [
     {
-      "headline": "Powercell fraud allegations: green hydrogen tech 'doesn't work'",
-      "summary": "SVT/NRK reveal listed company sold faulty technology despite internal alarms.",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/larmen-inifran-borsbolaget-powercell-bluff-bakom-hyllad-gron-vatgasteknik"
-    },
-    {
-      "headline": "Oil price surges past $100 – biggest rise in 40 years",
-      "summary": "Iran war drives record single-day oil price increase.",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/ekonomi/oljepriset-rusar-over-100-dollar-fatet/"
-    },
-    {
-      "headline": "Bris: children's calls about violence on the rise",
-      "summary": "Nearly 63,000 children contacted Bris in 2025.",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/sverige/bris-samtalen-om-vald-har-okat/"
-    },
-    {
-      "headline": "Clothing chaos at Norrland University Hospital risks infection",
-      "summary": "Staff forced to wear dirty clothes due to shortage.",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/kladkaos-pa-norrlands-universitetssjukhus-risk-att-vi-sprider-smitta"
-    },
-    {
-      "headline": "60 Swedish municipalities governed by Moderates and Social Democrats",
-      "summary": "Former political rivals ruling together across Sweden.",
+      "headline": "Government backs down on migration policy",
+      "summary": "Experts warn of next political crash after embarrassing retreat",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/forna-fiender-styr-nu-i-60-kommuner-ganska-kontroversiellt-i-mitt-parti/"
+      "link": "https://www.dn.se/ledare/regeringen-har-backat-om-migrationen-nu-varnar-experter-for-nasta-politiska-krasch/"
     },
     {
-      "headline": "Luleå celebrates 80,000 residents, eyes 100,000",
-      "summary": "Northern city targets major population growth within 15 years.",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/firade-80-000-invanare-sa-ska-lulea-bli-100-000"
+      "headline": "Åkesson: Authorities working against Sweden Democrats",
+      "summary": "SD leader attacks legal bodies blocking migration tightening",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/jimmie-akesson-jag-ar-hundra-procent-saker-myndigheterna-motverkar-oss/"
     },
     {
-      "headline": "USA warns Americans in Sweden to keep a low profile",
-      "summary": "US issues alert amid Iran war tensions.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/usa-varnar-amerikaner-i-sverige-hall-lag-profil/cG9zdDo3Njc1NQ"
+      "headline": "Far-right groups surging, Stockholm leads growth",
+      "summary": "Expo report: right-wing extremists up in 15 counties",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/expo-rapport-stockholm-sticker-ut-hogerextrema-pa-kraftig-frammarsch/"
     },
     {
-      "headline": "Expo JO-reports dropped incitement case against Jomshof",
-      "summary": "SD politician's dropped hate speech investigation referred to JO.",
+      "headline": "Far-right memes spreading on TikTok and Instagram",
+      "summary": "Anti-Semitic youth culture taking hold in Sweden",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/k0wRxB/hogerextrema-memes-bransle-pa-tiktok-och-instagram?utm_medium=rss"
+    },
+    {
+      "headline": "Extreme right changing, new groups recruiting youth",
+      "summary": "New movements shifting tactics to attract younger members",
       "source": "Expo",
-      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
+      "link": "https://expo.se/nyhet/extremhogern-forandras-nya-grupper-lockar-unga/"
     },
     {
-      "headline": "Can Sweden grow economically without destroying the planet?",
-      "summary": "DN examines degrowth versus green growth debate.",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/slaget-om-planeten-maste-vi-bli-fattigare-for-att-overleva/"
+      "headline": "Iran war raises Swedish electricity prices by 10%",
+      "summary": "Gas price link drives up spring and summer costs",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/ekonomi/privatekonomi/sa-mycket-lyfter-irankriget-elpriset/"
     },
     {
-      "headline": "Avalanche danger at high level in four Swedish mountain areas",
-      "summary": "Authorities warn of significant avalanche risk in Swedish mountains.",
+      "headline": "Government invests 1.4 billion in civil preparedness",
+      "summary": "Major funding boost for Sweden's defence readiness",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/stor-lavinfara-i-fyra-svenska-fjallomraden/cG9zdDo3NjgwMg"
+      "link": "https://kvartal.se/nyheter/artiklar/regeringen-satsar-14-miljarder-pa-beredskap/cG9zdDo3NzA0OQ"
+    },
+    {
+      "headline": "Social Democrats critical of nuclear weapons dialogue with France",
+      "summary": "S opposes government's talks on French nuclear umbrella",
+      "source": "Omni",
+      "link": "https://omni.se/s-kritiskt-till-dialog-om-karnvapen-med-frankrike/a/y5ERMr"
+    },
+    {
+      "headline": "AI startup Elva raises millions, backed by Slack founder",
+      "summary": "Solves talent acquisition problem for Swedish AI companies",
+      "source": "Breakit",
+      "link": "https://www.breakit.se/artikel/45689/antonia-eneh-ska-losa-techsfarens-stora-gissel-elva-tar-in-miljoner"
+    },
+    {
+      "headline": "School teachers forced to hunt sponsors for materials",
+      "summary": "VVS programme in Eskilstuna lacks basic teaching resources",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/lararna-tvingas-jaga-sponsorer-skolan-har-inte-rad-med-inkop-av-material"
+    },
+    {
+      "headline": "Police stun gun use on the rise",
+      "summary": "Increased deployment of electric shock weapons reported",
+      "source": "Omni",
+      "link": "https://omni.se/okning-av-anvandning-av-elchockvapen-inom-polisen/a/QJMmBx"
+    },
+    {
+      "headline": "Smog alert in Gothenburg, air potentially hazardous",
+      "summary": "Health warning issued as air quality deteriorates",
+      "source": "Omni",
+      "link": "https://omni.se/viss-smog-i-goteborg-luften-kan-vara-halsofarlig/a/GxyGxB"
     }
   ]
 }
