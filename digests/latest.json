@@ -1,80 +1,80 @@
 {
-  "date": "2026-03-10",
-  "title": "瑞典新闻 — 2026年03月10日",
-  "audio_url": "digests/2026-03-10.mp3",
-  "duration_seconds": 414,
+  "date": "2026-03-11",
+  "title": "瑞典新闻 — 2026年03月11日",
+  "audio_url": "digests/2026-03-11.mp3",
+  "duration_seconds": 435,
   "stories": [
     {
-      "headline": "Government backs down on migration policy",
-      "summary": "Experts warn of next political crash after embarrassing retreat",
-      "source": "DN",
-      "link": "https://www.dn.se/ledare/regeringen-har-backat-om-migrationen-nu-varnar-experter-for-nasta-politiska-krasch/"
-    },
-    {
-      "headline": "Åkesson: Authorities working against Sweden Democrats",
-      "summary": "SD leader attacks legal bodies blocking migration tightening",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/jimmie-akesson-jag-ar-hundra-procent-saker-myndigheterna-motverkar-oss/"
-    },
-    {
-      "headline": "Far-right groups surging, Stockholm leads growth",
-      "summary": "Expo report: right-wing extremists up in 15 counties",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/expo-rapport-stockholm-sticker-ut-hogerextrema-pa-kraftig-frammarsch/"
-    },
-    {
-      "headline": "Far-right memes spreading on TikTok and Instagram",
-      "summary": "Anti-Semitic youth culture taking hold in Sweden",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/k0wRxB/hogerextrema-memes-bransle-pa-tiktok-och-instagram?utm_medium=rss"
-    },
-    {
-      "headline": "Extreme right changing, new groups recruiting youth",
-      "summary": "New movements shifting tactics to attract younger members",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/extremhogern-forandras-nya-grupper-lockar-unga/"
-    },
-    {
-      "headline": "Iran war raises Swedish electricity prices by 10%",
-      "summary": "Gas price link drives up spring and summer costs",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/ekonomi/privatekonomi/sa-mycket-lyfter-irankriget-elpriset/"
-    },
-    {
-      "headline": "Government invests 1.4 billion in civil preparedness",
-      "summary": "Major funding boost for Sweden's defence readiness",
+      "headline": "Attempted murder of researcher Arvin Khoshnood",
+      "summary": "Academic targeted in shooting, connected to gang network Foxtrot",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/regeringen-satsar-14-miljarder-pa-beredskap/cG9zdDo3NzA0OQ"
+      "link": "https://kvartal.se/nyheter/artiklar/mordforsok-pa-arvin-khoshnood-talar-ut/cG9zdDo3ODE2MA"
     },
     {
-      "headline": "Social Democrats critical of nuclear weapons dialogue with France",
-      "summary": "S opposes government's talks on French nuclear umbrella",
+      "headline": "Murder plot against academics linked to Foxtrot",
+      "summary": "Gang network Foxtrot connected to academic assassination plot",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/mordplan-mot-akademiker-kopplas-till-foxtrot/cG9zdDo3Nzk1Ng"
+    },
+    {
+      "headline": "Stegra needs over 20 billion SEK",
+      "summary": "Green steel company in deepening financial crisis",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/stegra-behover-mer-an-20-miljarder/cG9zdDo3ODE1MQ"
+    },
+    {
+      "headline": "Teenagers deported despite Kristersson's promise",
+      "summary": "Young people held six months, deported against PM's pledge",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/K8M3r4/tonaringarna-utvisas-trots-kristerssons-lofte"
+    },
+    {
+      "headline": "BB closure caused 35% drop in births in Sollefteå",
+      "summary": "Maternity ward shutdown linked to plummeting birth rate",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/0pVVWM/barnafodande-rasade-efter-bb-nedlaggning"
+    },
+    {
+      "headline": "National digital exams cost 900 million — and failed",
+      "summary": "Warnings ignored for years before costly digital test collapse",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/nationella-proven-blev-ett-haveri-for-nastan-en-miljard/"
+    },
+    {
+      "headline": "Trump and Ukraine split Swedish far right",
+      "summary": "Ukraine war divides Swedish extreme-right movements",
       "source": "Omni",
-      "link": "https://omni.se/s-kritiskt-till-dialog-om-karnvapen-med-frankrike/a/y5ERMr"
+      "link": "https://omni.se/trump-och-ukraina-splittrar-svensk-extremhoger/a/k0w3nv"
     },
     {
-      "headline": "AI startup Elva raises millions, backed by Slack founder",
-      "summary": "Solves talent acquisition problem for Swedish AI companies",
-      "source": "Breakit",
-      "link": "https://www.breakit.se/artikel/45689/antonia-eneh-ska-losa-techsfarens-stora-gissel-elva-tar-in-miljoner"
+      "headline": "Two Nazis charged after action against Pride",
+      "summary": "Far-right extremists prosecuted for attacking Pride event",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/efter-aktion-mot-pride-tva-nazister-atalas/"
     },
     {
-      "headline": "School teachers forced to hunt sponsors for materials",
-      "summary": "VVS programme in Eskilstuna lacks basic teaching resources",
+      "headline": "Man threatened to shoot police officers in Gothenburg",
+      "summary": "Armed threats against police in Gothenburg investigated",
+      "source": "Omni",
+      "link": "https://omni.se/man-hotade-att-skjuta-poliser-i-goteborg/a/9p33qw"
+    },
+    {
+      "headline": "Sweden approved to buy US HIMARS rocket systems",
+      "summary": "US greenlights Sweden's purchase of advanced rocket artillery",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/usa-sverige-far-kopa-himars/cG9zdDo3NzkwOQ"
+    },
+    {
+      "headline": "Schizophrenic Gustaf still denied help by municipality",
+      "summary": "Young man rejected again despite SVT review pressure",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/lararna-tvingas-jaga-sponsorer-skolan-har-inte-rad-med-inkop-av-material"
+      "link": "https://www.svt.se/nyheter/granskning/ug/schizofrenisjuke-gustaf-fortfarande-utan-hjalp-kommunikationsmiss"
     },
     {
-      "headline": "Police stun gun use on the rise",
-      "summary": "Increased deployment of electric shock weapons reported",
-      "source": "Omni",
-      "link": "https://omni.se/okning-av-anvandning-av-elchockvapen-inom-polisen/a/QJMmBx"
-    },
-    {
-      "headline": "Smog alert in Gothenburg, air potentially hazardous",
-      "summary": "Health warning issued as air quality deteriorates",
-      "source": "Omni",
-      "link": "https://omni.se/viss-smog-i-goteborg-luften-kan-vara-halsofarlig/a/GxyGxB"
+      "headline": "AI Sweden visits Riksdag on skills supply and competitiveness",
+      "summary": "Labour market AI council lobbies parliament on workforce strategy",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/labor-market-ai-council-visits-riksdag-strengthen-swedens-skills-supply-and-competitiveness"
     }
   ]
 }
