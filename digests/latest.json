@@ -1,80 +1,80 @@
 {
-  "date": "2026-03-11",
-  "title": "瑞典新闻 — 2026年03月11日",
-  "audio_url": "digests/2026-03-11.mp3",
-  "duration_seconds": 435,
+  "date": "2026-03-12",
+  "title": "瑞典新闻 — 2026年03月12日",
+  "audio_url": "digests/2026-03-12.mp3",
+  "duration_seconds": 405,
   "stories": [
     {
-      "headline": "Attempted murder of researcher Arvin Khoshnood",
-      "summary": "Academic targeted in shooting, connected to gang network Foxtrot",
+      "headline": "Cyber attacks against Swedish companies up 32 percent",
+      "summary": "Attacks on Swedish firms rose 32% in past year.",
+      "source": "Omni",
+      "link": "https://omni.se/cyberattackerna-okar-med-32-procent-varje-minut-ar-viktig/a/WvjPkG"
+    },
+    {
+      "headline": "SD paid legal costs for convicted criminal 'Dumpen'",
+      "summary": "Sweden Democrats covered court costs for convicted figure.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/mordforsok-pa-arvin-khoshnood-talar-ut/cG9zdDo3ODE2MA"
+      "link": "https://kvartal.se/nyheter/artiklar/sd-har-betalat-for-dumpens-rattegangskostnader/cG9zdDo3ODUwMA"
     },
     {
-      "headline": "Murder plot against academics linked to Foxtrot",
-      "summary": "Gang network Foxtrot connected to academic assassination plot",
+      "headline": "SR journalist relocated over Israel comments",
+      "summary": "Sveriges Radio profile moved after Gaza-related statements.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/mordplan-mot-akademiker-kopplas-till-foxtrot/cG9zdDo3Nzk1Ng"
+      "link": "https://kvartal.se/nyheter/artiklar/israeluttalanden-lag-bakom-sr-journalistens-omplacering/cG9zdDo3ODY1Nw"
     },
     {
-      "headline": "Stegra needs over 20 billion SEK",
-      "summary": "Green steel company in deepening financial crisis",
+      "headline": "SR profile Mårten Arndtzén suspended after X posts",
+      "summary": "Public radio figure sidelined over social media posts.",
+      "source": "Omni",
+      "link": "https://omni.se/sr-profilen-marten-arndtzen-petas-efter-inlagg-pa-x/a/3pMqjv"
+    },
+    {
+      "headline": "Riksdag majority backs pause on electricity tariffs",
+      "summary": "Power tariff freeze gains parliamentary majority support.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/stegra-behover-mer-an-20-miljarder/cG9zdDo3ODE1MQ"
+      "link": "https://kvartal.se/nyheter/artiklar/paus-av-effekttariffer-stods-av-riksdagsmajoritet/cG9zdDo3ODQzNQ"
     },
     {
-      "headline": "Teenagers deported despite Kristersson's promise",
-      "summary": "Young people held six months, deported against PM's pledge",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/K8M3r4/tonaringarna-utvisas-trots-kristerssons-lofte"
+      "headline": "Social Democrats hit lowest poll support since 2022",
+      "summary": "S drops to three-year low; Centre Party gains.",
+      "source": "Omni",
+      "link": "https://omni.se/s-far-lagsta-stodet-sedan-2022-c-gar-framat/a/aJlGXL"
     },
     {
-      "headline": "BB closure caused 35% drop in births in Sollefteå",
-      "summary": "Maternity ward shutdown linked to plummeting birth rate",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/0pVVWM/barnafodande-rasade-efter-bb-nedlaggning"
+      "headline": "Two ships collide in Trelleborg harbour",
+      "summary": "Vessel collision reported in southern Swedish port.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/tva-fartyg-har-krockat-i-trelleborg/cG9zdDo3ODQ1NA"
     },
     {
-      "headline": "National digital exams cost 900 million — and failed",
-      "summary": "Warnings ignored for years before costly digital test collapse",
+      "headline": "Linda Staaf's resignation linked to drug operation",
+      "summary": "Senior police official's exit tied to narcotics investigation.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/linda-staaf-lamnade-toppjobb-kopplas-till-knarkinsats/cG9zdDo3ODU3NQ"
+    },
+    {
+      "headline": "S contacts Foreign Ministry over nuclear talks with France",
+      "summary": "Social Democrats engage government on French nuclear discussions.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/s-kontaktar-ud-om-karnvapensamtal-med-frankrike/cG9zdDo3ODY5MQ"
+    },
+    {
+      "headline": "Swedish housing market dysfunction examined",
+      "summary": "DN investigates youth lockout, construction crisis, long queues.",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/nationella-proven-blev-ett-haveri-for-nastan-en-miljard/"
+      "link": "https://www.dn.se/sverige/fakta-i-fragan-har-den-svenska-bostadsmarknaden-gatt-sonder/"
     },
     {
-      "headline": "Trump and Ukraine split Swedish far right",
-      "summary": "Ukraine war divides Swedish extreme-right movements",
-      "source": "Omni",
-      "link": "https://omni.se/trump-och-ukraina-splittrar-svensk-extremhoger/a/k0w3nv"
+      "headline": "Swedish spring arriving two weeks earlier than usual",
+      "summary": "Climate shift moves spring forward across most of Sweden.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/svenska-varen-kommer-snabbare-har-marks-det-most/"
     },
     {
-      "headline": "Two Nazis charged after action against Pride",
-      "summary": "Far-right extremists prosecuted for attacking Pride event",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/efter-aktion-mot-pride-tva-nazister-atalas/"
-    },
-    {
-      "headline": "Man threatened to shoot police officers in Gothenburg",
-      "summary": "Armed threats against police in Gothenburg investigated",
-      "source": "Omni",
-      "link": "https://omni.se/man-hotade-att-skjuta-poliser-i-goteborg/a/9p33qw"
-    },
-    {
-      "headline": "Sweden approved to buy US HIMARS rocket systems",
-      "summary": "US greenlights Sweden's purchase of advanced rocket artillery",
+      "headline": "Tidö parties propose 'environmental party insurance' against nuclear shutdowns",
+      "summary": "Coalition wants penalty mechanism deterring future nuclear closures.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/usa-sverige-far-kopa-himars/cG9zdDo3NzkwOQ"
-    },
-    {
-      "headline": "Schizophrenic Gustaf still denied help by municipality",
-      "summary": "Young man rejected again despite SVT review pressure",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/granskning/ug/schizofrenisjuke-gustaf-fortfarande-utan-hjalp-kommunikationsmiss"
-    },
-    {
-      "headline": "AI Sweden visits Riksdag on skills supply and competitiveness",
-      "summary": "Labour market AI council lobbies parliament on workforce strategy",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/labor-market-ai-council-visits-riksdag-strengthen-swedens-skills-supply-and-competitiveness"
+      "link": "https://kvartal.se/goranfrojdh/artiklar/tidopartierna-vill-se-miljopartiforsakring/cG9zdDo3ODUxNQ"
     }
   ]
 }
