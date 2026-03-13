@@ -1,80 +1,68 @@
 {
-  "date": "2026-03-12",
-  "title": "瑞典新闻 — 2026年03月12日",
-  "audio_url": "digests/2026-03-12.mp3",
-  "duration_seconds": 405,
+  "date": "2026-03-13",
+  "title": "瑞典新闻 — 2026年03月13日",
+  "audio_url": "digests/2026-03-13.mp3",
+  "duration_seconds": 353,
   "stories": [
     {
-      "headline": "Cyber attacks against Swedish companies up 32 percent",
-      "summary": "Attacks on Swedish firms rose 32% in past year.",
-      "source": "Omni",
-      "link": "https://omni.se/cyberattackerna-okar-med-32-procent-varje-minut-ar-viktig/a/WvjPkG"
-    },
-    {
-      "headline": "SD paid legal costs for convicted criminal 'Dumpen'",
-      "summary": "Sweden Democrats covered court costs for convicted figure.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sd-har-betalat-for-dumpens-rattegangskostnader/cG9zdDo3ODUwMA"
-    },
-    {
-      "headline": "SR journalist relocated over Israel comments",
-      "summary": "Sveriges Radio profile moved after Gaza-related statements.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/israeluttalanden-lag-bakom-sr-journalistens-omplacering/cG9zdDo3ODY1Nw"
-    },
-    {
-      "headline": "SR profile Mårten Arndtzén suspended after X posts",
-      "summary": "Public radio figure sidelined over social media posts.",
-      "source": "Omni",
-      "link": "https://omni.se/sr-profilen-marten-arndtzen-petas-efter-inlagg-pa-x/a/3pMqjv"
-    },
-    {
-      "headline": "Riksdag majority backs pause on electricity tariffs",
-      "summary": "Power tariff freeze gains parliamentary majority support.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/paus-av-effekttariffer-stods-av-riksdagsmajoritet/cG9zdDo3ODQzNQ"
-    },
-    {
-      "headline": "Social Democrats hit lowest poll support since 2022",
-      "summary": "S drops to three-year low; Centre Party gains.",
-      "source": "Omni",
-      "link": "https://omni.se/s-far-lagsta-stodet-sedan-2022-c-gar-framat/a/aJlGXL"
-    },
-    {
-      "headline": "Two ships collide in Trelleborg harbour",
-      "summary": "Vessel collision reported in southern Swedish port.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/tva-fartyg-har-krockat-i-trelleborg/cG9zdDo3ODQ1NA"
-    },
-    {
-      "headline": "Linda Staaf's resignation linked to drug operation",
-      "summary": "Senior police official's exit tied to narcotics investigation.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/linda-staaf-lamnade-toppjobb-kopplas-till-knarkinsats/cG9zdDo3ODU3NQ"
-    },
-    {
-      "headline": "S contacts Foreign Ministry over nuclear talks with France",
-      "summary": "Social Democrats engage government on French nuclear discussions.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-kontaktar-ud-om-karnvapensamtal-med-frankrike/cG9zdDo3ODY5MQ"
-    },
-    {
-      "headline": "Swedish housing market dysfunction examined",
-      "summary": "DN investigates youth lockout, construction crisis, long queues.",
+      "headline": "Government scraps controversial power tariff on electricity",
+      "summary": "Heavily criticised capacity charge on electricity bills abolished",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/fakta-i-fragan-har-den-svenska-bostadsmarknaden-gatt-sonder/"
+      "link": "https://www.dn.se/ekonomi/regeringen-stoppar-kritiserad-effektavgift-pa-el/"
     },
     {
-      "headline": "Swedish spring arriving two weeks earlier than usual",
-      "summary": "Climate shift moves spring forward across most of Sweden.",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/svenska-varen-kommer-snabbare-har-marks-det-most/"
+      "headline": "Sweden's e-government platform hacked, source code leaked",
+      "summary": "ByteToBreach group leaks Swedish digital platform source code",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/sverige/uppgift-sveriges-digitala-plattform-hackad-av-aktor/"
     },
     {
-      "headline": "Tidö parties propose 'environmental party insurance' against nuclear shutdowns",
-      "summary": "Coalition wants penalty mechanism deterring future nuclear closures.",
+      "headline": "Large data leak from Swedish government IT system",
+      "summary": "Sensitive information leaked from Swedish government system",
+      "source": "Omni",
+      "link": "https://omni.se/kanslig-information-lackt-fran-svenskt-it-system/a/M7n5zK"
+    },
+    {
+      "headline": "Liberals reverse position on Sweden Democrats cooperation",
+      "summary": "L party shifts stance on working with SD",
       "source": "Kvartal",
-      "link": "https://kvartal.se/goranfrojdh/artiklar/tidopartierna-vill-se-miljopartiforsakring/cG9zdDo3ODUxNQ"
+      "link": "https://kvartal.se/nyheter/artiklar/kvartals-uppgifter-bekraftas-l-andrar-sig-om-sd/cG9zdDo3OTUwMw"
+    },
+    {
+      "headline": "LKAB concealed workplace safety incidents",
+      "summary": "Mining giant admits covering up work environment violations",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/lkab-erkanner-morkning-av-incidenter/cG9zdDo3OTQyNg"
+    },
+    {
+      "headline": "Centre Party leader rules out Tidö cooperation",
+      "summary": "C leader rejects SD migration allowance as deal-breaker",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/elisabeth-thand-ringqvist-jag-drommer-inte-om-gamla-alliansen/"
+    },
+    {
+      "headline": "Swedes drank less alcohol in 2025",
+      "summary": "Annual consumption dropped to 8.2 litres per person",
+      "source": "Omni",
+      "link": "https://omni.se/svenskarnas-drickande-minskade-till-8-2-liter/a/XMjWVm"
+    },
+    {
+      "headline": "Nazi sentenced after disrupting Social Democrat meeting",
+      "summary": "Court convicts far-right activist for disrupting S meeting",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/ytterligare-en-nazist-doms-efter-storning-av-s-mote/"
+    },
+    {
+      "headline": "Suspected arson in Laholm, two arrested",
+      "summary": "Villa burned to ground, two suspects taken into custody",
+      "source": "SVT",
+      "link": "https://www.svt.se/nyheter/lokalt/halland/misstankt-mordbrand-i-laholm-tva-gripna"
+    },
+    {
+      "headline": "Housing debate: Build cheap homes, not raise mortgage ceiling",
+      "summary": "Op-ed argues loan limit rise inflates prices unfairly",
+      "source": "DN",
+      "link": "https://www.dn.se/insandare/bygg-billiga-bostader-i-stallet-for-att-elda-pa-bopriserna/"
     }
   ]
 }
