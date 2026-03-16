@@ -1,74 +1,80 @@
 {
-  "date": "2026-03-15",
-  "title": "瑞典新闻 — 2026年03月15日",
-  "audio_url": "digests/2026-03-15.mp3",
-  "duration_seconds": 392,
+  "date": "2026-03-16",
+  "title": "瑞典新闻 — 2026年03月16日",
+  "audio_url": "digests/2026-03-16.mp3",
+  "duration_seconds": 426,
   "stories": [
     {
-      "headline": "Police confirm Iranian threats against Sweden",
-      "summary": "Iranian threats against Sweden officially confirmed by police",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/polisen-bekraftar-iranska-hot-mot-sverige/cG9zdDo4MDI2MA"
-    },
-    {
-      "headline": "Authority threatens media after Iran reporting",
-      "summary": "Swedish authority warns media over Iran coverage",
-      "source": "Omni",
-      "link": "https://omni.se/myndighet-hotar-medier-efter-rapportering-om-iran/a/8pq7v1"
-    },
-    {
-      "headline": "Sweden gives 65 million to Lebanese refugees",
-      "summary": "Sweden commits 65M SEK in Lebanese refugee aid",
-      "source": "Omni",
-      "link": "https://omni.se/sverige-ger-65-miljoner-till-libanesiska-flyktingar/a/oE38WB"
-    },
-    {
-      "headline": "Secrecy surrounds government's 'Sverigelöftet' initiative",
-      "summary": "Heavy secrecy behind major government Sweden promise",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/stort-hemlighetsmakeri-bakom-sverigeloftet/cG9zdDo4MDI2Mw"
-    },
-    {
-      "headline": "LO invests 30 million in election campaign, calls S cowards",
-      "summary": "Trade union LO backs election push, criticises Social Democrats",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/lo-satsar-30-miljoner-i-valrorelsen-och-kallar-s-for-fega/cG9zdDo4MDM0Mw"
-    },
-    {
-      "headline": "Liberals in turmoil as members quit and resistance grows",
-      "summary": "Multiple Liberal departures as internal opposition mobilises",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/motstand-mobiliserar-i-liberalerna/cG9zdDo4MDM3Mw"
-    },
-    {
-      "headline": "Greens demand inclusion in Social Democrat government",
-      "summary": "Miljöpartiet demands seat in any future S-led government",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/mp-kraver-att-inga-i-s-regering/cG9zdDo4MDM1Ng"
-    },
-    {
-      "headline": "Ebba Busch attends Iran pro-Shah demonstration in Stockholm",
-      "summary": "KD leader backs Iranian opposition at Stockholm rally",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/busch-pa-irandemonstration-lange-leve-shahen/cG9zdDo4MDQwOA"
-    },
-    {
-      "headline": "New EU AI rules — how Sweden is affected",
-      "summary": "EU AI Act rules take effect, impacting Swedish businesses",
-      "source": "Omni",
-      "link": "https://omni.se/nya-ai-regler-sa-starker-ni-er-konkurrenskraft/a/j0lXbA"
-    },
-    {
-      "headline": "Bus voting stopped after previous Speaker chaos",
-      "summary": "Riksdag halts bus voting following earlier procedural scandal",
-      "source": "Omni",
-      "link": "https://omni.se/uppgift-busrostning-stoppas-efter-forra-talmanskaoset/a/d4RbXX"
-    },
-    {
-      "headline": "Sharp decline in preschool-age children across Sweden",
-      "summary": "273 of 290 municipalities see preschool population fall",
+      "headline": "Stockholm subway blue line severely disrupted",
+      "summary": "Trains running once per hour from Akalla and Hjulsta",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/kraftig-minskning-av-barn-i-forskolealder-men-inte-i-bjurholm"
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/stora-storningar-i-tunnelbanetrafik-i-stockholm"
+    },
+    {
+      "headline": "Police operation at Östermalm investigating suspicious object",
+      "summary": "Police action underway in central Stockholm Monday morning",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/krim/polisinsats-i-centrala-stockholm-/"
+    },
+    {
+      "headline": "Kristersson: Sweden must be more proactive in the Arctic",
+      "summary": "PM calls for increased Swedish engagement in Arctic region",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/kristersson-vi-maste-vara-mer-proaktiva-i-arktis/cG9zdDo4MDYzMA"
+    },
+    {
+      "headline": "S-leader opens door to government with Moderaterna",
+      "summary": "Social Democrat top figure signals coalition with centre-right",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/s-topp-oppnar-for-regering-med-m/cG9zdDo4MDc1OA"
+    },
+    {
+      "headline": "Majority of Liberal voters support SD in government",
+      "summary": "Poll shows L voters favour Sweden Democrats entering coalition",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/majoritet-l-valjare-stottar-sd-i-regering/cG9zdDo4MDYzOQ"
+    },
+    {
+      "headline": "L students want to oust party leader Mohamsson",
+      "summary": "Liberal youth wing pushes to remove sitting party leader",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/l-studenter-vill-avsatta-mohamsson/cG9zdDo4MDU4MQ"
+    },
+    {
+      "headline": "Electricity revolt in Jokkmokk over high energy prices",
+      "summary": "Residents demand lower electricity prices in northern Sweden",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/eluppror-i-jokkmokk-krav-pa-lagre-elpriser/cG9zdDo4MDU5MQ"
+    },
+    {
+      "headline": "Children suspected of gang violence increasing",
+      "summary": "Rising numbers of minors linked to organised gang crime",
+      "source": "Omni",
+      "link": "https://omni.se/antalet-barn-som-misstanks-for-gangvald-okar/a/V6zkKr"
+    },
+    {
+      "headline": "AI favours older workers while youth jobs disappear",
+      "summary": "Research finds AI displaces entry-level and young workers",
+      "source": "Omni",
+      "link": "https://omni.se/ai-gynnar-aldres-jobb-medan-ungas-slas-ut/a/Bx0dj0"
+    },
+    {
+      "headline": "DN leader: Prestigious degrees but jobs vanishing fast",
+      "summary": "AI already reshaping Swedish labour market, youth most exposed",
+      "source": "DN",
+      "link": "https://www.dn.se/ledare/de-har-en-prestigeutbildning-men-jobben-forsvinner/"
+    },
+    {
+      "headline": "Sweden's opposition flags problems in S-M joint municipalities",
+      "summary": "Opposition parties critical of Social Democrat-Moderate local coalitions",
+      "source": "Sveriges Radio Ekot",
+      "link": "https://www.sverigesradio.se/artikel/9176452"
+    },
+    {
+      "headline": "Interpreter shortage worsening, state must step up",
+      "summary": "Trade union warns of deepening interpreter shortage in Sweden",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/nyhetstecken/johanna-alm-dahlin-staten-maste-ta-ett-storre-ansvar"
     }
   ]
 }
