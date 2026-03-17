@@ -1,80 +1,68 @@
 {
-  "date": "2026-03-16",
-  "title": "瑞典新闻 — 2026年03月16日",
-  "audio_url": "digests/2026-03-16.mp3",
-  "duration_seconds": 426,
+  "date": "2026-03-17",
+  "title": "瑞典新闻 — 2026年03月17日",
+  "audio_url": "digests/2026-03-17.mp3",
+  "duration_seconds": 309,
   "stories": [
     {
-      "headline": "Stockholm subway blue line severely disrupted",
-      "summary": "Trains running once per hour from Akalla and Hjulsta",
+      "headline": "L leader Mohamsson backs SD line, Ohlsson declines to lead party",
+      "summary": "Liberals shift right; Ohlsson refuses leadership amid SD alignment",
+      "source": "Omni",
+      "link": "https://omni.se/efter-l-s-vandning-vad-talar-emot-att-akesson-blir-statsminister/a/wrg50L"
+    },
+    {
+      "headline": "Sweden moves embassy staff from Iran amid regional attacks",
+      "summary": "Sweden evacuates personnel as Iran strikes multiple countries",
+      "source": "Omni",
+      "link": "https://omni.se/sverige-flyttar-personal-fran-ambassaden-i-iran/a/vrgy45"
+    },
+    {
+      "headline": "US democracy collapses under Trump, Gothenburg University report finds",
+      "summary": "V-Dem survey shows sharp democratic decline in one year",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/stora-storningar-i-tunnelbanetrafik-i-stockholm"
+      "link": "https://www.svt.se/nyheter/inrikes/usas-demokrati-rasar-under-donald-trump-visar-ny-undersokning"
     },
     {
-      "headline": "Police operation at Östermalm investigating suspicious object",
-      "summary": "Police action underway in central Stockholm Monday morning",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/krim/polisinsats-i-centrala-stockholm-/"
-    },
-    {
-      "headline": "Kristersson: Sweden must be more proactive in the Arctic",
-      "summary": "PM calls for increased Swedish engagement in Arctic region",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/kristersson-vi-maste-vara-mer-proaktiva-i-arktis/cG9zdDo4MDYzMA"
-    },
-    {
-      "headline": "S-leader opens door to government with Moderaterna",
-      "summary": "Social Democrat top figure signals coalition with centre-right",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-topp-oppnar-for-regering-med-m/cG9zdDo4MDc1OA"
-    },
-    {
-      "headline": "Majority of Liberal voters support SD in government",
-      "summary": "Poll shows L voters favour Sweden Democrats entering coalition",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/majoritet-l-valjare-stottar-sd-i-regering/cG9zdDo4MDYzOQ"
-    },
-    {
-      "headline": "L students want to oust party leader Mohamsson",
-      "summary": "Liberal youth wing pushes to remove sitting party leader",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/l-studenter-vill-avsatta-mohamsson/cG9zdDo4MDU4MQ"
-    },
-    {
-      "headline": "Electricity revolt in Jokkmokk over high energy prices",
-      "summary": "Residents demand lower electricity prices in northern Sweden",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/eluppror-i-jokkmokk-krav-pa-lagre-elpriser/cG9zdDo4MDU5MQ"
-    },
-    {
-      "headline": "Children suspected of gang violence increasing",
-      "summary": "Rising numbers of minors linked to organised gang crime",
-      "source": "Omni",
-      "link": "https://omni.se/antalet-barn-som-misstanks-for-gangvald-okar/a/V6zkKr"
-    },
-    {
-      "headline": "AI favours older workers while youth jobs disappear",
-      "summary": "Research finds AI displaces entry-level and young workers",
-      "source": "Omni",
-      "link": "https://omni.se/ai-gynnar-aldres-jobb-medan-ungas-slas-ut/a/Bx0dj0"
-    },
-    {
-      "headline": "DN leader: Prestigious degrees but jobs vanishing fast",
-      "summary": "AI already reshaping Swedish labour market, youth most exposed",
+      "headline": "Police used false ID to pressure sex-buying suspect",
+      "summary": "Officers showed wrong photo, still used it to coerce confession",
       "source": "DN",
-      "link": "https://www.dn.se/ledare/de-har-en-prestigeutbildning-men-jobben-forsvinner/"
+      "link": "https://www.dn.se/sverige/polisen-visade-bild-pa-fel-person-pressade-misstankt-sexkopare-med-falska-uppgifter/"
     },
     {
-      "headline": "Sweden's opposition flags problems in S-M joint municipalities",
-      "summary": "Opposition parties critical of Social Democrat-Moderate local coalitions",
-      "source": "Sveriges Radio Ekot",
-      "link": "https://www.sverigesradio.se/artikel/9176452"
+      "headline": "50,000 more elderly care workers needed by 2030",
+      "summary": "Sweden faces major staffing gap in ageing population care",
+      "source": "Omni",
+      "link": "https://omni.se/50000-anstallda-behovs-till-aldreomsorgen-till-2030/a/2p50qv"
     },
     {
-      "headline": "Interpreter shortage worsening, state must step up",
-      "summary": "Trade union warns of deepening interpreter shortage in Sweden",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/nyhetstecken/johanna-alm-dahlin-staten-maste-ta-ett-storre-ansvar"
+      "headline": "S wants national energy council established",
+      "summary": "Social Democrats push for coordinated national energy governance body",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/s-vill-infora-nationellt-energirad/cG9zdDo4MTQzNg"
+    },
+    {
+      "headline": "Sweden's food production sufficient even in wartime crisis",
+      "summary": "Researchers confirm domestic output covers national needs twice over",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/vrgpwj/oro-i-onodan-maten-racker-till-svenskarna-i-kris"
+    },
+    {
+      "headline": "North Korean operatives infiltrating European companies",
+      "summary": "IT workers secretly embedded in firms across Europe including Sweden",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/nordkoreansk-miniarme-infiltrerar-europeiska-foretag/cG9zdDo4MTQ0MA"
+    },
+    {
+      "headline": "Rent regulation drives housing discrimination, DN leader argues",
+      "summary": "Report links rent controls to segregation; market rents proposed",
+      "source": "DN",
+      "link": "https://www.dn.se/ledare/han-visar-hur-bostadsmarknaden-leder-till-diskriminering-och-visar-en-losning/"
+    },
+    {
+      "headline": "AI reshaping Swedish labour market, skills development urgently needed",
+      "summary": "AI Sweden report flags transition pressure on workforce and youth",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/new-report-ais-impact-labor-market-skills-development-more-vital-urgent-transition"
     }
   ]
 }
