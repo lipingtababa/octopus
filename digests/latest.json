@@ -1,68 +1,80 @@
 {
-  "date": "2026-03-17",
-  "title": "瑞典新闻 — 2026年03月17日",
-  "audio_url": "digests/2026-03-17.mp3",
-  "duration_seconds": 309,
+  "date": "2026-03-18",
+  "title": "瑞典新闻 — 2026年03月18日",
+  "audio_url": "digests/2026-03-18.mp3",
+  "duration_seconds": 355,
   "stories": [
     {
-      "headline": "L leader Mohamsson backs SD line, Ohlsson declines to lead party",
-      "summary": "Liberals shift right; Ohlsson refuses leadership amid SD alignment",
-      "source": "Omni",
-      "link": "https://omni.se/efter-l-s-vandning-vad-talar-emot-att-akesson-blir-statsminister/a/wrg50L"
-    },
-    {
-      "headline": "Sweden moves embassy staff from Iran amid regional attacks",
-      "summary": "Sweden evacuates personnel as Iran strikes multiple countries",
-      "source": "Omni",
-      "link": "https://omni.se/sverige-flyttar-personal-fran-ambassaden-i-iran/a/vrgy45"
-    },
-    {
-      "headline": "US democracy collapses under Trump, Gothenburg University report finds",
-      "summary": "V-Dem survey shows sharp democratic decline in one year",
+      "headline": "Ghislaine Maxwell recruited young women at Gothenburg hotel",
+      "summary": "SVT reveals Maxwell sought Swedish women via local newspaper ads",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/usas-demokrati-rasar-under-donald-trump-visar-ny-undersokning"
+      "link": "https://www.svt.se/nyheter/inrikes/ghislaine-maxwell-sokte-unga-kvinnor-pa-hotell-i-goteborg"
     },
     {
-      "headline": "Police used false ID to pressure sex-buying suspect",
-      "summary": "Officers showed wrong photo, still used it to coerce confession",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/polisen-visade-bild-pa-fel-person-pressade-misstankt-sexkopare-med-falska-uppgifter/"
+      "headline": "Swedish doctor denies Epstein knowledge",
+      "summary": "Eva Andersson-Dubin responds to Epstein recruitment allegations",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/inrikes/svaret-sag-inget-misstankte-inget-visste-inget"
     },
     {
-      "headline": "50,000 more elderly care workers needed by 2030",
-      "summary": "Sweden faces major staffing gap in ageing population care",
+      "headline": "Åkesson positions himself as prime ministerial candidate",
+      "summary": "SD leader sees himself as future prime minister",
       "source": "Omni",
-      "link": "https://omni.se/50000-anstallda-behovs-till-aldreomsorgen-till-2030/a/2p50qv"
+      "link": "https://omni.se/akesson-ser-sig-sjalv-som-statsministerkandidat/a/8pqkrd"
     },
     {
-      "headline": "S wants national energy council established",
-      "summary": "Social Democrats push for coordinated national energy governance body",
+      "headline": "Iran war divides Swedish public opinion",
+      "summary": "Survey shows majority of Swedes oppose US-Israeli military action",
+      "source": "Omni",
+      "link": "https://omni.se/beslutet-att-attackera-iran-splittrar-svenska-folket/a/JOby0J"
+    },
+    {
+      "headline": "Centre Party grows after Liberals' SD alignment",
+      "summary": "C gains support following L's controversial turn toward SD",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-vill-infora-nationellt-energirad/cG9zdDo4MTQzNg"
+      "link": "https://kvartal.se/nyheter/artiklar/centerpartiet-vaxer-efter-liberalernas-sd-svang/cG9zdDo4MjIyOQ"
     },
     {
-      "headline": "Sweden's food production sufficient even in wartime crisis",
-      "summary": "Researchers confirm domestic output covers national needs twice over",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/vrgpwj/oro-i-onodan-maten-racker-till-svenskarna-i-kris"
-    },
-    {
-      "headline": "North Korean operatives infiltrating European companies",
-      "summary": "IT workers secretly embedded in firms across Europe including Sweden",
+      "headline": "Power player behind Liberals' SD turn revealed",
+      "summary": "Named minister identified as architect of L's SD swing",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/nordkoreansk-miniarme-infiltrerar-europeiska-foretag/cG9zdDo4MTQ0MA"
+      "link": "https://kvartal.se/nyheter/artiklar/uppgifter-maktspelaren-bakom-ls-sd-svang/cG9zdDo4MjI3OA"
     },
     {
-      "headline": "Rent regulation drives housing discrimination, DN leader argues",
-      "summary": "Report links rent controls to segregation; market rents proposed",
+      "headline": "Åkesson: Simona Mohamsson has grown in SD members' eyes",
+      "summary": "SD leader praises L's move, denies making concessions",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/politik/akesson-simona-har-vuxit-i-sdares-ogon/"
+    },
+    {
+      "headline": "Skåne scraps troubled journal system Millennium",
+      "summary": "Criticised healthcare record system halted in Skåne region",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/det-kritiserade-journalsystemet-millennium-stoppas/cG9zdDo4MjA5Ng"
+    },
+    {
+      "headline": "Meningitis outbreak in UK: low risk of spread to Sweden",
+      "summary": "Experts say very low probability of UK outbreak reaching Sweden",
       "source": "DN",
-      "link": "https://www.dn.se/ledare/han-visar-hur-bostadsmarknaden-leder-till-diskriminering-och-visar-en-losning/"
+      "link": "https://www.dn.se/varlden/lag-risk-att-engelsk-smitta-sprids-till-sverige/"
     },
     {
-      "headline": "AI reshaping Swedish labour market, skills development urgently needed",
-      "summary": "AI Sweden report flags transition pressure on workforce and youth",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/new-report-ais-impact-labor-market-skills-development-more-vital-urgent-transition"
+      "headline": "AI Gothenburg hub targets 200 new companies in four years",
+      "summary": "New Gothenburg AI hub backed by business region leadership",
+      "source": "Breakit",
+      "link": "https://www.breakit.se/artikel/45783/nya-ai-hubben-ai-gothenburg-ska-skapa-200-bolag-pa-fyra-ar"
+    },
+    {
+      "headline": "SAS cancels 1,000 departures as fuel prices spike",
+      "summary": "SAS halts flights amid surging fuel costs from Iran conflict",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/sas-staller-in-1000-avgangar-branslepriset-rusar/cG9zdDo4MjIzNg"
+    },
+    {
+      "headline": "Record grenade seizure linked to criminal network Majid",
+      "summary": "Police seize unprecedented grenade cache tied to Majid network",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/uppgift-rekordbeslag-av-granater-kopplas-till-majid/cG9zdDo4MjI3Mw"
     }
   ]
 }
