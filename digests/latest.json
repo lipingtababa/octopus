@@ -1,80 +1,74 @@
 {
-  "date": "2026-03-18",
-  "title": "瑞典新闻 — 2026年03月18日",
-  "audio_url": "digests/2026-03-18.mp3",
-  "duration_seconds": 355,
+  "date": "2026-03-19",
+  "title": "瑞典新闻 — 2026年03月19日",
+  "audio_url": "digests/2026-03-19.mp3",
+  "duration_seconds": 339,
   "stories": [
     {
-      "headline": "Ghislaine Maxwell recruited young women at Gothenburg hotel",
-      "summary": "SVT reveals Maxwell sought Swedish women via local newspaper ads",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/ghislaine-maxwell-sokte-unga-kvinnor-pa-hotell-i-goteborg"
+      "headline": "Swede executed in Iran",
+      "summary": "Swedish citizen executed in Iran, prompting diplomatic outcry.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/svensk-avrattad-i-iran/cG9zdDo4MjY5MQ"
     },
     {
-      "headline": "Swedish doctor denies Epstein knowledge",
-      "summary": "Eva Andersson-Dubin responds to Epstein recruitment allegations",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/svaret-sag-inget-misstankte-inget-visste-inget"
+      "headline": "Sweden issues strongest condemnation of Iran",
+      "summary": "Government uses strongest possible wording criticising Iran.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/svensk-kritik-mot-iran-starkast-mojliga-ordalag/cG9zdDo4MzE0Ng"
     },
     {
-      "headline": "Åkesson positions himself as prime ministerial candidate",
-      "summary": "SD leader sees himself as future prime minister",
+      "headline": "Record grenade seizure, two men detained",
+      "summary": "Record number of grenades seized, two suspects held.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/rekordbeslag-av-granater-tva-man-haktade/cG9zdDo4MjY5OA"
+    },
+    {
+      "headline": "Two men sentenced to life for Ullared murder",
+      "summary": "Court hands life sentences for murder near Ullared.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/tva-man-doms-till-livstid-for-mord-utanfor-ullared/cG9zdDo4MjgwOQ"
+    },
+    {
+      "headline": "SD's Jomshof breaks with Åkesson on circumcision",
+      "summary": "Internal SD split over circumcision ban policy.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/jomshof-sd-gar-emot-akesson-om-omskarelse/cG9zdDo4MjkwNw"
+    },
+    {
+      "headline": "Extreme right evolving, new groups recruiting youth",
+      "summary": "Far-right movements shifting, attracting younger members.",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/extremhogern-forandras-nya-grupper-lockar-unga/"
+    },
+    {
+      "headline": "S proposes Swedish consulate in Greenland",
+      "summary": "Social Democrats call for consulate amid US pressure.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/s-foreslar-svenskt-konsulat-pa-gronland/cG9zdDo4MzAzMw"
+    },
+    {
+      "headline": "Tax declaration changes hit millions of Swedes",
+      "summary": "Altered deductions affect millions in this year's declaration.",
       "source": "Omni",
-      "link": "https://omni.se/akesson-ser-sig-sjalv-som-statsministerkandidat/a/8pqkrd"
+      "link": "https://omni.se/nyheterna-i-deklarationen-andrat-avdrag-slar-mot-miljontals-svenskar/a/ArvBMx"
     },
     {
-      "headline": "Iran war divides Swedish public opinion",
-      "summary": "Survey shows majority of Swedes oppose US-Israeli military action",
-      "source": "Omni",
-      "link": "https://omni.se/beslutet-att-attackera-iran-splittrar-svenska-folket/a/JOby0J"
+      "headline": "Municipalities lose staff as salary thresholds rise",
+      "summary": "Higher salary requirements cause municipal staffing shortfall.",
+      "source": "Sveriges Radio Ekot",
+      "link": "https://www.sverigesradio.se/artikel/9179805"
     },
     {
-      "headline": "Centre Party grows after Liberals' SD alignment",
-      "summary": "C gains support following L's controversial turn toward SD",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/centerpartiet-vaxer-efter-liberalernas-sd-svang/cG9zdDo4MjIyOQ"
-    },
-    {
-      "headline": "Power player behind Liberals' SD turn revealed",
-      "summary": "Named minister identified as architect of L's SD swing",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/uppgifter-maktspelaren-bakom-ls-sd-svang/cG9zdDo4MjI3OA"
-    },
-    {
-      "headline": "Åkesson: Simona Mohamsson has grown in SD members' eyes",
-      "summary": "SD leader praises L's move, denies making concessions",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-simona-har-vuxit-i-sdares-ogon/"
-    },
-    {
-      "headline": "Skåne scraps troubled journal system Millennium",
-      "summary": "Criticised healthcare record system halted in Skåne region",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/det-kritiserade-journalsystemet-millennium-stoppas/cG9zdDo4MjA5Ng"
-    },
-    {
-      "headline": "Meningitis outbreak in UK: low risk of spread to Sweden",
-      "summary": "Experts say very low probability of UK outbreak reaching Sweden",
+      "headline": "Swedes remain among world's happiest",
+      "summary": "Sweden stays top-tier in World Happiness Report.",
       "source": "DN",
-      "link": "https://www.dn.se/varlden/lag-risk-att-engelsk-smitta-sprids-till-sverige/"
+      "link": "https://www.dn.se/sverige/svenskar-glada-men-finland-lyckligast-igen/"
     },
     {
-      "headline": "AI Gothenburg hub targets 200 new companies in four years",
-      "summary": "New Gothenburg AI hub backed by business region leadership",
-      "source": "Breakit",
-      "link": "https://www.breakit.se/artikel/45783/nya-ai-hubben-ai-gothenburg-ska-skapa-200-bolag-pa-fyra-ar"
-    },
-    {
-      "headline": "SAS cancels 1,000 departures as fuel prices spike",
-      "summary": "SAS halts flights amid surging fuel costs from Iran conflict",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/sas-staller-in-1000-avgangar-branslepriset-rusar/cG9zdDo4MjIzNg"
-    },
-    {
-      "headline": "Record grenade seizure linked to criminal network Majid",
-      "summary": "Police seize unprecedented grenade cache tied to Majid network",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/uppgift-rekordbeslag-av-granater-kopplas-till-majid/cG9zdDo4MjI3Mw"
+      "headline": "S leader Sara Kukka-Salam on immigrant integration debate",
+      "summary": "Solna mayor challenges S on how immigrants are discussed.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/sara-kukka-salam-s-maste-ta-ansvar-for-hur-de-pratar-om-invandrare/"
     }
   ]
 }
