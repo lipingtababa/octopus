@@ -1,74 +1,68 @@
 {
-  "date": "2026-03-19",
-  "title": "瑞典新闻 — 2026年03月19日",
-  "audio_url": "digests/2026-03-19.mp3",
-  "duration_seconds": 339,
+  "date": "2026-03-20",
+  "title": "瑞典新闻 — 2026年03月20日",
+  "audio_url": "digests/2026-03-20.mp3",
+  "duration_seconds": 341,
   "stories": [
     {
-      "headline": "Swede executed in Iran",
-      "summary": "Swedish citizen executed in Iran, prompting diplomatic outcry.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/svensk-avrattad-i-iran/cG9zdDo4MjY5MQ"
+      "headline": "New advice: Stop saving babies born before week 23",
+      "summary": "Medical ethics council recommends palliation over life-saving at week 22",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/granskning/ug/nya-radet-sluta-forsoka-radda-bebisar-fodda-innan-vecka-23"
     },
     {
-      "headline": "Sweden issues strongest condemnation of Iran",
-      "summary": "Government uses strongest possible wording criticising Iran.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/svensk-kritik-mot-iran-starkast-mojliga-ordalag/cG9zdDo4MzE0Ng"
-    },
-    {
-      "headline": "Record grenade seizure, two men detained",
-      "summary": "Record number of grenades seized, two suspects held.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/rekordbeslag-av-granater-tva-man-haktade/cG9zdDo4MjY5OA"
-    },
-    {
-      "headline": "Two men sentenced to life for Ullared murder",
-      "summary": "Court hands life sentences for murder near Ullared.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/tva-man-doms-till-livstid-for-mord-utanfor-ullared/cG9zdDo4MjgwOQ"
-    },
-    {
-      "headline": "SD's Jomshof breaks with Åkesson on circumcision",
-      "summary": "Internal SD split over circumcision ban policy.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/jomshof-sd-gar-emot-akesson-om-omskarelse/cG9zdDo4MjkwNw"
-    },
-    {
-      "headline": "Extreme right evolving, new groups recruiting youth",
-      "summary": "Far-right movements shifting, attracting younger members.",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/extremhogern-forandras-nya-grupper-lockar-unga/"
-    },
-    {
-      "headline": "S proposes Swedish consulate in Greenland",
-      "summary": "Social Democrats call for consulate amid US pressure.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-foreslar-svenskt-konsulat-pa-gronland/cG9zdDo4MzAzMw"
-    },
-    {
-      "headline": "Tax declaration changes hit millions of Swedes",
-      "summary": "Altered deductions affect millions in this year's declaration.",
+      "headline": "Liberals' Mohamsson: SD alliance 'not my first choice'",
+      "summary": "Party leader defends controversial new line in closed meeting",
       "source": "Omni",
-      "link": "https://omni.se/nyheterna-i-deklarationen-andrat-avdrag-slar-mot-miljontals-svenskar/a/ArvBMx"
+      "link": "https://omni.se/mohamsson-i-stangt-mote-inte-mitt-forstahandsval/a/5pE506"
     },
     {
-      "headline": "Municipalities lose staff as salary thresholds rise",
-      "summary": "Higher salary requirements cause municipal staffing shortfall.",
-      "source": "Sveriges Radio Ekot",
-      "link": "https://www.sverigesradio.se/artikel/9179805"
-    },
-    {
-      "headline": "Swedes remain among world's happiest",
-      "summary": "Sweden stays top-tier in World Happiness Report.",
+      "headline": "DN: Only one Liberal left in dozens of municipalities",
+      "summary": "Party shrinking for years as SD embrace shakes grassroots",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/svenskar-glada-men-finland-lyckligast-igen/"
+      "link": "https://www.dn.se/sverige/den-sista-liberalen-skam-den-som-ger-sig/"
     },
     {
-      "headline": "S leader Sara Kukka-Salam on immigrant integration debate",
-      "summary": "Solna mayor challenges S on how immigrants are discussed.",
+      "headline": "Iran tried to attack regime-critical family in Sweden",
+      "summary": "Attack reportedly stopped at last moment on Swedish soil",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/iran-forsokte-angripa-regimkritisk-familj-i-sverige/cG9zdDo4MzQ3NA"
+    },
+    {
+      "headline": "17,500 active gang criminals in Sweden",
+      "summary": "Prosecutor Petra Lundh reports shooting trend broken",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/petra-lundh-17-500-gangkriminella/cG9zdDo4MzgxNA"
+    },
+    {
+      "headline": "Björn Söder attacked Sida official over delayed SD aid millions",
+      "summary": "Söder sent threatening midnight email to government agency handler",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/sara-kukka-salam-s-maste-ta-ansvar-for-hur-de-pratar-om-invandrare/"
+      "link": "https://www.dn.se/sverige/bjorn-soder-till-attack-mot-sida-handlaggare/"
+    },
+    {
+      "headline": "Government threatens to throttle electricity exports",
+      "summary": "Source: Sweden considering restricting power exports amid shortage",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/goranfrojdh/artiklar/kalla-regeringen-hotar-att-strypa-elexporten/cG9zdDo4MzU4OQ"
+    },
+    {
+      "headline": "Hall prison inmates get paid to play video games",
+      "summary": "High-security Södertälje prison uses gaming to train social skills",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/intagna-pa-fangelset-hall-far-betalt-for-att-spela-tv-spel"
+    },
+    {
+      "headline": "Two Nazis charged after action against Pride",
+      "summary": "Prosecution follows Expo-monitored far-right attack on Pride event",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/efter-aktion-mot-pride-tva-nazister-atalas/"
+    },
+    {
+      "headline": "EU win on electricity customers' billions",
+      "summary": "Court ruling favours consumers in major electricity billing dispute",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/eu-seger-om-elkundernas-miljarder/cG9zdDo4MzkyNg"
     }
   ]
 }
