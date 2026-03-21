@@ -1,68 +1,74 @@
 {
-  "date": "2026-03-20",
-  "title": "瑞典新闻 — 2026年03月20日",
-  "audio_url": "digests/2026-03-20.mp3",
-  "duration_seconds": 341,
+  "date": "2026-03-21",
+  "title": "瑞典新闻 — 2026年03月21日",
+  "audio_url": "digests/2026-03-21.mp3",
+  "duration_seconds": 337,
   "stories": [
     {
-      "headline": "New advice: Stop saving babies born before week 23",
-      "summary": "Medical ethics council recommends palliation over life-saving at week 22",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/granskning/ug/nya-radet-sluta-forsoka-radda-bebisar-fodda-innan-vecka-23"
-    },
-    {
-      "headline": "Liberals' Mohamsson: SD alliance 'not my first choice'",
-      "summary": "Party leader defends controversial new line in closed meeting",
+      "headline": "Liberals see little gain after Mohamsson's SD pivot",
+      "summary": "Party polls slightly up after controversial government stance shift",
       "source": "Omni",
-      "link": "https://omni.se/mohamsson-i-stangt-mote-inte-mitt-forstahandsval/a/5pE506"
+      "link": "https://omni.se/liberalernas-ser-liten-okning-efter-svangningen/a/16ML0M"
     },
     {
-      "headline": "DN: Only one Liberal left in dozens of municipalities",
-      "summary": "Party shrinking for years as SD embrace shakes grassroots",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/den-sista-liberalen-skam-den-som-ger-sig/"
+      "headline": "Kristersson closing gap on Andersson in trust polls",
+      "summary": "M leader gains ground; S leader still leads",
+      "source": "Omni",
+      "link": "https://omni.se/kristersson-knappar-in-pa-andersson-i-fortroendeligan/a/16MKAB"
     },
     {
-      "headline": "Iran tried to attack regime-critical family in Sweden",
-      "summary": "Attack reportedly stopped at last moment on Swedish soil",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/iran-forsokte-angripa-regimkritisk-familj-i-sverige/cG9zdDo4MzQ3NA"
-    },
-    {
-      "headline": "17,500 active gang criminals in Sweden",
-      "summary": "Prosecutor Petra Lundh reports shooting trend broken",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/petra-lundh-17-500-gangkriminella/cG9zdDo4MzgxNA"
-    },
-    {
-      "headline": "Björn Söder attacked Sida official over delayed SD aid millions",
-      "summary": "Söder sent threatening midnight email to government agency handler",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/bjorn-soder-till-attack-mot-sida-handlaggare/"
-    },
-    {
-      "headline": "Government threatens to throttle electricity exports",
-      "summary": "Source: Sweden considering restricting power exports amid shortage",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/goranfrojdh/artiklar/kalla-regeringen-hotar-att-strypa-elexporten/cG9zdDo4MzU4OQ"
-    },
-    {
-      "headline": "Hall prison inmates get paid to play video games",
-      "summary": "High-security Södertälje prison uses gaming to train social skills",
+      "headline": "Magdalena Andersson loses voter confidence",
+      "summary": "Verian poll shows falling trust, Kristersson closing gap",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/intagna-pa-fangelset-hall-far-betalt-for-att-spela-tv-spel"
+      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-tappar-i-valjarfortroende"
     },
     {
-      "headline": "Two Nazis charged after action against Pride",
-      "summary": "Prosecution follows Expo-monitored far-right attack on Pride event",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/efter-aktion-mot-pride-tva-nazister-atalas/"
+      "headline": "Simona Mohamsson defends old tweets about SD",
+      "summary": "Liberal leader addresses past criticism of Åkesson as racist",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/simona-mohamsson-jag-forstar-att-det-ar-konstigt-att-lasa-mina-gamla-tweets-om-sd/"
     },
     {
-      "headline": "EU win on electricity customers' billions",
-      "summary": "Court ruling favours consumers in major electricity billing dispute",
+      "headline": "Arson attacks clearly rising — doors and cars targeted",
+      "summary": "Swedish arson incidents increasing, targeting residential properties",
+      "source": "Omni",
+      "link": "https://omni.se/brandattentaten-okar-tydligt-dorrar-och-bilar-tands-pa/a/43BMwG"
+    },
+    {
+      "headline": "LKAB loses 700 million due to Iran war",
+      "summary": "Swedish mining giant hit hard by Middle East conflict",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/eu-seger-om-elkundernas-miljarder/cG9zdDo4MzkyNg"
+      "link": "https://kvartal.se/nyheter/artiklar/lkab-forlorar-700-miljoner-pa-grund-av-irankriget/cG9zdDo4NDM5OA"
+    },
+    {
+      "headline": "Diesel prices surge 40 percent amid Iran war",
+      "summary": "Fuel costs rising sharply, still below 2022 peak",
+      "source": "Omni",
+      "link": "https://omni.se/dieseln-har-rusat-40-procent-fortfarande-lagre-an-2022/a/Wv0E1j"
+    },
+    {
+      "headline": "Jomshof incitement investigation dropped, JO complaint written off",
+      "summary": "SD politician escapes prosecution; JO dismisses complaint",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/jo-anmalan-mot-richard-jomshof-skrivs-av/"
+    },
+    {
+      "headline": "Criminal lawyer charged with serious money laundering",
+      "summary": "Court hearing begins next week in Stockholm",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/sverige/brottmalsadvokat-misstanks-for-naringspenningtvatt/"
+    },
+    {
+      "headline": "AI Sweden appoints acting managing director",
+      "summary": "Annika Elfström named interim head of national AI centre",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/annika-elfstrom-appointed-acting-managing-director-ai-sweden"
+    },
+    {
+      "headline": "Nazi shop manager convicted of incitement to hatred",
+      "summary": "Court finds operator guilty over extremist merchandise",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
     }
   ]
 }
