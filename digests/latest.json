@@ -1,74 +1,74 @@
 {
-  "date": "2026-03-21",
-  "title": "瑞典新闻 — 2026年03月21日",
-  "audio_url": "digests/2026-03-21.mp3",
-  "duration_seconds": 337,
+  "date": "2026-03-22",
+  "title": "瑞典新闻 — 2026年03月22日",
+  "audio_url": "digests/2026-03-22.mp3",
+  "duration_seconds": 371,
   "stories": [
     {
-      "headline": "Liberals see little gain after Mohamsson's SD pivot",
-      "summary": "Party polls slightly up after controversial government stance shift",
+      "headline": "Liberals' Fateful Meeting: SD Reversal or Government Crisis",
+      "summary": "L members vote on SD cooperation, Mohamsson's future at stake",
       "source": "Omni",
-      "link": "https://omni.se/liberalernas-ser-liten-okning-efter-svangningen/a/16ML0M"
+      "link": "https://omni.se/dags-for-odesmote-klubbad-sd-linje-eller-regeringskris/a/V6zKod"
     },
     {
-      "headline": "Kristersson closing gap on Andersson in trust polls",
-      "summary": "M leader gains ground; S leader still leads",
-      "source": "Omni",
-      "link": "https://omni.se/kristersson-knappar-in-pa-andersson-i-fortroendeligan/a/16MKAB"
-    },
-    {
-      "headline": "Magdalena Andersson loses voter confidence",
-      "summary": "Verian poll shows falling trust, Kristersson closing gap",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-tappar-i-valjarfortroende"
-    },
-    {
-      "headline": "Simona Mohamsson defends old tweets about SD",
-      "summary": "Liberal leader addresses past criticism of Åkesson as racist",
+      "headline": "Mohamsson Makes 'Terrible Mistake' — But Betrayal Runs Deeper",
+      "summary": "DN leader piece on Liberals' special meeting subverting members",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/simona-mohamsson-jag-forstar-att-det-ar-konstigt-att-lasa-mina-gamla-tweets-om-sd/"
+      "link": "https://www.dn.se/ledare/susanne-nystrom-simona-mohamsson-begar-ett-fruktansvart-misstag-men-hennes-svek-ar-storre-an-sa/"
     },
     {
-      "headline": "Arson attacks clearly rising — doors and cars targeted",
-      "summary": "Swedish arson incidents increasing, targeting residential properties",
-      "source": "Omni",
-      "link": "https://omni.se/brandattentaten-okar-tydligt-dorrar-och-bilar-tands-pa/a/43BMwG"
+      "headline": "What Happens If L Members Vote No to the SD U-Turn",
+      "summary": "Scenarios for government collapse if Liberals reject party board",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/det-hander-om-l-motet-rostar-nej-till-sd-vandningen/"
     },
     {
-      "headline": "LKAB loses 700 million due to Iran war",
-      "summary": "Swedish mining giant hit hard by Middle East conflict",
+      "headline": "Jallow Removed After Accusations, Leaves Left Party",
+      "summary": "V politician pushed out amid unspecified allegations",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/lkab-forlorar-700-miljoner-pa-grund-av-irankriget/cG9zdDo4NDM5OA"
+      "link": "https://kvartal.se/nyheter/artiklar/jallow-petas-efter-anklagelser-lamnar-v/cG9zdDo4NTA3OA"
     },
     {
-      "headline": "Diesel prices surge 40 percent amid Iran war",
-      "summary": "Fuel costs rising sharply, still below 2022 peak",
+      "headline": "Police Have Suspects in Most Shooting Murders of 2025",
+      "summary": "Only four fatal shootings remain without suspects this year",
       "source": "Omni",
-      "link": "https://omni.se/dieseln-har-rusat-40-procent-fortfarande-lagre-an-2022/a/Wv0E1j"
+      "link": "https://omni.se/endast-fyra-dodsskjutningar-utan-misstankta-framsteg/a/d4RxbB"
     },
     {
-      "headline": "Jomshof incitement investigation dropped, JO complaint written off",
-      "summary": "SD politician escapes prosecution; JO dismisses complaint",
+      "headline": "Birgitta Ohlsson: Åkesson Could Become Sweden's Trump",
+      "summary": "Former liberal warns of SD leader's growing political influence",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/birgitta-ohlsson-akesson-kan-bli-sveriges-trump/cG9zdDo4NDg1Mg"
+    },
+    {
+      "headline": "Expo Nominates Review of Migration Minister for Golden Spade",
+      "summary": "Journalism award nod for Expo's scrutiny of migration minister",
       "source": "Expo",
-      "link": "https://expo.se/nyhet/jo-anmalan-mot-richard-jomshof-skrivs-av/"
+      "link": "https://expo.se/nyhet/expos-granskning-av-migrationsministern-nomineras-till-guldspaden/"
     },
     {
-      "headline": "Criminal lawyer charged with serious money laundering",
-      "summary": "Court hearing begins next week in Stockholm",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/sverige/brottmalsadvokat-misstanks-for-naringspenningtvatt/"
+      "headline": "Nazi Sentenced After Disrupting Social Democrats' Meeting",
+      "summary": "Second conviction linked to far-right disruption of S event",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/ytterligare-en-nazist-doms-efter-storning-av-s-mote/"
     },
     {
-      "headline": "AI Sweden appoints acting managing director",
-      "summary": "Annika Elfström named interim head of national AI centre",
+      "headline": "Jomshof Incitement Case Dropped — JO Complaint Filed",
+      "summary": "SD politician's shelved hate-speech investigation triggers ombudsman report",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
+    },
+    {
+      "headline": "AI Sweden: Government Strategy Has High Ambitions, Needs Bold Leadership",
+      "summary": "AI Sweden responds to national AI strategy, calls for action",
       "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/annika-elfstrom-appointed-acting-managing-director-ai-sweden"
+      "link": "https://www.ai.se/en/news/ai-sweden-governments-national-ai-strategy-high-ambitions-demand-bold-leadership-and-substantial"
     },
     {
-      "headline": "Nazi shop manager convicted of incitement to hatred",
-      "summary": "Court finds operator guilty over extremist merchandise",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
+      "headline": "Stegra Green Project Worth Minus 150 Billion SEK, Research Finds",
+      "summary": "New anthology reveals massive socioeconomic losses from green mega-projects",
+      "source": "Ledarsidorna",
+      "link": "https://ledarsidorna.se/ny-forskning-stegra-ar-vart-minus-150-miljarder-kronor/"
     }
   ]
 }
