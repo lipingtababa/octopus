@@ -1,74 +1,74 @@
 {
-  "date": "2026-03-22",
-  "title": "瑞典新闻 — 2026年03月22日",
-  "audio_url": "digests/2026-03-22.mp3",
+  "date": "2026-03-23",
+  "title": "瑞典新闻 — 2026年03月23日",
+  "audio_url": "digests/2026-03-23.mp3",
   "duration_seconds": 371,
   "stories": [
     {
-      "headline": "Liberals' Fateful Meeting: SD Reversal or Government Crisis",
-      "summary": "L members vote on SD cooperation, Mohamsson's future at stake",
+      "headline": "Simona Mohamsson re-elected as Liberal party leader after chaotic meeting",
+      "summary": "Re-elected despite technical chaos and deep party divisions",
       "source": "Omni",
-      "link": "https://omni.se/dags-for-odesmote-klubbad-sd-linje-eller-regeringskris/a/V6zKod"
+      "link": "https://omni.se/17-00-liberalerna-rostar-om-mohamssons-framtid/a/JObKWj"
     },
     {
-      "headline": "Mohamsson Makes 'Terrible Mistake' — But Betrayal Runs Deeper",
-      "summary": "DN leader piece on Liberals' special meeting subverting members",
-      "source": "DN",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-simona-mohamsson-begar-ett-fruktansvart-misstag-men-hennes-svek-ar-storre-an-sa/"
-    },
-    {
-      "headline": "What Happens If L Members Vote No to the SD U-Turn",
-      "summary": "Scenarios for government collapse if Liberals reject party board",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/det-hander-om-l-motet-rostar-nej-till-sd-vandningen/"
-    },
-    {
-      "headline": "Jallow Removed After Accusations, Leaves Left Party",
-      "summary": "V politician pushed out amid unspecified allegations",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/jallow-petas-efter-anklagelser-lamnar-v/cG9zdDo4NTA3OA"
-    },
-    {
-      "headline": "Police Have Suspects in Most Shooting Murders of 2025",
-      "summary": "Only four fatal shootings remain without suspects this year",
-      "source": "Omni",
-      "link": "https://omni.se/endast-fyra-dodsskjutningar-utan-misstankta-framsteg/a/d4RxbB"
-    },
-    {
-      "headline": "Birgitta Ohlsson: Åkesson Could Become Sweden's Trump",
-      "summary": "Former liberal warns of SD leader's growing political influence",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/birgitta-ohlsson-akesson-kan-bli-sveriges-trump/cG9zdDo4NDg1Mg"
-    },
-    {
-      "headline": "Expo Nominates Review of Migration Minister for Golden Spade",
-      "summary": "Journalism award nod for Expo's scrutiny of migration minister",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/expos-granskning-av-migrationsministern-nomineras-till-guldspaden/"
-    },
-    {
-      "headline": "Nazi Sentenced After Disrupting Social Democrats' Meeting",
-      "summary": "Second conviction linked to far-right disruption of S event",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/ytterligare-en-nazist-doms-efter-storning-av-s-mote/"
-    },
-    {
-      "headline": "Jomshof Incitement Case Dropped — JO Complaint Filed",
-      "summary": "SD politician's shelved hate-speech investigation triggers ombudsman report",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
-    },
-    {
-      "headline": "AI Sweden: Government Strategy Has High Ambitions, Needs Bold Leadership",
-      "summary": "AI Sweden responds to national AI strategy, calls for action",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/ai-sweden-governments-national-ai-strategy-high-ambitions-demand-bold-leadership-and-substantial"
-    },
-    {
-      "headline": "Stegra Green Project Worth Minus 150 Billion SEK, Research Finds",
-      "summary": "New anthology reveals massive socioeconomic losses from green mega-projects",
+      "headline": "Liberals deeply divided after Mohamsson re-election",
+      "summary": "SD relationship unresolved; party crisis deepens after vote",
       "source": "Ledarsidorna",
-      "link": "https://ledarsidorna.se/ny-forskning-stegra-ar-vart-minus-150-miljarder-kronor/"
+      "link": "https://ledarsidorna.se/omvald-men-inte-raddad-liberalernas-kris-fordjupas/"
+    },
+    {
+      "headline": "Young footballer Hugo shot dead in Örebro residential area",
+      "summary": "20-year-old killed; no arrests made",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/ung-man-ihjalskjuten-i-orebro/cG9zdDo4NTMyNQ"
+    },
+    {
+      "headline": "Food VAT cut from April 1 — everything you need to know",
+      "summary": "Government halves food VAT; restaurants excluded from reduction",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/allt-du-behover-veta-om-den-sankta-matmomsen/"
+    },
+    {
+      "headline": "Restaurants excluded from food VAT cut: 'Unfair rules'",
+      "summary": "Restaurant industry says reform hits already struggling sector",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/krogarna-lamnas-utanfor-momssankningen-orattvisa-spelregler/"
+    },
+    {
+      "headline": "Stock markets fall sharply on war threats and oil price surge",
+      "summary": "Analysts warn of crash; Asia markets already bleeding red",
+      "source": "DN",
+      "link": "https://www.dn.se/varlden/oro-for-borsras-efter-nya-krigshot/"
+    },
+    {
+      "headline": "WMO: Atmospheric energy imbalance at record high",
+      "summary": "Last 11 years warmest on record; CO2 highest in 2 million years",
+      "source": "DN",
+      "link": "https://www.dn.se/varlden/wmo-energiobalansen-i-atmosfaren-storre-an-nagonsin/"
+    },
+    {
+      "headline": "Criticism as government scraps mandatory intro course for learner drivers",
+      "summary": "Traffic schools and NTF oppose removing compulsory introductory training",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/kritik-mot-att-slopa-introduktionsutbildning-for-ovningskorning"
+    },
+    {
+      "headline": "Deaf sign language interpreters hard to access in Stockholm",
+      "summary": "Nearly only new arrivals qualify; families must fight for service",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/nyhetstecken/svart-att-fa-dov-teckensprakstolk-i-stockholm"
+    },
+    {
+      "headline": "Healthcare workers get 100,000 kronor compensation for moved vacation",
+      "summary": "Vård staff receive large payout after forced vacation changes",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/vardanstallda-far-100-000-for-flyttad-semester/cG9zdDo4NTM4NA"
+    },
+    {
+      "headline": "Suspected palm oil found in aviation biofuel",
+      "summary": "Investigation reveals possible illegal palm oil in flight fuel",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/misstankt-palmolja-i-flygets-biobransle/cG9zdDo4NTczOQ"
     }
   ]
 }
