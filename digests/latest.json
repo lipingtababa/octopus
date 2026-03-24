@@ -1,74 +1,74 @@
 {
-  "date": "2026-03-23",
-  "title": "瑞典新闻 — 2026年03月23日",
-  "audio_url": "digests/2026-03-23.mp3",
-  "duration_seconds": 371,
+  "date": "2026-03-24",
+  "title": "瑞典新闻 — 2026年03月24日",
+  "audio_url": "digests/2026-03-24.mp3",
+  "duration_seconds": 382,
   "stories": [
     {
-      "headline": "Simona Mohamsson re-elected as Liberal party leader after chaotic meeting",
-      "summary": "Re-elected despite technical chaos and deep party divisions",
+      "headline": "New mortgage rules heat up housing market",
+      "summary": "Brokers say prices will rise as rules take effect",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/marknaden-tar-fart-med-nya-bolaneregler-priserna-kommer-stiga/"
+    },
+    {
+      "headline": "School absenteeism crisis in Strängnäs",
+      "summary": "13-year-old barely attended school in five years",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/hog-andel-hemmasittare-i-strangnas-evelina-13-har-knappt-varit-i-skolan-alls-pa-fem-ar"
+    },
+    {
+      "headline": "KD leader opens door for SD in government",
+      "summary": "Ebba Busch welcomes Sweden Democrats into coalition",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/ebba-busch-oppnar-for-sd-i-regering/cG9zdDo4NjM1Ng"
+    },
+    {
+      "headline": "Nuclear power application filed in Valdemarsvik",
+      "summary": "New reactor application marks energy policy shift",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/ny-karnkraft-pa-gang-ansokan-i-valdemarsvik/cG9zdDo4NjE5Nw"
+    },
+    {
+      "headline": "Visitation zones introduced at Stockholm embassies",
+      "summary": "Security measure affects embassy areas in capital",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/visitationszon-infors-vid-ambassader-i-stockholm/cG9zdDo4NjIxNg"
+    },
+    {
+      "headline": "92 teenage deportations in one year",
+      "summary": "Aftonbladet maps rising alone-deportations of minors",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/GxM8Vl/unika-siffran-92-tonarsutvisningar-pa-ett-ar"
+    },
+    {
+      "headline": "Liberals in turmoil after Mohamsson announcement",
+      "summary": "Multiple members quitting following party leader's move",
       "source": "Omni",
-      "link": "https://omni.se/17-00-liberalerna-rostar-om-mohamssons-framtid/a/JObKWj"
+      "link": "https://omni.se/lista-liberalerna-som-hoppar-av-efter-mohamssons-besked/a/M7nxxm"
     },
     {
-      "headline": "Liberals deeply divided after Mohamsson re-election",
-      "summary": "SD relationship unresolved; party crisis deepens after vote",
-      "source": "Ledarsidorna",
-      "link": "https://ledarsidorna.se/omvald-men-inte-raddad-liberalernas-kris-fordjupas/"
-    },
-    {
-      "headline": "Young footballer Hugo shot dead in Örebro residential area",
-      "summary": "20-year-old killed; no arrests made",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/ung-man-ihjalskjuten-i-orebro/cG9zdDo4NTMyNQ"
-    },
-    {
-      "headline": "Food VAT cut from April 1 — everything you need to know",
-      "summary": "Government halves food VAT; restaurants excluded from reduction",
-      "source": "DN",
-      "link": "https://www.dn.se/ekonomi/allt-du-behover-veta-om-den-sankta-matmomsen/"
-    },
-    {
-      "headline": "Restaurants excluded from food VAT cut: 'Unfair rules'",
-      "summary": "Restaurant industry says reform hits already struggling sector",
-      "source": "DN",
-      "link": "https://www.dn.se/ekonomi/krogarna-lamnas-utanfor-momssankningen-orattvisa-spelregler/"
-    },
-    {
-      "headline": "Stock markets fall sharply on war threats and oil price surge",
-      "summary": "Analysts warn of crash; Asia markets already bleeding red",
-      "source": "DN",
-      "link": "https://www.dn.se/varlden/oro-for-borsras-efter-nya-krigshot/"
-    },
-    {
-      "headline": "WMO: Atmospheric energy imbalance at record high",
-      "summary": "Last 11 years warmest on record; CO2 highest in 2 million years",
-      "source": "DN",
-      "link": "https://www.dn.se/varlden/wmo-energiobalansen-i-atmosfaren-storre-an-nagonsin/"
-    },
-    {
-      "headline": "Criticism as government scraps mandatory intro course for learner drivers",
-      "summary": "Traffic schools and NTF oppose removing compulsory introductory training",
+      "headline": "Västmanland firm ditches US suppliers over tariffs",
+      "summary": "Krusman showers redesigns components to avoid American trade",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/kritik-mot-att-slopa-introduktionsutbildning-for-ovningskorning"
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/trumps-tullar-pressade-fram-kreativ-losning-nu-gor-foretaget-slut-med-usa"
     },
     {
-      "headline": "Deaf sign language interpreters hard to access in Stockholm",
-      "summary": "Nearly only new arrivals qualify; families must fight for service",
+      "headline": "Railway signalling delays cut Västerdalsbanan trains",
+      "summary": "Fewer trains as new system postponed indefinitely",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/nyhetstecken/svart-att-fa-dov-teckensprakstolk-i-stockholm"
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/nytt-signalsystem-skjuts-pa-framtiden-farre-tag-pa-vasterdalsbanan"
     },
     {
-      "headline": "Healthcare workers get 100,000 kronor compensation for moved vacation",
-      "summary": "Vård staff receive large payout after forced vacation changes",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/vardanstallda-far-100-000-for-flyttad-semester/cG9zdDo4NTM4NA"
+      "headline": "KD's private security funding raises questions",
+      "summary": "Secret sponsor finances EU MP Teodorescu Måwe's security",
+      "source": "DN",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-varfor-efterlyser-kd-fler-sponsorer-till-alice-teodorescu-mawe/"
     },
     {
-      "headline": "Suspected palm oil found in aviation biofuel",
-      "summary": "Investigation reveals possible illegal palm oil in flight fuel",
+      "headline": "KD polls above parliamentary threshold",
+      "summary": "New measurements show KD clearing the four-percent barrier",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/misstankt-palmolja-i-flygets-biobransle/cG9zdDo4NTczOQ"
+      "link": "https://kvartal.se/nyheter/artiklar/kd-over-sparren-i-nya-matningar/cG9zdDo4NjQxMA"
     }
   ]
 }
