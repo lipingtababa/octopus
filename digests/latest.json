@@ -1,74 +1,68 @@
 {
-  "date": "2026-03-24",
-  "title": "瑞典新闻 — 2026年03月24日",
-  "audio_url": "digests/2026-03-24.mp3",
-  "duration_seconds": 382,
+  "date": "2026-03-25",
+  "title": "瑞典新闻 — 2026年03月25日",
+  "audio_url": "digests/2026-03-25.mp3",
+  "duration_seconds": 366,
   "stories": [
     {
-      "headline": "New mortgage rules heat up housing market",
-      "summary": "Brokers say prices will rise as rules take effect",
+      "headline": "End-of-life injections given to non-dying 92-year-old in care home",
+      "summary": "Uppdrag granskning reveals misuse of end-of-life sedation in elderly care",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/granskning/ug/ulla-britt-fick-sprutor-for-livets-slut-fast-hon-inte-var-doende"
+    },
+    {
+      "headline": "Liberals cross Riksdag barrier for first time since 2022",
+      "summary": "Party hits 4.5% in SvD/Demoskop poll after SD voters switch",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/politik/liberalerna-ar-over-riksdagssparren-i-ny-opinionsmatning/"
+    },
+    {
+      "headline": "Doctor shortcut: medical license despite low exam scores",
+      "summary": "Radio Ekot reveals fast-track licensing bypassing normal academic thresholds",
+      "source": "Sveriges Radio Ekot",
+      "link": "https://www.sverigesradio.se/artikel/9183554"
+    },
+    {
+      "headline": "Klippan double murder verdict handed down today",
+      "summary": "58-year-old sentenced for brutal killing of couple in their home",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/livstid-eller-tidsbestamt-fangelse-for-dubbelmordet-i-klippan-idag-kommer-domen"
+    },
+    {
+      "headline": "Sala-Heby energy defies government, keeps contested power charge",
+      "summary": "Energy company refuses to drop charge despite minister pressure",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sala-heby-energi-trotsar-regeringen-behaller-kritiserad-effektavgift"
+    },
+    {
+      "headline": "New garbage law creates backlash over unequal rules for homeowners",
+      "summary": "Townhouse owners in Vällingby call packaging rules unfair and costly",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/kritik-mot-nya-soplagen-orattvist-att-smahus-inte-har-samma-regler"
+    },
+    {
+      "headline": "AI used to analyze healthcare incident reports in Sweden",
+      "summary": "Large language models deployed to improve patient safety data review",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/large-language-models-analyze-healthcare-incidents"
+    },
+    {
+      "headline": "Vilhelmina councillors rage at new tax proposal favouring rich municipalities",
+      "summary": "Reform would penalise tax-raising councils, reward tax-cutting ones",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vilhelminas-kommunalrad-rasar-mot-nya-skatteforslaget-rika-blir-rikare"
+    },
+    {
+      "headline": "DN questions wisdom of cutting petrol tax again",
+      "summary": "Editorial warns tax cuts entrench fossil fuel dependency",
       "source": "DN",
-      "link": "https://www.dn.se/ekonomi/marknaden-tar-fart-med-nya-bolaneregler-priserna-kommer-stiga/"
+      "link": "https://www.dn.se/ledare/hur-smart-ar-det-egentligen-att-sanka-bensinskatten-igen/"
     },
     {
-      "headline": "School absenteeism crisis in Strängnäs",
-      "summary": "13-year-old barely attended school in five years",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/hog-andel-hemmasittare-i-strangnas-evelina-13-har-knappt-varit-i-skolan-alls-pa-fem-ar"
-    },
-    {
-      "headline": "KD leader opens door for SD in government",
-      "summary": "Ebba Busch welcomes Sweden Democrats into coalition",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/ebba-busch-oppnar-for-sd-i-regering/cG9zdDo4NjM1Ng"
-    },
-    {
-      "headline": "Nuclear power application filed in Valdemarsvik",
-      "summary": "New reactor application marks energy policy shift",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/ny-karnkraft-pa-gang-ansokan-i-valdemarsvik/cG9zdDo4NjE5Nw"
-    },
-    {
-      "headline": "Visitation zones introduced at Stockholm embassies",
-      "summary": "Security measure affects embassy areas in capital",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/visitationszon-infors-vid-ambassader-i-stockholm/cG9zdDo4NjIxNg"
-    },
-    {
-      "headline": "92 teenage deportations in one year",
-      "summary": "Aftonbladet maps rising alone-deportations of minors",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/GxM8Vl/unika-siffran-92-tonarsutvisningar-pa-ett-ar"
-    },
-    {
-      "headline": "Liberals in turmoil after Mohamsson announcement",
-      "summary": "Multiple members quitting following party leader's move",
-      "source": "Omni",
-      "link": "https://omni.se/lista-liberalerna-som-hoppar-av-efter-mohamssons-besked/a/M7nxxm"
-    },
-    {
-      "headline": "Västmanland firm ditches US suppliers over tariffs",
-      "summary": "Krusman showers redesigns components to avoid American trade",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/trumps-tullar-pressade-fram-kreativ-losning-nu-gor-foretaget-slut-med-usa"
-    },
-    {
-      "headline": "Railway signalling delays cut Västerdalsbanan trains",
-      "summary": "Fewer trains as new system postponed indefinitely",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/nytt-signalsystem-skjuts-pa-framtiden-farre-tag-pa-vasterdalsbanan"
-    },
-    {
-      "headline": "KD's private security funding raises questions",
-      "summary": "Secret sponsor finances EU MP Teodorescu Måwe's security",
+      "headline": "Are young Swedes really getting worse mentally?",
+      "summary": "DN investigates rising psychiatric diagnoses among Swedish youth",
       "source": "DN",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-varfor-efterlyser-kd-fler-sponsorer-till-alice-teodorescu-mawe/"
-    },
-    {
-      "headline": "KD polls above parliamentary threshold",
-      "summary": "New measurements show KD clearing the four-percent barrier",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/kd-over-sparren-i-nya-matningar/cG9zdDo4NjQxMA"
+      "link": "https://www.dn.se/sverige/fakta-i-fragan-mar-unga-allt-samre/"
     }
   ]
 }
