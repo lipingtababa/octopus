@@ -1,68 +1,80 @@
 {
-  "date": "2026-03-25",
-  "title": "瑞典新闻 — 2026年03月25日",
-  "audio_url": "digests/2026-03-25.mp3",
-  "duration_seconds": 366,
+  "date": "2026-03-26",
+  "title": "瑞典新闻 — 2026年03月26日",
+  "audio_url": "digests/2026-03-26.mp3",
+  "duration_seconds": 432,
   "stories": [
     {
-      "headline": "End-of-life injections given to non-dying 92-year-old in care home",
-      "summary": "Uppdrag granskning reveals misuse of end-of-life sedation in elderly care",
+      "headline": "15-year-old shot dead in Malmö",
+      "summary": "Two shootings in one day, teenager killed",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/15-arig-pojke-dod-efter-skjutning-i-malmo/cG9zdDo4Nzc1Ng"
+    },
+    {
+      "headline": "Person shot on bus in Tyresö",
+      "summary": "Shooting on public bus, school locked down",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/gymnasium-inrymt-efter-skjutning-i-tyreso/cG9zdDo4NzUzNQ"
+    },
+    {
+      "headline": "Tidö agreement: wiretap men who beat women",
+      "summary": "New surveillance proposal targeting domestic violence perpetrators",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/tido-avlyssna-man-som-slar-kvinnor/cG9zdDo4NzQ4MQ"
+    },
+    {
+      "headline": "Karolinska Institutet receives record SEK 538 million donation",
+      "summary": "Largest donation to Swedish university in modern times",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/granskning/ug/ulla-britt-fick-sprutor-for-livets-slut-fast-hon-inte-var-doende"
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/rekordgava-drygt-en-halv-miljard-till-karolinska-institutet"
     },
     {
-      "headline": "Liberals cross Riksdag barrier for first time since 2022",
-      "summary": "Party hits 4.5% in SvD/Demoskop poll after SD voters switch",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/politik/liberalerna-ar-over-riksdagssparren-i-ny-opinionsmatning/"
-    },
-    {
-      "headline": "Doctor shortcut: medical license despite low exam scores",
-      "summary": "Radio Ekot reveals fast-track licensing bypassing normal academic thresholds",
-      "source": "Sveriges Radio Ekot",
-      "link": "https://www.sverigesradio.se/artikel/9183554"
-    },
-    {
-      "headline": "Klippan double murder verdict handed down today",
-      "summary": "58-year-old sentenced for brutal killing of couple in their home",
+      "headline": "Palliative drugs given to elderly not dying — healthcare scandal",
+      "summary": "SVT review finds elderly injected without being terminally ill",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/livstid-eller-tidsbestamt-fangelse-for-dubbelmordet-i-klippan-idag-kommer-domen"
+      "link": "https://www.svt.se/nyheter/granskning/ug/palliativa-mediciner-orsakade-brittisk-vardskandal-slaende-likt"
     },
     {
-      "headline": "Sala-Heby energy defies government, keeps contested power charge",
-      "summary": "Energy company refuses to drop charge despite minister pressure",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sala-heby-energi-trotsar-regeringen-behaller-kritiserad-effektavgift"
-    },
-    {
-      "headline": "New garbage law creates backlash over unequal rules for homeowners",
-      "summary": "Townhouse owners in Vällingby call packaging rules unfair and costly",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/kritik-mot-nya-soplagen-orattvist-att-smahus-inte-har-samma-regler"
-    },
-    {
-      "headline": "AI used to analyze healthcare incident reports in Sweden",
-      "summary": "Large language models deployed to improve patient safety data review",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/large-language-models-analyze-healthcare-incidents"
-    },
-    {
-      "headline": "Vilhelmina councillors rage at new tax proposal favouring rich municipalities",
-      "summary": "Reform would penalise tax-raising councils, reward tax-cutting ones",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vilhelminas-kommunalrad-rasar-mot-nya-skatteforslaget-rika-blir-rikare"
-    },
-    {
-      "headline": "DN questions wisdom of cutting petrol tax again",
-      "summary": "Editorial warns tax cuts entrench fossil fuel dependency",
+      "headline": "Food VAT halved from April 1",
+      "summary": "Government cuts food tax, stores announce price reductions",
       "source": "DN",
-      "link": "https://www.dn.se/ledare/hur-smart-ar-det-egentligen-att-sanka-bensinskatten-igen/"
+      "link": "https://www.dn.se/ekonomi/matmomsen-sanks-sa-gor-din-butik/"
     },
     {
-      "headline": "Are young Swedes really getting worse mentally?",
-      "summary": "DN investigates rising psychiatric diagnoses among Swedish youth",
+      "headline": "Government pauses equal pay proposal",
+      "summary": "Plans to reduce gender pay gap put on hold",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/7pp3ew/uppgifter-regeringen-pausar-forslag-om-jamstallda-loner?utm_medium=rss"
+    },
+    {
+      "headline": "Nazis in Allsvenskan football stands — police warning",
+      "summary": "Nazi active clubs recruiting via supporter environments",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/fakta-i-fragan-mar-unga-allt-samre/"
+      "link": "https://www.dn.se/sverige/varningen-nazister-pa-allsvenska-laktare/"
+    },
+    {
+      "headline": "Russian military commander re-arrested in Malmö",
+      "summary": "War crimes suspect detained again in Swedish city",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/rysk-befalhavare-omhaktad-i-malmo/cG9zdDo4NzY4Ng"
+    },
+    {
+      "headline": "Swedish krona among worst-performing currencies again",
+      "summary": "Analysts explain why the krona keeps weakening",
+      "source": "Omni",
+      "link": "https://omni.se/darfor-ar-svenska-kronan-samst-i-klassen-igen/a/2pp5xl"
+    },
+    {
+      "headline": "S-newspaper criticized for targeting LGBTQ politicians",
+      "summary": "Social Democrat paper accused of outing political figures",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/s-tidning-kritiserad-efter-ord-om-hbtqi-profiler/cG9zdDo4NzQxNA"
+    },
+    {
+      "headline": "Avalanche near Riksgränsen — five people found",
+      "summary": "Major avalanche at Swedish mountain border area",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/lavin-vid-riksgransen-flera-befaras-drabbade/cG9zdDo4NzM5OA"
     }
   ]
 }
