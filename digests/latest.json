@@ -1,80 +1,74 @@
 {
-  "date": "2026-03-27",
-  "title": "瑞典新闻 — 2026年03月27日",
-  "audio_url": "digests/2026-03-27.mp3",
-  "duration_seconds": 393,
+  "date": "2026-03-28",
+  "title": "瑞典新闻 — 2026年03月28日",
+  "audio_url": "digests/2026-03-28.mp3",
+  "duration_seconds": 419,
   "stories": [
     {
-      "headline": "Lundin Oil prosecutors seek long sentences",
-      "summary": "Major trial reaches sentencing phase in Sweden",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/aklagaren-yrkar-pa-langa-straff-i-lundin-oil-malet/cG9zdDo4ODMwOA"
-    },
-    {
-      "headline": "Tax Agency chief ousted amid crime investigation",
-      "summary": "Head of Skatteverket leaves early under criminal probe",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/skatteverkets-chef-far-lamna-i-fortid-utreds-for-brott/cG9zdDo4ODQ2MA"
-    },
-    {
-      "headline": "SD politician's son charged with double murder contract",
-      "summary": "17-year-old took two assassination missions",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/atalad-17-aring-son-till-sd-politiker/cG9zdDo4ODQ2Mg"
-    },
-    {
-      "headline": "SSAB earthworks halted after workers injured",
-      "summary": "Multiple workers sent to doctors at steelworks site",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/markarbete-stoppat-vid-ssab-flera-till-lakare/cG9zdDo4ODQ4MA"
-    },
-    {
-      "headline": "Girl linked to two Foxtrot gang murders",
-      "summary": "Previously unknown suspect tied to gang killings",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/tidigare-okand-flicka-tros-ha-mordat-tva-for-foxtrot/cG9zdDo4ODUxOA"
-    },
-    {
-      "headline": "M members defect to Sweden Democrats",
-      "summary": "Moderate party loses members to SD",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/m-ledamoter-lamnar-for-sd/cG9zdDo4ODUzNQ"
-    },
-    {
-      "headline": "Rosengård Eid festival canceled after boy's murder",
-      "summary": "Community mourning in Malmö after child killed",
+      "headline": "15-year-old girl detained for murders in Vårby and Malmö",
+      "summary": "Linked to Foxtrot gang network, suspected of murder.",
       "source": "Omni",
-      "link": "https://omni.se/rosengards-eid-festival-installd-efter-pojkmordet/a/K88Pr4"
+      "link": "https://omni.se/17-aring-erkanner-mordet-i-malmo/a/XMM4xb"
     },
     {
-      "headline": "Criminologist: Girls taking more active role in gang crime",
-      "summary": "Expert notes shift in female involvement in violence",
+      "headline": "Girls increasingly recruited for gang murder missions",
+      "summary": "Gangs becoming more equal in recruiting female operatives.",
       "source": "Omni",
-      "link": "https://omni.se/kriminolog-flickor-tycks-ta-mer-aktiv-roll-i-daden/a/3ppmrq"
+      "link": "https://omni.se/gangen-blir-mer-jamstallda-sa-varvas-flickor-till-morduppdrag/a/j00OV0"
     },
     {
-      "headline": "Police grenade ban after fatal accident last year",
-      "summary": "Force prohibited from grenades following deadly incident",
-      "source": "Omni",
-      "link": "https://omni.se/granatforbud-for-polisen-efter-dodsolyckan-ifjol/a/Exxj3l"
+      "headline": "Police work to prevent new violence spiral in Rosengård",
+      "summary": "Three-pronged strategy after 15-year-old boy shot dead.",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/krim/polisens-tre-drag-for-att-stoppa-valdsspiral-i-rosengard/"
     },
     {
-      "headline": "Swedish general to lead NATO intelligence service",
-      "summary": "Lena Persson Herlitz becomes NATO's first Swedish spy chief",
+      "headline": "Teen girls convicted of murder rising sharply",
+      "summary": "Five of ten convictions in last decade came 2023–2024.",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/inrikes/pratar-i-dag-mer-om-tjejer-som-egna-kriminella-aktorer"
+    },
+    {
+      "headline": "Tax Agency develops tool against address hijacking",
+      "summary": "New service to combat fraudulent address registrations.",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/skatteverket-tar-fram-tjanst-mot-adresskapning/cG9zdDo4OTA3MA"
+    },
+    {
+      "headline": "Östberga gang network disbanded — what was the secret?",
+      "summary": "Neighborhood no longer classified vulnerable after ten years.",
       "source": "DN",
-      "link": "https://www.dn.se/sverige/hon-ar-natos-nya-spionchef-jag-har-utbildats-for-det-har-i-35-ar/"
+      "link": "https://www.dn.se/ledare/lisa-magnusson-ostberga-blev-en-framgangssaga-vad-ar-hemligheten/"
     },
     {
-      "headline": "Tidö government ignores Legislative Council criticism",
-      "summary": "Top lawyers repeatedly overruled; experts warn of deep-state rhetoric",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/toppjuristerna-pa-riddarholmen-som-sagar-regeringen/"
+      "headline": "Dadgostar invites Center Party to write joint 'Sweden pledge'",
+      "summary": "V leader sends letter to C ahead of 2026 election.",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/politik/dadgostars-brev-till-thand-ringqvist-vill-forhandla/"
     },
     {
-      "headline": "Culture minister opens for zero VAT on newspapers",
-      "summary": "Potential tax relief for Swedish press industry",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/kulturministern-oppnar-for-nollmoms-pa-tidningar/cG9zdDo4ODUyNg"
+      "headline": "Federley makes political comeback ahead of 2026 election",
+      "summary": "Center Party member returns after years outside politics.",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/federleys-comeback-nu-ar-tarningen-kastad"
+    },
+    {
+      "headline": "Västerås psychiatry revises criticized summer ward merger",
+      "summary": "New plan after vulnerable patients mixed with addiction cases.",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/vuxenpsykiatrin-i-vasteras-gor-om-kritiserat-sommarupplagg"
+    },
+    {
+      "headline": "Big fire kills 90,000 chickens in Mönsterås",
+      "summary": "Large-scale poultry farm fire in Mönsterås municipality.",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d384f8b6-dd2a-4650-b32e-c9ff663ef96e"
+    },
+    {
+      "headline": "AI Sweden: OpenEuroLLM secures supercomputer access for European AI",
+      "summary": "Milestone for European language model sovereignty initiative.",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/openeurollm-secures-strategic-access-multiple-supercomputers-milestone-european-language"
     }
   ]
 }
