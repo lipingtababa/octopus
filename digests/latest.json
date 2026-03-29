@@ -1,74 +1,68 @@
 {
-  "date": "2026-03-28",
-  "title": "瑞典新闻 — 2026年03月28日",
-  "audio_url": "digests/2026-03-28.mp3",
-  "duration_seconds": 419,
+  "date": "2026-03-29",
+  "title": "瑞典新闻 — 2026年03月29日",
+  "audio_url": "digests/2026-03-29.mp3",
+  "duration_seconds": 328,
   "stories": [
     {
-      "headline": "15-year-old girl detained for murders in Vårby and Malmö",
-      "summary": "Linked to Foxtrot gang network, suspected of murder.",
+      "headline": "Swedish ships to Ukraine blocked by Turkey",
+      "summary": "Turkey stops Swedish vessels heading to Ukraine",
       "source": "Omni",
-      "link": "https://omni.se/17-aring-erkanner-mordet-i-malmo/a/XMM4xb"
+      "link": "https://omni.se/svenska-fartyg-till-ukraina-stoppas-av-turkiet/a/QJJ3xP"
     },
     {
-      "headline": "Girls increasingly recruited for gang murder missions",
-      "summary": "Gangs becoming more equal in recruiting female operatives.",
-      "source": "Omni",
-      "link": "https://omni.se/gangen-blir-mer-jamstallda-sa-varvas-flickor-till-morduppdrag/a/j00OV0"
-    },
-    {
-      "headline": "Police work to prevent new violence spiral in Rosengård",
-      "summary": "Three-pronged strategy after 15-year-old boy shot dead.",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/krim/polisens-tre-drag-for-att-stoppa-valdsspiral-i-rosengard/"
-    },
-    {
-      "headline": "Teen girls convicted of murder rising sharply",
-      "summary": "Five of ten convictions in last decade came 2023–2024.",
+      "headline": "Google data centre groundwork five months in at Horndal",
+      "summary": "Visible progress in Dalarna ahead of Google establishment",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/pratar-i-dag-mer-om-tjejer-som-egna-kriminella-aktorer"
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/fem-manader-med-markarbete-sa-marker-horndal-av-googles-etablering"
     },
     {
-      "headline": "Tax Agency develops tool against address hijacking",
-      "summary": "New service to combat fraudulent address registrations.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/skatteverket-tar-fram-tjanst-mot-adresskapning/cG9zdDo4OTA3MA"
-    },
-    {
-      "headline": "Östberga gang network disbanded — what was the secret?",
-      "summary": "Neighborhood no longer classified vulnerable after ten years.",
-      "source": "DN",
-      "link": "https://www.dn.se/ledare/lisa-magnusson-ostberga-blev-en-framgangssaga-vad-ar-hemligheten/"
-    },
-    {
-      "headline": "Dadgostar invites Center Party to write joint 'Sweden pledge'",
-      "summary": "V leader sends letter to C ahead of 2026 election.",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/politik/dadgostars-brev-till-thand-ringqvist-vill-forhandla/"
-    },
-    {
-      "headline": "Federley makes political comeback ahead of 2026 election",
-      "summary": "Center Party member returns after years outside politics.",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/federleys-comeback-nu-ar-tarningen-kastad"
-    },
-    {
-      "headline": "Västerås psychiatry revises criticized summer ward merger",
-      "summary": "New plan after vulnerable patients mixed with addiction cases.",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/vuxenpsykiatrin-i-vasteras-gor-om-kritiserat-sommarupplagg"
-    },
-    {
-      "headline": "Big fire kills 90,000 chickens in Mönsterås",
-      "summary": "Large-scale poultry farm fire in Mönsterås municipality.",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d384f8b6-dd2a-4650-b32e-c9ff663ef96e"
-    },
-    {
-      "headline": "AI Sweden: OpenEuroLLM secures supercomputer access for European AI",
-      "summary": "Milestone for European language model sovereignty initiative.",
+      "headline": "AI Sweden: New guidelines to counter AI-driven discrimination",
+      "summary": "Civil society forum issues responsible AI guidelines",
       "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/openeurollm-secures-strategic-access-multiple-supercomputers-milestone-european-language"
+      "link": "https://www.ai.se/en/news/new-guidelines-civil-society-counter-ai-driven-discrimination"
+    },
+    {
+      "headline": "Extreme right changing, new groups attracting young Swedes",
+      "summary": "Expo reports shift in far-right recruitment patterns",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/extremhogern-forandras-nya-grupper-lockar-unga/"
+    },
+    {
+      "headline": "Hatred of politicians rises ahead of autumn election",
+      "summary": "Threats and harassment spike during election campaigns",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/politikerhatet-okar-under-valar-skulle-slaktas-som-en-kossa/"
+    },
+    {
+      "headline": "Local politicians lack security protections",
+      "summary": "Part-time politicians excluded from last year's security reforms",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/lokalpolitiker-utan-skydd-ska-inte-behova-tala-trakasserier/"
+    },
+    {
+      "headline": "Two Nazis charged after action against Pride",
+      "summary": "Prosecution follows far-right attack on Pride event",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/efter-aktion-mot-pride-tva-nazister-atalas/"
+    },
+    {
+      "headline": "Söderhamn municipality approved pimping suspect as foster parent",
+      "summary": "Routine failures let criminal suspect into family home system",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/koppleriharvan-bade-mannen-och-kvinnan-godkanda-som-familjehemsforaldrar"
+    },
+    {
+      "headline": "Hagfors recruits new residents from Netherlands and Germany",
+      "summary": "Värmland municipality tackles population decline via European outreach",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/hagfors-raggar-nya-invanare-i-holland-hanneke-och-stefan-fann-sin-drom-i-varmland"
+    },
+    {
+      "headline": "Tax declaration deadline: Last chance for April refund",
+      "summary": "Tuesday is final day to file early for April refund",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/fler-deklarerar-tidigt-sista-chansen-for-aterbaring-i-april/"
     }
   ]
 }
