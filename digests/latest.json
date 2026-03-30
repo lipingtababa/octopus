@@ -1,68 +1,80 @@
 {
-  "date": "2026-03-29",
-  "title": "瑞典新闻 — 2026年03月29日",
-  "audio_url": "digests/2026-03-29.mp3",
-  "duration_seconds": 328,
+  "date": "2026-03-30",
+  "title": "瑞典新闻 — 2026年03月30日",
+  "audio_url": "digests/2026-03-30.mp3",
+  "duration_seconds": 308,
   "stories": [
     {
-      "headline": "Swedish ships to Ukraine blocked by Turkey",
-      "summary": "Turkey stops Swedish vessels heading to Ukraine",
+      "headline": "Police instructor taught gang members to shoot",
+      "summary": "Officer ran shooting range used by violent gangs",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/gangen-tranade-pa-skjutbana-polis-var-instruktor/"
+    },
+    {
+      "headline": "Officer removed from duty after DN exposé",
+      "summary": "National police chief orders full security review",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/efter-dns-avslojande-polismannen-tas-ur-tjanst/"
+    },
+    {
+      "headline": "SD infighting ahead of election over candidate list",
+      "summary": "Dissatisfaction grows after controversial reshuffles within party",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/missnoje-inom-sd-efter-petningar-infor-valet/cG9zdDo4OTYwNw"
+    },
+    {
+      "headline": "Historic EU migration policy tightening",
+      "summary": "Brussels approves major shift in border and asylum rules",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/goranfrojdh/artiklar/historisk-skarpning-av-eus-migrationspolitik/cG9zdDo4ODk3Nw"
+    },
+    {
+      "headline": "V leader presses S leader Mohamsson on red-green bloc",
+      "summary": "Dadgostar demands Andersson take responsibility for opposition",
       "source": "Omni",
-      "link": "https://omni.se/svenska-fartyg-till-ukraina-stoppas-av-turkiet/a/QJJ3xP"
+      "link": "https://omni.se/dadgostar-andersson-maste-ta-ansvar-for-de-rodgrona/a/ArrQrz"
     },
     {
-      "headline": "Google data centre groundwork five months in at Horndal",
-      "summary": "Visible progress in Dalarna ahead of Google establishment",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/fem-manader-med-markarbete-sa-marker-horndal-av-googles-etablering"
+      "headline": "Mohamsson defends unpopular policy reversal",
+      "summary": "S leader says cannot be paralyzed by public sadness",
+      "source": "Omni",
+      "link": "https://omni.se/mohamsson-far-inte-forlamas-aven-om-folk-ar-jatteledsna/a/3ppzv9"
     },
     {
-      "headline": "AI Sweden: New guidelines to counter AI-driven discrimination",
-      "summary": "Civil society forum issues responsible AI guidelines",
+      "headline": "Police warn children off Signal and Telegram",
+      "summary": "Swedish police say encrypted apps enable criminal recruitment",
+      "source": "Omni",
+      "link": "https://omni.se/polis-barn-ska-inte-ha-signal-och-telegram/a/OkkqkO"
+    },
+    {
+      "headline": "Measles case confirmed in Stockholm",
+      "summary": "Public health officials monitoring potential spread",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/masslingsfall-bekraftat-i-stockholm/cG9zdDo4OTY5OA"
+    },
+    {
+      "headline": "Suspect drone strikes hit Finland",
+      "summary": "Finnish defense minister calls incidents serious",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/misstankt-dronare-har-slagit-ner-i-finland/cG9zdDo4OTYyOA"
+    },
+    {
+      "headline": "Record-low female partner homicides in Sweden",
+      "summary": "Fewest women killed by partners in recorded history",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/rekordfa-kvinnor-mordade-av-partner-i-fjol/cG9zdDo4OTUyOQ"
+    },
+    {
+      "headline": "AI Sweden appoints acting managing director",
+      "summary": "Annika Elfström steps in as interim head",
       "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/new-guidelines-civil-society-counter-ai-driven-discrimination"
+      "link": "https://www.ai.se/en/news/annika-elfstrom-appointed-acting-managing-director-ai-sweden"
     },
     {
-      "headline": "Extreme right changing, new groups attracting young Swedes",
-      "summary": "Expo reports shift in far-right recruitment patterns",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/extremhogern-forandras-nya-grupper-lockar-unga/"
-    },
-    {
-      "headline": "Hatred of politicians rises ahead of autumn election",
-      "summary": "Threats and harassment spike during election campaigns",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/politikerhatet-okar-under-valar-skulle-slaktas-som-en-kossa/"
-    },
-    {
-      "headline": "Local politicians lack security protections",
-      "summary": "Part-time politicians excluded from last year's security reforms",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/lokalpolitiker-utan-skydd-ska-inte-behova-tala-trakasserier/"
-    },
-    {
-      "headline": "Two Nazis charged after action against Pride",
-      "summary": "Prosecution follows far-right attack on Pride event",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/efter-aktion-mot-pride-tva-nazister-atalas/"
-    },
-    {
-      "headline": "Söderhamn municipality approved pimping suspect as foster parent",
-      "summary": "Routine failures let criminal suspect into family home system",
+      "headline": "Major pimping scandal: four Jämtland men charged with sex buying",
+      "summary": "Man accused of selling wife to 120 men",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/koppleriharvan-bade-mannen-och-kvinnan-godkanda-som-familjehemsforaldrar"
-    },
-    {
-      "headline": "Hagfors recruits new residents from Netherlands and Germany",
-      "summary": "Värmland municipality tackles population decline via European outreach",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/hagfors-raggar-nya-invanare-i-holland-hanneke-och-stefan-fann-sin-drom-i-varmland"
-    },
-    {
-      "headline": "Tax declaration deadline: Last chance for April refund",
-      "summary": "Tuesday is final day to file early for April refund",
-      "source": "DN",
-      "link": "https://www.dn.se/ekonomi/fler-deklarerar-tidigt-sista-chansen-for-aterbaring-i-april/"
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/fyra-jamtar-atalades-i-den-stora-koppleriharvan"
     }
   ]
 }
