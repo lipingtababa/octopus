@@ -1,80 +1,80 @@
 {
-  "date": "2026-03-31",
-  "title": "瑞典新闻 — 2026年03月31日",
-  "audio_url": "digests/2026-03-31.mp3",
-  "duration_seconds": 385,
+  "date": "2026-04-01",
+  "title": "瑞典新闻 — 2026年04月01日",
+  "audio_url": "digests/2026-04-01.mp3",
+  "duration_seconds": 361,
   "stories": [
     {
-      "headline": "Svantesson: Fuel rationing cannot be ruled out",
-      "summary": "Minister does not exclude fuel rationing amid crisis",
+      "headline": "New mortgage rules take effect today",
+      "summary": "Easier for young buyers; market expects price rises.",
+      "source": "DN",
+      "link": "https://www.dn.se/ekonomi/nya-bolaneregler-det-har-galler-fran-i-dag/"
+    },
+    {
+      "headline": "Sweden's weak points in Russian airstrike scenario",
+      "summary": "Classified report reveals infrastructure vulnerabilities in wartime.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/har-ar-sveriges-svaga-punkter-vid-ryska-luftangrepp/"
+    },
+    {
+      "headline": "NATO defense plan: Strike deep into Russia",
+      "summary": "Plan covers Russian attack on Sweden and Nordics.",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/forsvarsplanen-attackera-langt-in-i-ryssland/"
+    },
+    {
+      "headline": "Liberals internal document bans media criticism",
+      "summary": "L party document prohibits members from public dissent.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/svantesson-utesluter-inte-ransonering-av-drivmedel/cG9zdDo5MDQwMA"
+      "link": "https://kvartal.se/nyheter/artiklar/ls-interna-dokument-forbjuder-kritik-i-medier/cG9zdDo5MTAxMQ"
     },
     {
-      "headline": "20-year-old arrested for bus murder in Tyresö",
-      "summary": "Suspect arrested for fatal bus attack in Tyresö",
+      "headline": "Liberals poll surge disputed within party",
+      "summary": "L rises in polls but SD switch not credited.",
+      "source": "Omni",
+      "link": "https://omni.se/l-okar-i-matning-men-inte-en-effekt-av-sd-svang/a/L44Gz4"
+    },
+    {
+      "headline": "S wants to expand 1177 with online doctors",
+      "summary": "Social Democrats push digital healthcare expansion plan.",
       "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/20-aring-anhallen-for-bussmordet-i-tyreso/cG9zdDo5MDA2MQ"
+      "link": "https://kvartal.se/nyheter/artiklar/s-vill-bygga-ut-1177-med-natlakare/cG9zdDo5MDkzOA"
     },
     {
-      "headline": "SVT lays off 141, merges flagship news shows",
-      "summary": "Public broadcaster cuts staff, combines Aktuellt and Agenda",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/svt-varslar-141-tjanster-berados/cG9zdDo5MDA1OQ"
-    },
-    {
-      "headline": "Tidö parties tighten grip on policy agenda",
-      "summary": "Coalition strengthens control over key policy areas",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/tidopartierna-starker-greppet-om-sakfragorna/cG9zdDo5MDM0OA"
-    },
-    {
-      "headline": "Prison chief in Gothenburg removed from duty",
-      "summary": "Gothenburg detention centre head suspended from post",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/hakteschef-i-goteborg-tagen-ur-tjanst/cG9zdDo5MDE4OA"
-    },
-    {
-      "headline": "Police investigate murder in Oskarshamn",
-      "summary": "Murder investigation underway in southern Swedish town",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/polisen-utreder-mord-i-oskarshamn/cG9zdDo5MDE4Nw"
-    },
-    {
-      "headline": "Åkesson: Practicing Muslim cannot be Swedish",
-      "summary": "SD leader questions if devout Muslims can be Swedish",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-da-har-jag-svart-att-se-att-man-ar-svensk"
-    },
-    {
-      "headline": "Åkesson eyes PM post — but only after election",
-      "summary": "SD leader holds back PM ambitions until after vote",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/det-kravs-for-att-akesson-ska-ta-strid-for-statsministerposten"
-    },
-    {
-      "headline": "AI death fraud emerging threat for Swedish companies",
-      "summary": "AI-forged death certificates enable account takeover fraud",
-      "source": "Computer Sweden",
-      "link": "https://computersweden.se/article/4151663/vad-it-chefer-behover-veta-om-bedragerier-med-dodsfall-som-drivs-av-ai.html"
-    },
-    {
-      "headline": "Nazi shop manager convicted of incitement",
-      "summary": "Person responsible for Nazi merchandise shop found guilty",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/ansvarig-for-nazistbutik-doms-for-hets/"
-    },
-    {
-      "headline": "Jomshof incitement investigation dropped, sparks JO complaint",
-      "summary": "Dropped hate speech probe against SD politician triggers oversight complaint",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/nedlagd-hets-utredning-mot-jomshof-jo-anmals/"
-    },
-    {
-      "headline": "Sharp rise in customs seizures of narcotic mushrooms",
-      "summary": "Drug-classified mushroom seizures surged sharply in 2025",
+      "headline": "Food VAT cut — S wants more to lower prices",
+      "summary": "Social Democrats say VAT reduction alone insufficient.",
       "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/0ppzQM/kraftigt-okade-beslag-av-narkotiska-svampar?utm_medium=rss"
+      "link": "https://www.aftonbladet.se/nyheter/a/oEEQqj/matmoms-sanks-sa-vill-s-pressa-priser-pa-sikt?utm_medium=rss"
+    },
+    {
+      "headline": "SD prayer ban motion rejected in Örebro",
+      "summary": "Sweden Democrats' workplace prayer ban proposal voted down.",
+      "source": "Samnytt",
+      "link": "https://samnytt.se/sd-forslag-om-forbud-mot-bon-pa-arbetstid-fick-tummen-ned/"
+    },
+    {
+      "headline": "Jimmie Åkesson has highest Riksdag absence rate",
+      "summary": "SVT documentary reveals SD leader's record vote absences.",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/inrikes/har-ilsknar-jimmie-akesson-till-genuint-orattvist"
+    },
+    {
+      "headline": "SD politician quits after Expo exposé in Motala",
+      "summary": "Local SD member resigns following Expo's investigation.",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/kritikstorm-i-motala-sd-politiker-lamnar-efter-expos-avslojande/"
+    },
+    {
+      "headline": "AI budgets soar but ROI still hard to prove",
+      "summary": "Swedish companies struggle to justify generative AI spending.",
+      "source": "Computer Sweden",
+      "link": "https://computersweden.se/article/4152298/budgetarna-for-ai-skjuter-i-hojden-men-avkastningen-ar-fortfarande-svar-att-mata.html"
+    },
+    {
+      "headline": "Mikael Pawlo launches Curlify to sustain open-source internet",
+      "summary": "Bokio founder starts company to commercialize Curl library.",
+      "source": "Breakit",
+      "link": "https://www.breakit.se/artikel/45911/mikael-pawlo-startar-curlify-ska-radda-internet-fran-kollaps"
     }
   ]
 }
