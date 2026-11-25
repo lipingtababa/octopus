@@ -1,0 +1,173 @@
+{
+  "title": "瑞典新闻 + AI 产业 — 2026年11月25日",
+  "stories": [
+    {
+      "headline": "Centre Party faces choice: right bloc or snap election",
+      "summary": "C leadership says options are Kristersson government or extra election",
+      "source": "Omni",
+      "link": "https://omni.se/c-motet-klart-pa-40-minuter-fick-inte-stalla-fragor/a/4EqpKq",
+      "section": "sweden"
+    },
+    {
+      "headline": "Centre Party slides toward Riksdag threshold",
+      "summary": "New poll shows C nearing the 4% spärr",
+      "source": "Omni",
+      "link": "https://omni.se/centerpartiet-fortsatter-att-tappa-ar-nara-sparren/a/g37MoL",
+      "section": "sweden"
+    },
+    {
+      "headline": "Strömmer: new right government won't be Tidö 2.0",
+      "summary": "Moderates court Centre Party after election deadlock",
+      "source": "Omni",
+      "link": "https://omni.se/strommer-ny-hogerregering-blir-inte-ett-tido-2-0/a/XogXnn",
+      "section": "sweden"
+    },
+    {
+      "headline": "Andersson rejects Left Party criticism",
+      "summary": "S leader says left hasn't moved a millimeter",
+      "source": "Omni",
+      "link": "https://omni.se/andersson-ar-med-i-aktuellt/a/Pv9b00",
+      "section": "sweden"
+    },
+    {
+      "headline": "Ygeman: M's plan makes Åkesson kingmaker",
+      "summary": "Social Democrat says Moderate sketch empowers Sweden Democrats",
+      "source": "Omni",
+      "link": "https://omni.se/ygeman-m-s-servettskiss-gor-akesson-till-kung/a/1vnlmq",
+      "section": "sweden"
+    },
+    {
+      "headline": "Migration Agency pauses deportations of young adults",
+      "summary": "Teen deportations halted pending new legislation",
+      "source": "SVT Nyheter",
+      "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+      "section": "sweden"
+    },
+    {
+      "headline": "Far right advances in Riksdag election",
+      "summary": "Expo reports extreme right gains",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/ytterhogern-framat-i-riksdagsvalet/",
+      "section": "sweden"
+    },
+    {
+      "headline": "Brattås double murder case reaches appeals court",
+      "summary": "New evidence from crime scene presented",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/nya-bevis-i-brattasfallet-starker-den-redan-domdes-berattelse/",
+      "section": "sweden"
+    },
+    {
+      "headline": "Six AI policy priorities for Sweden's new government",
+      "summary": "AI Sweden outlines priorities for incoming government",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/six-ai-policy-priorities-swedens-new-government",
+      "section": "sweden"
+    },
+    {
+      "headline": "Sweden joins forces against AI-driven cyber threats",
+      "summary": "National collaboration targets AI-enabled cyberattacks",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/sweden-joins-forces-against-ai-driven-cyber-threats",
+      "section": "sweden"
+    },
+    {
+      "headline": "1,500 Växjö dental patients tested for HIV",
+      "summary": "Instruments possibly not cleaned properly at clinic",
+      "source": "Samnytt",
+      "link": "https://samnytt.se/1-500-tandvardspatienter-testas-for-hiv-instrument-rengjordes-inte-ordentligt/",
+      "section": "sweden"
+    },
+    {
+      "headline": "ISK tax to rise next year",
+      "summary": "Higher tax on investment savings accounts announced",
+      "source": "Omni",
+      "link": "https://omni.se/isk-skatten-hojs-nasta-ar/a/qOL9K1",
+      "section": "sweden"
+    },
+    {
+      "headline": "中科闻歌中标历史研究院大模型项目",
+      "summary": "中科闻歌中标中国历史研究院AI大模型项目，金额338万元",
+      "why": "国家级研究机构的单子金额可对标，研究院类客户可参照",
+      "source": "中华网财经",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeHIxTFMySmU4UkpsWEZGMExVM0ZUQVhXbHNlZGd3N3YydUN1SXE5QU9qQVFxNkQ1T0xqNDBWQmpKVU9JbDhta0owV0hBUm01d1psUUM0Wkt0YnRhWmRReUFOc0VLYkZoNVowUXh3?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "10月银行AI项目：采购超40笔",
+      "summary": "10月银行AI采购超40笔，基础设施占近一半预算",
+      "why": "银行预算偏硬件，应用交付要靠场景切入券商银行单",
+      "source": "移动支付网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqR1RpcGZRb1dhQ2tRanpTbjk3MDAzMDlTeEJBSEtsbDI2S0JLYldMVFJ6d09ldzdIdGl5bjE1YlFQd0x4N0ZxaXN6RDkyZlVMOG1zeHJwMXRMX1FJLU1mSQ?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "FDE成企业AI落地标配",
+      "summary": "前线部署工程师模式兴起，从定制交付转向标准化产品菜单",
+      "why": "直接对标驻场模式，需想清楚定制与标准化的边界",
+      "source": "Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmk4OVBrNEpQbUVzalRTNXhkOVEydEV6ZWZ0V2Z4aEZaTjlSRFNGazFoWThkMkszOVV4OEs1ZXdmRWhvRk9CNGF3R2otRFFLTmcyYjR2T0o2RlBTdU5FaURZVE1wemVTRk85R0JGdnQ4NU5FeDdqdEJpWWF0elFrdFNTbUkzdFFG?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "华为云发布智能体伙伴开放计划",
+      "summary": "华为云开放智能体伙伴计划，帮伙伴搭建流量入口",
+      "why": "可作为渠道入口，评估能否接入并拿到国企云客户",
+      "source": "驱动之家",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83Nl9XaF94bGlEdFBCS2tFbEc3dlBlaVF5aF9UQzNEdlM5alVnem1mSE9NWDF2bW9TYkZCWE1rQXAzS2JuTTNsMF9qc29mMGFUUk5PWXJ4ZkY?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "Anthropic推Claude Ship自动审查并批准PR",
+      "summary": "Claude Ship测试版可按团队规范自动审查、修复并批准代码变更",
+      "why": "交付团队的代码评审可提速，也冲击驻场工程师的价值",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+      "section": "ai"
+    },
+    {
+      "headline": "MCP月下载破7亿，新增后台任务",
+      "summary": "MCP新增后台任务、追问和文件上传，支持更自主的智能体",
+      "why": "企业系统对接的事实标准，可直接用于 MES、SAP 集成",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "section": "ai"
+    },
+    {
+      "headline": "远光软件回应智能体：九天灵境可编排",
+      "summary": "远光软件称九天灵境可编排自定义智能体",
+      "why": "国网系软件商的智能体平台，是国企客户的竞品参照",
+      "source": "证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hdnRRNDNQd2wtUnAtRWFGaVlhMmYydWlKSzJ3QjljcG90dU80djJxZ2JyRlFUcl84TXpCQTFRQzRuU0tkanZSU095dGk2WVZPWklZTUlJVm5iRURkNDl1Rg?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "南京银行手机银行意图识别项目招标",
+      "summary": "南京银行发布手机银行意图识别系统建设招标公告",
+      "why": "银行 AI 招标样本，可观察预算和投标门槛",
+      "source": "移动支付网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yblBZeHU0emM5RFdaSkR6VlZkUm5pVWZ1ZWxrYWRlbmN0T1FQemRFSVpKZDlqYUctckVxVUhFTUY2aXRHaHA4M09BNDhKNUsza2g3dUNnR18xZFRadzJQUzBMQQ?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "企业本体论破解制造业AI数据语义难题",
+      "summary": "用企业本体统一制造业数据语义，解决AI落地的数据障碍",
+      "why": "半导体 CIM/MES 项目的数据语义问题，可借鉴方法",
+      "source": "CSDN",
+      "link": "https://news.google.com/rss/axticles/CBMiX0FVX3lxTFB5TnF0ZUJMTFVKZklmQU1qblJfNXVMXzNyQUZ0X1dFWXlQYkl0OUJ1WEg1anR0Skt4Zl9xWGd5UGxRR0FMZlI1U0g3a1lnNVVPWnN5UEZPYXhrMzVEdlZr?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "中国5个自贸区开展AI标准化试点",
+      "summary": "中国在5个自贸试验区开展人工智能标准化自主开放试点",
+      "why": "政策利好，涉外企业可借试点争取合规先行场景",
+      "source": "钛媒体",
+      "link": "https://www.tmtpost.com/8216719.html",
+      "section": "ai"
+    }
+  ],
+  "script": "中间党现在被逼到只剩两个选项。中间党领导层公开表示，眼下的路只有两条，一条是进入右翼阵营，支持克里斯特松继续组阁，另一条是再办一次选举。九月大选之后，议会里没有形成明确多数，组阁陷入僵局。按瑞典宪法，议长提名的总理人选连续四次投票被否决，就要在三个月内举行补选，所以中间党说的“再选一次”有明确的法律路径。中间党多年拒绝让瑞典民主党影响政府，现在要在这条立场和一个可以组成的政府之间选一个。这个决定会直接决定瑞典未来四年由谁执政，也决定企业面对的是延续当前政策，还是再等几个月的不确定。\n\n另一条民调消息和上面这条连在一起。新的民调显示，中间党的支持率正在逼近百分之四的议会门槛。瑞典议会实行百分之四的门槛，党派得票低于这条线，一个席位也拿不到。中间党如果支持右翼政府，会得罪反对瑞典民主党影响政府的选民。如果坚持拒绝，又会被指责造成僵局。真要再办补选，这份民调意味着中间党有跌出议会的风险，所以它的每一步都在被这个数字牵着走。\n\n温和党想把中间党拉进来，开出的话是新的右翼政府不会是“蒂多2.0”。说这话的是温和党的斯特伦默。蒂多协议是二〇二二年温和党、基督教民主党、自由党和瑞典民主党签的合作协议，瑞典民主党不入阁，却在移民、治安等政策上有很大话语权。斯特伦默的意思是，新政府的安排会和现在不一样，摘要里没有给出具体怎么不一样。这句话针对的是中间党，因为中间党最不愿接受的，就是蒂多式的瑞典民主党影响力。不过只要中间党的席位不够，瑞典民主党的票仍然绕不开。\n\n在另一侧，社民党党魁安德松回应了左党的批评。左党指责社民党在组阁谈判里没有拿出足够的让步，安德松反过来说，左党自己一毫米都没有挪动。左党是社民党左边的盟友，没有左党的议席，红绿一方也凑不出多数。两边在公开场合互相指责，说明反对阵营内部还没有谈拢，右翼一方因此多了一些谈判时间。对瑞典企业来说，组阁拖得越久，预算和监管方面的新政策就推得越晚。\n\n社民党的伊格曼也对温和党的方案开了炮。他说温和党的设想会让奥克松成为“造王者”，也就是由瑞典民主党党魁奥克松来决定谁能当总理。他的论证是，只要新政府靠瑞典民主党的票才能过关，奥克松随时可以抽走支持，政府的政策也就要先过他这一关。这是社民党一方的说法，温和党自己的立场是新政府不会重走蒂多的老路。两种说法针锋相对，选民要判断的是，瑞典民主党在下一届政府里到底有多大权力。\n\n移民局暂停了对年轻成年人的遣返。报道说，青少年和刚成年的人被遣返的案子，在新的立法出台之前先停下来。背景是前几年瑞典收紧了居留政策，一批在瑞典读书长大的年轻人，因为居留许可到期或者被拒，面临被送回原籍国。立法没有落地之前强行遣返，会引发司法和舆论上的争议，移民局这次选择先停。这条新闻不直接涉及工作签证，但它显示居留政策的调整仍然在变，新政府上台后可能再改。\n\n反极端主义监测机构Expo报道，极右翼势力在这次议会选举里有所推进。Expo是长期研究和追踪极右翼的基金会，立场偏向反极端主义，对“极右翼”的划分用的是自己的口径，听的时候要把这一点算进去。摘要没有给出具体是哪些党派、拿到多少席位。这条新闻放在组阁僵局的背景下看，是因为极右翼在议会里的分量，会影响右翼阵营愿意给瑞典民主党多少空间。\n\n斯德哥尔摩的布拉塔斯双重谋杀案，现在到了上诉法院。《每日新闻》报道，控辩双方在二审中提交了来自犯罪现场的新证据。瑞典的刑事案件先在地方法院审理，不服判决可以上诉到上诉法院，上诉法院会重新审查证据和事实。报道没有说明新证据具体是什么，也没有说明它对原判有什么影响。这类案件一旦二审改判，会引起公众对警方取证和一审认定的讨论。\n\nAI Sweden提出了对新政府的六项AI政策优先事项。AI Sweden是瑞典的国家级应用AI中心，成员包括政府机构、企业和高校。摘要只说有六项，没有列出内容。组阁之前提出这份清单，是想在新政府的施政纲领里占位置。对做AI落地生意的人来说，瑞典新政府怎么对待AI采购、算力和数据共享，会影响瑞典公共部门的AI预算。\n\nAI Sweden同时宣布，瑞典将联合各方，共同应对由AI驱动的网络威胁。国家层面的合作会针对用AI发起的网络攻击，比如自动生成的钓鱼邮件和自动化的漏洞利用。摘要没有写参与的具体机构，也没有给出经费。企业客户在瑞典做AI系统，今后要面对更严的网络安全要求，这对有安全合规能力的交付团队是个机会。\n\n南部城市韦克舍的一家牙科诊所，有一千五百名患者接受了艾滋病病毒检测。这条消息来自Samnytt，这家媒体立场偏右，与瑞典民主党的路线接近，报道侧重移民和治安，读的时候要留意它的取舍。起因是诊所的器械可能没有按规范清洁消毒。报道没有提到有人确诊，检测是为了排除风险。瑞典的医疗机构对器械消毒有明确规定，诊所如果违规，会被监管部门追责。\n\n最后是税。瑞典宣布，明年投资储蓄账户，也就是ISK的税会提高。ISK按账户里的资产总额乘一个固定比例计税，不看当年实际赚了还是亏了，所以税率一调高，持有大量资产的人负担会增加。摘要没有给出新的数字。在瑞典有ISK账户的中国人，明年要重新算一遍持仓成本。\n\n新闻转向AI产业。\n\n中科闻歌中标了中国历史研究院的AI大模型项目，金额三百三十八万元。这是国家级研究机构的单子，三百多万元的体量可以给同类项目报价做参照。研究院、社科院一类的客户，预算通常不大，但对资料处理和知识检索的需求具体。做这类客户的话，报价可以按这个量级对标。\n\n银行的AI采购在十月超过四十笔，其中基础设施占了接近一半的预算。银行的钱先花在算力和硬件上，应用层的预算排在后面。这意味着直接向银行卖应用，空间有限，可以从券商和银行的具体业务场景切入，用场景换预算。\n\n“前线部署工程师”，也就是FDE的模式，正在成为企业AI落地的常见配置。这个模式从定制化交付，转向提供一份标准化的产品菜单，由工程师在客户现场把菜单里的东西装起来。驻场交付的团队需要想清楚，哪些部分留给定制，哪些部分做成可复用的标准件，两者的边界会决定毛利。\n\n华为云发布了智能体伙伴开放计划，帮合作伙伴搭建流量入口。摘要没有给出资金规模。华为云在国企云客户里有渠道，如果能接入这个计划，就多了一条触达国企客户的路。值得评估的是接入的门槛，以及分成是否合理。\n\nAnthropic推出了Claude Ship的测试版，可以按团队规范自动审查、修复并批准代码变更。交付团队的代码评审能因此加快，评审的人力可以腾出来。同一件事也在冲击驻场工程师的价值，客户可能会问，为什么要付钱请人守在现场。\n\nMCP的月下载量超过七亿次，新增了后台任务、追问和文件上传，能让智能体更自主地执行任务。它已经是企业系统对接的事实标准，可以直接用在MES和SAP的集成上。做制造业客户的话，系统对接的工作量有机会因此降下来。\n\n远光软件回应投资者问询，说它的九天灵境平台可以编排自定义智能体。远光是国家电网体系内的软件商，它的智能体平台是国企客户身边的现成选项。给国企做AI落地，会遇到客户拿它的平台做比较的情况，要准备好差异化的说法。\n\n南京银行发布了手机银行意图识别系统建设的招标公告。摘要没有给出预算数字，招标文件里会有预算和投标门槛。这是一份现成的银行AI招标样本，可以拿来研究银行怎么写需求、怎么设资质要求，对照自己的投标能力。\n\n有文章提出用企业本体来统一制造业的数据语义，解决AI落地时的数据障碍。制造业里不同系统对同一个概念叫法不一样，AI读不懂，项目就卡在数据上。半导体行业的CIM和MES项目也有这个问题，文中的方法可以拿来借鉴。\n\n中国在五个自贸试验区开展人工智能标准化自主开放试点。这是政策层面的利好。涉外企业可以借试点争取合规先行的场景，在标准定下来之前先拿到示范项目，再把经验带到别的客户那里。",
+  "date": "2026-11-25",
+  "audio_url": "digests/2026-11-25.mp3",
+  "duration_seconds": 440
+}

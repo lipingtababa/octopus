@@ -1,80 +1,172 @@
 {
-  "date": "2026-04-01",
-  "title": "瑞典新闻 — 2026年04月01日",
-  "audio_url": "digests/2026-04-01.mp3",
-  "duration_seconds": 361,
+  "date": "2026-11-25",
+  "title": "瑞典新闻 + AI 产业 — 2026年11月25日",
+  "audio_url": "digests/2026-11-25.mp3",
+  "duration_seconds": 440,
   "stories": [
     {
-      "headline": "New mortgage rules take effect today",
-      "summary": "Easier for young buyers; market expects price rises.",
-      "source": "DN",
-      "link": "https://www.dn.se/ekonomi/nya-bolaneregler-det-har-galler-fran-i-dag/"
-    },
-    {
-      "headline": "Sweden's weak points in Russian airstrike scenario",
-      "summary": "Classified report reveals infrastructure vulnerabilities in wartime.",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/har-ar-sveriges-svaga-punkter-vid-ryska-luftangrepp/"
-    },
-    {
-      "headline": "NATO defense plan: Strike deep into Russia",
-      "summary": "Plan covers Russian attack on Sweden and Nordics.",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/forsvarsplanen-attackera-langt-in-i-ryssland/"
-    },
-    {
-      "headline": "Liberals internal document bans media criticism",
-      "summary": "L party document prohibits members from public dissent.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/ls-interna-dokument-forbjuder-kritik-i-medier/cG9zdDo5MTAxMQ"
-    },
-    {
-      "headline": "Liberals poll surge disputed within party",
-      "summary": "L rises in polls but SD switch not credited.",
+      "headline": "Centre Party faces choice: right bloc or snap election",
+      "summary": "C leadership says options are Kristersson government or extra election",
       "source": "Omni",
-      "link": "https://omni.se/l-okar-i-matning-men-inte-en-effekt-av-sd-svang/a/L44Gz4"
+      "link": "https://omni.se/c-motet-klart-pa-40-minuter-fick-inte-stalla-fragor/a/4EqpKq",
+      "section": "sweden"
     },
     {
-      "headline": "S wants to expand 1177 with online doctors",
-      "summary": "Social Democrats push digital healthcare expansion plan.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/s-vill-bygga-ut-1177-med-natlakare/cG9zdDo5MDkzOA"
+      "headline": "Centre Party slides toward Riksdag threshold",
+      "summary": "New poll shows C nearing the 4% spärr",
+      "source": "Omni",
+      "link": "https://omni.se/centerpartiet-fortsatter-att-tappa-ar-nara-sparren/a/g37MoL",
+      "section": "sweden"
     },
     {
-      "headline": "Food VAT cut — S wants more to lower prices",
-      "summary": "Social Democrats say VAT reduction alone insufficient.",
-      "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/oEEQqj/matmoms-sanks-sa-vill-s-pressa-priser-pa-sikt?utm_medium=rss"
+      "headline": "Strömmer: new right government won't be Tidö 2.0",
+      "summary": "Moderates court Centre Party after election deadlock",
+      "source": "Omni",
+      "link": "https://omni.se/strommer-ny-hogerregering-blir-inte-ett-tido-2-0/a/XogXnn",
+      "section": "sweden"
     },
     {
-      "headline": "SD prayer ban motion rejected in Örebro",
-      "summary": "Sweden Democrats' workplace prayer ban proposal voted down.",
-      "source": "Samnytt",
-      "link": "https://samnytt.se/sd-forslag-om-forbud-mot-bon-pa-arbetstid-fick-tummen-ned/"
+      "headline": "Andersson rejects Left Party criticism",
+      "summary": "S leader says left hasn't moved a millimeter",
+      "source": "Omni",
+      "link": "https://omni.se/andersson-ar-med-i-aktuellt/a/Pv9b00",
+      "section": "sweden"
     },
     {
-      "headline": "Jimmie Åkesson has highest Riksdag absence rate",
-      "summary": "SVT documentary reveals SD leader's record vote absences.",
+      "headline": "Ygeman: M's plan makes Åkesson kingmaker",
+      "summary": "Social Democrat says Moderate sketch empowers Sweden Democrats",
+      "source": "Omni",
+      "link": "https://omni.se/ygeman-m-s-servettskiss-gor-akesson-till-kung/a/1vnlmq",
+      "section": "sweden"
+    },
+    {
+      "headline": "Migration Agency pauses deportations of young adults",
+      "summary": "Teen deportations halted pending new legislation",
       "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/har-ilsknar-jimmie-akesson-till-genuint-orattvist"
+      "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+      "section": "sweden"
     },
     {
-      "headline": "SD politician quits after Expo exposé in Motala",
-      "summary": "Local SD member resigns following Expo's investigation.",
+      "headline": "Far right advances in Riksdag election",
+      "summary": "Expo reports extreme right gains",
       "source": "Expo",
-      "link": "https://expo.se/nyhet/kritikstorm-i-motala-sd-politiker-lamnar-efter-expos-avslojande/"
+      "link": "https://expo.se/nyhet/ytterhogern-framat-i-riksdagsvalet/",
+      "section": "sweden"
     },
     {
-      "headline": "AI budgets soar but ROI still hard to prove",
-      "summary": "Swedish companies struggle to justify generative AI spending.",
-      "source": "Computer Sweden",
-      "link": "https://computersweden.se/article/4152298/budgetarna-for-ai-skjuter-i-hojden-men-avkastningen-ar-fortfarande-svar-att-mata.html"
+      "headline": "Brattås double murder case reaches appeals court",
+      "summary": "New evidence from crime scene presented",
+      "source": "DN",
+      "link": "https://www.dn.se/sverige/nya-bevis-i-brattasfallet-starker-den-redan-domdes-berattelse/",
+      "section": "sweden"
     },
     {
-      "headline": "Mikael Pawlo launches Curlify to sustain open-source internet",
-      "summary": "Bokio founder starts company to commercialize Curl library.",
-      "source": "Breakit",
-      "link": "https://www.breakit.se/artikel/45911/mikael-pawlo-startar-curlify-ska-radda-internet-fran-kollaps"
+      "headline": "Six AI policy priorities for Sweden's new government",
+      "summary": "AI Sweden outlines priorities for incoming government",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/six-ai-policy-priorities-swedens-new-government",
+      "section": "sweden"
+    },
+    {
+      "headline": "Sweden joins forces against AI-driven cyber threats",
+      "summary": "National collaboration targets AI-enabled cyberattacks",
+      "source": "AI Sweden",
+      "link": "https://www.ai.se/en/news/sweden-joins-forces-against-ai-driven-cyber-threats",
+      "section": "sweden"
+    },
+    {
+      "headline": "1,500 Växjö dental patients tested for HIV",
+      "summary": "Instruments possibly not cleaned properly at clinic",
+      "source": "Samnytt",
+      "link": "https://samnytt.se/1-500-tandvardspatienter-testas-for-hiv-instrument-rengjordes-inte-ordentligt/",
+      "section": "sweden"
+    },
+    {
+      "headline": "ISK tax to rise next year",
+      "summary": "Higher tax on investment savings accounts announced",
+      "source": "Omni",
+      "link": "https://omni.se/isk-skatten-hojs-nasta-ar/a/qOL9K1",
+      "section": "sweden"
+    },
+    {
+      "headline": "中科闻歌中标历史研究院大模型项目",
+      "summary": "中科闻歌中标中国历史研究院AI大模型项目，金额338万元",
+      "why": "国家级研究机构的单子金额可对标，研究院类客户可参照",
+      "source": "中华网财经",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeHIxTFMySmU4UkpsWEZGMExVM0ZUQVhXbHNlZGd3N3YydUN1SXE5QU9qQVFxNkQ1T0xqNDBWQmpKVU9JbDhta0owV0hBUm01d1psUUM0Wkt0YnRhWmRReUFOc0VLYkZoNVowUXh3?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "10月银行AI项目：采购超40笔",
+      "summary": "10月银行AI采购超40笔，基础设施占近一半预算",
+      "why": "银行预算偏硬件，应用交付要靠场景切入券商银行单",
+      "source": "移动支付网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqR1RpcGZRb1dhQ2tRanpTbjk3MDAzMDlTeEJBSEtsbDI2S0JLYldMVFJ6d09ldzdIdGl5bjE1YlFQd0x4N0ZxaXN6RDkyZlVMOG1zeHJwMXRMX1FJLU1mSQ?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "FDE成企业AI落地标配",
+      "summary": "前线部署工程师模式兴起，从定制交付转向标准化产品菜单",
+      "why": "直接对标驻场模式，需想清楚定制与标准化的边界",
+      "source": "Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmk4OVBrNEpQbUVzalRTNXhkOVEydEV6ZWZ0V2Z4aEZaTjlSRFNGazFoWThkMkszOVV4OEs1ZXdmRWhvRk9CNGF3R2otRFFLTmcyYjR2T0o2RlBTdU5FaURZVE1wemVTRk85R0JGdnQ4NU5FeDdqdEJpWWF0elFrdFNTbUkzdFFG?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "华为云发布智能体伙伴开放计划",
+      "summary": "华为云开放智能体伙伴计划，帮伙伴搭建流量入口",
+      "why": "可作为渠道入口，评估能否接入并拿到国企云客户",
+      "source": "驱动之家",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83Nl9XaF94bGlEdFBCS2tFbEc3dlBlaVF5aF9UQzNEdlM5alVnem1mSE9NWDF2bW9TYkZCWE1rQXAzS2JuTTNsMF9qc29mMGFUUk5PWXJ4ZkY?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "Anthropic推Claude Ship自动审查并批准PR",
+      "summary": "Claude Ship测试版可按团队规范自动审查、修复并批准代码变更",
+      "why": "交付团队的代码评审可提速，也冲击驻场工程师的价值",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+      "section": "ai"
+    },
+    {
+      "headline": "MCP月下载破7亿，新增后台任务",
+      "summary": "MCP新增后台任务、追问和文件上传，支持更自主的智能体",
+      "why": "企业系统对接的事实标准，可直接用于 MES、SAP 集成",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "section": "ai"
+    },
+    {
+      "headline": "远光软件回应智能体：九天灵境可编排",
+      "summary": "远光软件称九天灵境可编排自定义智能体",
+      "why": "国网系软件商的智能体平台，是国企客户的竞品参照",
+      "source": "证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hdnRRNDNQd2wtUnAtRWFGaVlhMmYydWlKSzJ3QjljcG90dU80djJxZ2JyRlFUcl84TXpCQTFRQzRuU0tkanZSU095dGk2WVZPWklZTUlJVm5iRURkNDl1Rg?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "南京银行手机银行意图识别项目招标",
+      "summary": "南京银行发布手机银行意图识别系统建设招标公告",
+      "why": "银行 AI 招标样本，可观察预算和投标门槛",
+      "source": "移动支付网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yblBZeHU0emM5RFdaSkR6VlZkUm5pVWZ1ZWxrYWRlbmN0T1FQemRFSVpKZDlqYUctckVxVUhFTUY2aXRHaHA4M09BNDhKNUsza2g3dUNnR18xZFRadzJQUzBMQQ?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "企业本体论破解制造业AI数据语义难题",
+      "summary": "用企业本体统一制造业数据语义，解决AI落地的数据障碍",
+      "why": "半导体 CIM/MES 项目的数据语义问题，可借鉴方法",
+      "source": "CSDN",
+      "link": "https://news.google.com/rss/axticles/CBMiX0FVX3lxTFB5TnF0ZUJMTFVKZklmQU1qblJfNXVMXzNyQUZ0X1dFWXlQYkl0OUJ1WEg1anR0Skt4Zl9xWGd5UGxRR0FMZlI1U0g3a1lnNVVPWnN5UEZPYXhrMzVEdlZr?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "中国5个自贸区开展AI标准化试点",
+      "summary": "中国在5个自贸试验区开展人工智能标准化自主开放试点",
+      "why": "政策利好，涉外企业可借试点争取合规先行场景",
+      "source": "钛媒体",
+      "link": "https://www.tmtpost.com/8216719.html",
+      "section": "ai"
     }
   ]
 }
