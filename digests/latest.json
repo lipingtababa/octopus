@@ -1,171 +1,171 @@
 {
-  "date": "2026-11-25",
-  "title": "瑞典新闻 + AI 产业 — 2026年11月25日",
-  "audio_url": "digests/2026-11-25.mp3",
-  "duration_seconds": 440,
+  "date": "2026-11-26",
+  "title": "瑞典新闻 + AI 产业 — 2026年11月26日",
+  "audio_url": "digests/2026-11-26.mp3",
+  "duration_seconds": 610,
   "stories": [
     {
-      "headline": "Centre Party faces choice: right bloc or snap election",
-      "summary": "C leadership says options are Kristersson government or extra election",
+      "headline": "Kristersson confirms talks with Centre leader",
+      "summary": "Government formation talks with Thand Ringqvist amid pressure on C",
       "source": "Omni",
-      "link": "https://omni.se/c-motet-klart-pa-40-minuter-fick-inte-stalla-fragor/a/4EqpKq",
+      "link": "https://omni.se/kristersson-bekraftar-samtal-med-c-ledaren/a/KL30vG",
       "section": "sweden"
     },
     {
-      "headline": "Centre Party slides toward Riksdag threshold",
-      "summary": "New poll shows C nearing the 4% spärr",
+      "headline": "Centre Party split over choosing a side",
+      "summary": "41 centrists open to Kristersson; internal power struggle",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/41-centerpartister-oppnar-for-kristersson/cG9zdDoyNzA4NTQ",
+      "section": "sweden"
+    },
+    {
+      "headline": "Poll: two-thirds critical of Centre's actions",
+      "summary": "Voters unhappy with C, V and S in government deadlock",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/matning-tva-av-tre-kritiska-till-cs-agerande/cG9zdDoyNzA3MDg",
+      "section": "sweden"
+    },
+    {
+      "headline": "Social Democrats in crisis if right government forms",
+      "summary": "Former S leader warns; Sveavägen 68 appeals to Centre",
       "source": "Omni",
-      "link": "https://omni.se/centerpartiet-fortsatter-att-tappa-ar-nara-sparren/a/g37MoL",
+      "link": "https://omni.se/tidigare-s-topp-partiet-i-kris-vid-ny-hogerregering/a/qOLj6L",
       "section": "sweden"
     },
     {
-      "headline": "Strömmer: new right government won't be Tidö 2.0",
-      "summary": "Moderates court Centre Party after election deadlock",
+      "headline": "Kristersson's balancing act: how he could govern",
+      "summary": "Explainer on possible minority government arrangements",
       "source": "Omni",
-      "link": "https://omni.se/strommer-ny-hogerregering-blir-inte-ett-tido-2-0/a/XogXnn",
+      "link": "https://omni.se/kristerssons-balansakt-sa-skulle-hans-regering-kunna-styra/a/dJOWkw",
       "section": "sweden"
     },
     {
-      "headline": "Andersson rejects Left Party criticism",
-      "summary": "S leader says left hasn't moved a millimeter",
-      "source": "Omni",
-      "link": "https://omni.se/andersson-ar-med-i-aktuellt/a/Pv9b00",
+      "headline": "Researchers: government chaos erodes trust",
+      "summary": "Prolonged formation damages confidence in politicians",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/z0Ga0w/forskare-regeringskaoset-tar-pa-fortroendet?utm_medium=rss",
       "section": "sweden"
     },
     {
-      "headline": "Ygeman: M's plan makes Åkesson kingmaker",
-      "summary": "Social Democrat says Moderate sketch empowers Sweden Democrats",
-      "source": "Omni",
-      "link": "https://omni.se/ygeman-m-s-servettskiss-gor-akesson-till-kung/a/1vnlmq",
+      "headline": "Thand Ringqvist's investments hit by bankruptcy",
+      "summary": "Another business bankrupt; two representatives reported to police",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/politik/c-ledaren-elisabeth-thand-ringqvists-bakslag--mitt-i-regeringskaoset/",
       "section": "sweden"
     },
     {
-      "headline": "Migration Agency pauses deportations of young adults",
-      "summary": "Teen deportations halted pending new legislation",
-      "source": "SVT Nyheter",
-      "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-pausar-utvisningar-av-unga-vuxna",
+      "headline": "Police warn of fuel shortage risk",
+      "summary": "Officers told to refuel as fuel price rises December 1",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/7P0rxv/bensinpriset-hojs-1-december-risk-for-branslebrist?utm_medium=rss",
       "section": "sweden"
     },
     {
-      "headline": "Far right advances in Riksdag election",
-      "summary": "Expo reports extreme right gains",
+      "headline": "Alice Huang spy case lacks evidence, sources say",
+      "summary": "Sources say no proof of espionage for China",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/kallor-saknas-bevis-for-att-alice-huang-spionerat/cG9zdDoyNzA4MjU",
+      "section": "sweden"
+    },
+    {
+      "headline": "Far-right figure expelled from crisis preparedness",
+      "summary": "Leading right-wing extremist removed from preparedness role",
       "source": "Expo",
-      "link": "https://expo.se/nyhet/ytterhogern-framat-i-riksdagsvalet/",
+      "link": "https://expo.se/nyhet/ledande-hogerextremist-utesluts-fran-krisberedskap/",
       "section": "sweden"
     },
     {
-      "headline": "Brattås double murder case reaches appeals court",
-      "summary": "New evidence from crime scene presented",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/nya-bevis-i-brattasfallet-starker-den-redan-domdes-berattelse/",
+      "headline": "Monterro launches SEK 1.7bn startup-building fund",
+      "summary": "Epidemic founder to build AI-era software companies",
+      "source": "Breakit",
+      "link": "https://www.breakit.se/artikel/48132/epidemic-grundaren-oscar-hoglund-startar-miljardfond-hos-monterro-ska-bygga-bolag-fran-grunden",
       "section": "sweden"
     },
     {
-      "headline": "Six AI policy priorities for Sweden's new government",
-      "summary": "AI Sweden outlines priorities for incoming government",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/six-ai-policy-priorities-swedens-new-government",
-      "section": "sweden"
-    },
-    {
-      "headline": "Sweden joins forces against AI-driven cyber threats",
-      "summary": "National collaboration targets AI-enabled cyberattacks",
-      "source": "AI Sweden",
-      "link": "https://www.ai.se/en/news/sweden-joins-forces-against-ai-driven-cyber-threats",
-      "section": "sweden"
-    },
-    {
-      "headline": "1,500 Växjö dental patients tested for HIV",
-      "summary": "Instruments possibly not cleaned properly at clinic",
-      "source": "Samnytt",
-      "link": "https://samnytt.se/1-500-tandvardspatienter-testas-for-hiv-instrument-rengjordes-inte-ordentligt/",
-      "section": "sweden"
-    },
-    {
-      "headline": "ISK tax to rise next year",
-      "summary": "Higher tax on investment savings accounts announced",
+      "headline": "Stockholm police prepare for chaos at Hammarby gold",
+      "summary": "Extra police resources ahead of possible title celebrations",
       "source": "Omni",
-      "link": "https://omni.se/isk-skatten-hojs-nasta-ar/a/qOL9K1",
+      "link": "https://omni.se/stockholmspolisen-tar-hojd-for-kaos-vid-hammarbyguld/a/bk5Eqd",
       "section": "sweden"
     },
     {
-      "headline": "中科闻歌中标历史研究院大模型项目",
-      "summary": "中科闻歌中标中国历史研究院AI大模型项目，金额338万元",
-      "why": "国家级研究机构的单子金额可对标，研究院类客户可参照",
-      "source": "中华网财经",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeHIxTFMySmU4UkpsWEZGMExVM0ZUQVhXbHNlZGd3N3YydUN1SXE5QU9qQVFxNkQ1T0xqNDBWQmpKVU9JbDhta0owV0hBUm01d1psUUM0Wkt0YnRhWmRReUFOc0VLYkZoNVowUXh3?oc=5",
-      "section": "ai"
-    },
-    {
-      "headline": "10月银行AI项目：采购超40笔",
-      "summary": "10月银行AI采购超40笔，基础设施占近一半预算",
-      "why": "银行预算偏硬件，应用交付要靠场景切入券商银行单",
-      "source": "移动支付网",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqR1RpcGZRb1dhQ2tRanpTbjk3MDAzMDlTeEJBSEtsbDI2S0JLYldMVFJ6d09ldzdIdGl5bjE1YlFQd0x4N0ZxaXN6RDkyZlVMOG1zeHJwMXRMX1FJLU1mSQ?oc=5",
-      "section": "ai"
-    },
-    {
-      "headline": "FDE成企业AI落地标配",
-      "summary": "前线部署工程师模式兴起，从定制交付转向标准化产品菜单",
-      "why": "直接对标驻场模式，需想清楚定制与标准化的边界",
-      "source": "Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmk4OVBrNEpQbUVzalRTNXhkOVEydEV6ZWZ0V2Z4aEZaTjlSRFNGazFoWThkMkszOVV4OEs1ZXdmRWhvRk9CNGF3R2otRFFLTmcyYjR2T0o2RlBTdU5FaURZVE1wemVTRk85R0JGdnQ4NU5FeDdqdEJpWWF0elFrdFNTbUkzdFFG?oc=5",
+      "headline": "Anthropic 研究：近两成 AI 部署零业务价值",
+      "summary": "调研58家美国企业近300个部署，卡在审核负担和组织僵化",
+      "why": "驻场交付要把流程重构写进方案，别只讲工具",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
       "section": "ai"
     },
     {
       "headline": "华为云发布智能体伙伴开放计划",
-      "summary": "华为云开放智能体伙伴计划，帮伙伴搭建流量入口",
-      "why": "可作为渠道入口，评估能否接入并拿到国企云客户",
-      "source": "驱动之家",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83Nl9XaF94bGlEdFBCS2tFbEc3dlBlaVF5aF9UQzNEdlM5alVnem1mSE9NWDF2bW9TYkZCWE1rQXAzS2JuTTNsMF9qc29mMGFUUk5PWXJ4ZkY?oc=5",
+      "summary": "致远互联入选首批伙伴，华为云联合生态伙伴推智能体落地",
+      "why": "可作为华为云渠道切入点，与百炼、千帆形成对比",
+      "source": "Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObEY2bzRCWjhOa2JmX1E4eXhyXy1SYS0zSTZ6ZGxpUnVOQ29uNWZad0Jqb1RDMUdIQ29wNWx6VU50M1pRS29zN3hMcHBOelpmYTRYMzZPYk1pSWtjY1ExLWo5VkxPQ3JqMjg5Zmszb1BjTVI5SDRmXzBYRG9yQmVaQTgxbHlteW9i?oc=5",
       "section": "ai"
     },
     {
-      "headline": "Anthropic推Claude Ship自动审查并批准PR",
-      "summary": "Claude Ship测试版可按团队规范自动审查、修复并批准代码变更",
-      "why": "交付团队的代码评审可提速，也冲击驻场工程师的价值",
-      "source": "The Decoder",
-      "link": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
-      "section": "ai"
-    },
-    {
-      "headline": "MCP月下载破7亿，新增后台任务",
-      "summary": "MCP新增后台任务、追问和文件上传，支持更自主的智能体",
-      "why": "企业系统对接的事实标准，可直接用于 MES、SAP 集成",
-      "source": "The Decoder",
-      "link": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
-      "section": "ai"
-    },
-    {
-      "headline": "远光软件回应智能体：九天灵境可编排",
-      "summary": "远光软件称九天灵境可编排自定义智能体",
-      "why": "国网系软件商的智能体平台，是国企客户的竞品参照",
+      "headline": "钱塘征信 AI 多智能体重构征信建模获金发奖",
+      "summary": "多智能体建模让风控能力开箱即用，获央行金发奖三等奖",
+      "why": "金融风控有可对标案例，券商结算对账可借用",
       "source": "证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hdnRRNDNQd2wtUnAtRWFGaVlhMmYydWlKSzJ3QjljcG90dU80djJxZ2JyRlFUcl84TXpCQTFRQzRuU0tkanZSU095dGk2WVZPWklZTUlJVm5iRURkNDl1Rg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YXJSdGNYamh6Qy0wV3hNVXpxbkZycWQxVVQzTlpmalJESWhrZTE3SUdGaEt1WTJaUUNYdWY1T2Q4eWx4M0VwUV9SMmRyMFAzZXJwdVRPR29jcm9uRVYyTQ?oc=5",
       "section": "ai"
     },
     {
-      "headline": "南京银行手机银行意图识别项目招标",
-      "summary": "南京银行发布手机银行意图识别系统建设招标公告",
-      "why": "银行 AI 招标样本，可观察预算和投标门槛",
+      "headline": "国家人工智能应用中试基地（金融）阶段性发布",
+      "summary": "金融领域 AI 应用中试基地启动阶段性成果发布",
+      "why": "金融客户的合规验证有官方通道，可借力背书",
+      "source": "新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ma19waFZOaG1vSVUzZjYzTzZyOHVNeUVxY1k2MTExcmRoU3ZTblAyN2M1YzFfaXFibXYyNE1MR3MwelZMT1dRSlBnaHY1QnoxYkVON2ZtVWNGNGh6YlE3TU8tY0ptNkd0VEladXdReW5MRW0yUDdOWQ?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "广西北部湾银行智能评审系统供应商征集",
+      "summary": "同业客户授信及准入智能评审系统项目公开征集供应商",
+      "why": "银行 AI 采购信号，可评估是否投标或找总包伙伴",
       "source": "移动支付网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yblBZeHU0emM5RFdaSkR6VlZkUm5pVWZ1ZWxrYWRlbmN0T1FQemRFSVpKZDlqYUctckVxVUhFTUY2aXRHaHA4M09BNDhKNUsza2g3dUNnR18xZFRadzJQUzBMQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IRVM0RXc3U3VuSEotcFhfVDJteW55T1JoeXBvWWU3aG5tRldoXzVGS1NUM0NwbjV1TmlsalFEV1kzYnJHNENoSTEzdS00amJubFNxeDNsM3BtZEJGVUNKMk44dw?oc=5",
       "section": "ai"
     },
     {
-      "headline": "企业本体论破解制造业AI数据语义难题",
-      "summary": "用企业本体统一制造业数据语义，解决AI落地的数据障碍",
-      "why": "半导体 CIM/MES 项目的数据语义问题，可借鉴方法",
-      "source": "CSDN",
-      "link": "https://news.google.com/rss/axticles/CBMiX0FVX3lxTFB5TnF0ZUJMTFVKZklmQU1qblJfNXVMXzNyQUZ0X1dFWXlQYkl0OUJ1WEg1anR0Skt4Zl9xWGd5UGxRR0FMZlI1U0g3a1lnNVVPWnN5UEZPYXhrMzVEdlZr?oc=5",
+      "headline": "OpenAI 测试 Private Inference，承诺看不到企业数据",
+      "summary": "企业可在最强模型上跑查询，OpenAI 无法访问数据",
+      "why": "国企、药企的数据顾虑有了新说法，可用于方案",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
       "section": "ai"
     },
     {
-      "headline": "中国5个自贸区开展AI标准化试点",
-      "summary": "中国在5个自贸试验区开展人工智能标准化自主开放试点",
-      "why": "政策利好，涉外企业可借试点争取合规先行场景",
-      "source": "钛媒体",
-      "link": "https://www.tmtpost.com/8216719.html",
+      "headline": "Cohere：自托管开放权重模型仍需出站控制",
+      "summary": "私有化部署的模型也有数据外泄风险，需管控出站",
+      "why": "私有化交付要补出站管控，公安、国企会问",
+      "source": "InfoQ",
+      "link": "https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ?utm_source=rss&utm_medium=article",
+      "section": "ai"
+    },
+    {
+      "headline": "开源 AI 编程工具 T3 Code 被扒出偷数据",
+      "summary": "开源 AI 编程工具被发现未经告知上传用户数据",
+      "why": "工程师驻场用的工具要做安全清单，防客户代码外泄",
+      "source": "OSCHINA",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BMFZKbEFKWERTcGdwQ3BHSlFsejRUaU5jeHhTbi02dkVVWGZPSlg4Y0xtN0IwTTljSDNha1BYXzlvdTEwNzJfUFJSTQ?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "字节发布首款个人智能体，小豆公测、千问Go竞速",
+      "summary": "字节、阿里个人 AI 助理进入公测，规模化仍有关卡",
+      "why": "大厂智能体从聊天转向办事，会抬高客户预期",
+      "source": "每日经济新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uMzJzVmJBRUVJSmswWGtXajBaRUVHOXY4U0Q1OFFFZkFfRUJpOWtIQUdOeUN1MHplWWtXaEpRQ040NkwwSkFuZjlWYzg2WnBtZkdVOThwQVVVdUdOOWRteEpCVTZ6dw?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "华泰：AI 产业内部更重交付与回报质量",
+      "summary": "华泰证券判断 AI 产业重心转向交付和回报",
+      "why": "印证交付型公司定位，可引用向客户说明",
+      "source": "36氪",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aTF9hVVlxb1BhckthekJUb19lRk4zUVlNNld2dDFzWE1Rbnlpejh3amxKenhOWUFSVTRqelc1ZE1yNmtESGlOVkcyelZmN3V3SkFhLTNFdklMamFEVXc?oc=5",
       "section": "ai"
     }
   ]

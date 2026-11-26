@@ -1,0 +1,173 @@
+{
+  "title": "瑞典新闻 + AI 产业 — 2026年11月26日",
+  "stories": [
+    {
+      "headline": "Kristersson confirms talks with Centre leader",
+      "summary": "Government formation talks with Thand Ringqvist amid pressure on C",
+      "source": "Omni",
+      "link": "https://omni.se/kristersson-bekraftar-samtal-med-c-ledaren/a/KL30vG",
+      "section": "sweden"
+    },
+    {
+      "headline": "Centre Party split over choosing a side",
+      "summary": "41 centrists open to Kristersson; internal power struggle",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/41-centerpartister-oppnar-for-kristersson/cG9zdDoyNzA4NTQ",
+      "section": "sweden"
+    },
+    {
+      "headline": "Poll: two-thirds critical of Centre's actions",
+      "summary": "Voters unhappy with C, V and S in government deadlock",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/matning-tva-av-tre-kritiska-till-cs-agerande/cG9zdDoyNzA3MDg",
+      "section": "sweden"
+    },
+    {
+      "headline": "Social Democrats in crisis if right government forms",
+      "summary": "Former S leader warns; Sveavägen 68 appeals to Centre",
+      "source": "Omni",
+      "link": "https://omni.se/tidigare-s-topp-partiet-i-kris-vid-ny-hogerregering/a/qOLj6L",
+      "section": "sweden"
+    },
+    {
+      "headline": "Kristersson's balancing act: how he could govern",
+      "summary": "Explainer on possible minority government arrangements",
+      "source": "Omni",
+      "link": "https://omni.se/kristerssons-balansakt-sa-skulle-hans-regering-kunna-styra/a/dJOWkw",
+      "section": "sweden"
+    },
+    {
+      "headline": "Researchers: government chaos erodes trust",
+      "summary": "Prolonged formation damages confidence in politicians",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/z0Ga0w/forskare-regeringskaoset-tar-pa-fortroendet?utm_medium=rss",
+      "section": "sweden"
+    },
+    {
+      "headline": "Thand Ringqvist's investments hit by bankruptcy",
+      "summary": "Another business bankrupt; two representatives reported to police",
+      "source": "Expressen",
+      "link": "https://www.expressen.se/nyheter/politik/c-ledaren-elisabeth-thand-ringqvists-bakslag--mitt-i-regeringskaoset/",
+      "section": "sweden"
+    },
+    {
+      "headline": "Police warn of fuel shortage risk",
+      "summary": "Officers told to refuel as fuel price rises December 1",
+      "source": "Aftonbladet",
+      "link": "https://www.aftonbladet.se/nyheter/a/7P0rxv/bensinpriset-hojs-1-december-risk-for-branslebrist?utm_medium=rss",
+      "section": "sweden"
+    },
+    {
+      "headline": "Alice Huang spy case lacks evidence, sources say",
+      "summary": "Sources say no proof of espionage for China",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/kallor-saknas-bevis-for-att-alice-huang-spionerat/cG9zdDoyNzA4MjU",
+      "section": "sweden"
+    },
+    {
+      "headline": "Far-right figure expelled from crisis preparedness",
+      "summary": "Leading right-wing extremist removed from preparedness role",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/ledande-hogerextremist-utesluts-fran-krisberedskap/",
+      "section": "sweden"
+    },
+    {
+      "headline": "Monterro launches SEK 1.7bn startup-building fund",
+      "summary": "Epidemic founder to build AI-era software companies",
+      "source": "Breakit",
+      "link": "https://www.breakit.se/artikel/48132/epidemic-grundaren-oscar-hoglund-startar-miljardfond-hos-monterro-ska-bygga-bolag-fran-grunden",
+      "section": "sweden"
+    },
+    {
+      "headline": "Stockholm police prepare for chaos at Hammarby gold",
+      "summary": "Extra police resources ahead of possible title celebrations",
+      "source": "Omni",
+      "link": "https://omni.se/stockholmspolisen-tar-hojd-for-kaos-vid-hammarbyguld/a/bk5Eqd",
+      "section": "sweden"
+    },
+    {
+      "headline": "Anthropic 研究：近两成 AI 部署零业务价值",
+      "summary": "调研58家美国企业近300个部署，卡在审核负担和组织僵化",
+      "why": "驻场交付要把流程重构写进方案，别只讲工具",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+      "section": "ai"
+    },
+    {
+      "headline": "华为云发布智能体伙伴开放计划",
+      "summary": "致远互联入选首批伙伴，华为云联合生态伙伴推智能体落地",
+      "why": "可作为华为云渠道切入点，与百炼、千帆形成对比",
+      "source": "Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObEY2bzRCWjhOa2JmX1E4eXhyXy1SYS0zSTZ6ZGxpUnVOQ29uNWZad0Jqb1RDMUdIQ29wNWx6VU50M1pRS29zN3hMcHBOelpmYTRYMzZPYk1pSWtjY1ExLWo5VkxPQ3JqMjg5Zmszb1BjTVI5SDRmXzBYRG9yQmVaQTgxbHlteW9i?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "钱塘征信 AI 多智能体重构征信建模获金发奖",
+      "summary": "多智能体建模让风控能力开箱即用，获央行金发奖三等奖",
+      "why": "金融风控有可对标案例，券商结算对账可借用",
+      "source": "证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YXJSdGNYamh6Qy0wV3hNVXpxbkZycWQxVVQzTlpmalJESWhrZTE3SUdGaEt1WTJaUUNYdWY1T2Q4eWx4M0VwUV9SMmRyMFAzZXJwdVRPR29jcm9uRVYyTQ?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "国家人工智能应用中试基地（金融）阶段性发布",
+      "summary": "金融领域 AI 应用中试基地启动阶段性成果发布",
+      "why": "金融客户的合规验证有官方通道，可借力背书",
+      "source": "新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ma19waFZOaG1vSVUzZjYzTzZyOHVNeUVxY1k2MTExcmRoU3ZTblAyN2M1YzFfaXFibXYyNE1MR3MwelZMT1dRSlBnaHY1QnoxYkVON2ZtVWNGNGh6YlE3TU8tY0ptNkd0VEladXdReW5MRW0yUDdOWQ?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "广西北部湾银行智能评审系统供应商征集",
+      "summary": "同业客户授信及准入智能评审系统项目公开征集供应商",
+      "why": "银行 AI 采购信号，可评估是否投标或找总包伙伴",
+      "source": "移动支付网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IRVM0RXc3U3VuSEotcFhfVDJteW55T1JoeXBvWWU3aG5tRldoXzVGS1NUM0NwbjV1TmlsalFEV1kzYnJHNENoSTEzdS00amJubFNxeDNsM3BtZEJGVUNKMk44dw?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "OpenAI 测试 Private Inference，承诺看不到企业数据",
+      "summary": "企业可在最强模型上跑查询，OpenAI 无法访问数据",
+      "why": "国企、药企的数据顾虑有了新说法，可用于方案",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+      "section": "ai"
+    },
+    {
+      "headline": "Cohere：自托管开放权重模型仍需出站控制",
+      "summary": "私有化部署的模型也有数据外泄风险，需管控出站",
+      "why": "私有化交付要补出站管控，公安、国企会问",
+      "source": "InfoQ",
+      "link": "https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ?utm_source=rss&utm_medium=article",
+      "section": "ai"
+    },
+    {
+      "headline": "开源 AI 编程工具 T3 Code 被扒出偷数据",
+      "summary": "开源 AI 编程工具被发现未经告知上传用户数据",
+      "why": "工程师驻场用的工具要做安全清单，防客户代码外泄",
+      "source": "OSCHINA",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BMFZKbEFKWERTcGdwQ3BHSlFsejRUaU5jeHhTbi02dkVVWGZPSlg4Y0xtN0IwTTljSDNha1BYXzlvdTEwNzJfUFJSTQ?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "字节发布首款个人智能体，小豆公测、千问Go竞速",
+      "summary": "字节、阿里个人 AI 助理进入公测，规模化仍有关卡",
+      "why": "大厂智能体从聊天转向办事，会抬高客户预期",
+      "source": "每日经济新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uMzJzVmJBRUVJSmswWGtXajBaRUVHOXY4U0Q1OFFFZkFfRUJpOWtIQUdOeUN1MHplWWtXaEpRQ040NkwwSkFuZjlWYzg2WnBtZkdVOThwQVVVdUdOOWRteEpCVTZ6dw?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "华泰：AI 产业内部更重交付与回报质量",
+      "summary": "华泰证券判断 AI 产业重心转向交付和回报",
+      "why": "印证交付型公司定位，可引用向客户说明",
+      "source": "36氪",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aTF9hVVlxb1BhckthekJUb19lRk4zUVlNNld2dDFzWE1Rbnlpejh3amxKenhOWUFSVTRqelc1ZE1yNmtESGlOVkcyelZmN3V3SkFhLTNFdklMamFEVXc?oc=5",
+      "section": "ai"
+    }
+  ],
+  "script": "克里斯特松首相向媒体确认，他正在和中间党党首坦德·林奎斯特谈组阁。Omni 的报道说，这场谈话发生在各方压力都压向中间党的时候。九月大选之后，议会里没有哪个阵营拿到稳定多数，中间党手里的议席能左右结果，它往右还是往左，直接决定下一届政府的颜色。克里斯特松是温和党党首，要继续留在首相位置上，至少得让中间党同意容忍一个少数政府。林奎斯特是新任党首，上任不久就被推到谈判桌的正中间，党内外都在盯着她的每一句话。对在瑞典生活的人来说，政府迟迟不成形，明年的预算案和已经排上日程的各项改革就只能等着，企业和市政府都没法提前规划。\n\n中间党内部对站队意见并不一致。偏右的评论杂志 Kvartal 报道，有四十一名中间党人士对和克里斯特松合作持开放态度，党内也在为主导权明争暗斗。Kvartal 的立场偏保守，它特别爱写中间党向右靠拢的可能性，读的时候要把这点算进去。不过两边的拉扯是真实的。一部分人想回到和温和党、基督民主党合作的老路，另一部分人记得中间党当年为了和社民党谈妥协付出的代价，不愿再被人说成左右摇摆。林奎斯特要先稳住自己的党，才有资格对外谈条件，党内裂得越深，她能争取到的政策越少。\n\n民调显示出选民的耐心已经不多。Kvartal 引用的调查里，约三分之二的受访者对中间党在僵局中的做法持批评态度。同一份调查里，选民对左党和社民党在这场僵局里的表现同样不满，没有哪个党明显占到便宜。这个数字的意思很直接。谁被看成拖着不表态，谁在下次选举时就要付代价。中间党夹在中间，又最容易被两边同时骂，所以林奎斯特每多拖一周，党的形象就多受一周损伤。Kvartal 是偏右媒体，对左翼党派的批评通常下笔更重，这份调查的原始数据可以另外去查。\n\n如果右翼政府真的成形，社民党将面临不小的冲击。Omni 报道，一位社民党前党首警告说，党会陷入危机，党总部所在的斯韦大街六十八号正在向中间党公开喊话，希望它不要把票投给克里斯特松。社民党在这届选举里仍然是最大党，但最大党不等于能组阁，没有盟友凑够多数，它就只能在野。前党首出面发声，说明党内对现任领导层的应对方式也有不满。如果右翼政府再执政四年，社民党又要多当四年反对党，党内关于路线和人事的争论会更激烈。\n\nOmni 另外做了一篇解说，讲克里斯特松可能怎么组政府。最简单的办法是组一个少数政府，靠中间党在关键表决中不投反对票，或者通过预算协议换取支持。这种安排在瑞典有先例，但每次表决都要重新谈，政府推政策会很慢。第二种办法是让中间党直接入阁，拿几个部长席位，代价是中间党要放弃一部分原来的立场，包括对瑞典民主党影响力的限制。第三种办法是继续僵持，让看守政府撑下去，但看守政府不能提出新的大型提案。三种方案各有麻烦，克里斯特松需要在党内、中间党和瑞典民主党三方之间同时找平衡。\n\n政府迟迟没有成形，研究者认为已经伤害到公众对政治人物的信任。Aftonbladet 引用的几位研究者说，拖得越久，选民越觉得政客在争位置而不是解决问题。这类信任一旦下滑，恢复起来要好几年，投票率和对政党的认同感都会受影响。Aftonbladet 是倾向社民党的大报，它强调僵局对政治信任的伤害，也符合它对右翼组阁持怀疑态度的立场。研究者的观点本身有数据支持，但标题怎么写、强调哪一边的责任，各家报纸有各家报纸的选择。对做生意的人来说，政治不确定持续得越久，政府采购、监管和补贴方面的决定就越难预测。\n\n中间党党首林奎斯特本人也遇上了麻烦。偏中右的 Expressen 报道，她投资过的又一家公司宣告破产，两名公司代表被人向警方举报。Expressen 的社论立场偏自由派、偏中右，对社民党和中间党的政治人物都爱挖个人经历，这点读者可以心里有数。破产本身是一个商业事件，不一定说明她个人有违法行为，报道也没有这样指控。但林奎斯特正在做可能决定首相人选的谈判，每多一条关于她过去投资的负面新闻，她在党内外的话语权就多受一点牵制。党内反对她路线的人，很可能拿这类报道做文章。\n\n警方发出警告，说燃油可能出现供应紧张。Aftonbladet 报道，警察被要求提前加满油，因为十二月一日燃油价格要上涨，担心有人在涨价前囤油，造成加油站断货。警察的车队靠柴油和汽油运转，要是加油站排长队或者断货，巡逻和出警都会受影响。涨价的具体幅度报道里没有给出，我们这里也不猜。对住在瑞典的人来说，十二月一日之前加油可能会遇到比平时更长的队，开车通勤的家庭可以提前安排。\n\n一起被媒体称为间谍案的事件出现新说法。偏右的 Kvartal 援引消息人士称，对爱丽丝·黄的调查缺乏证据，没有找到她为中国从事间谍活动的证明。Kvartal 立场偏保守，对中国相关议题通常报道得很密，这次却报了对嫌疑人有利的信息，值得多看一眼原文。案件还没有判决，消息来源也没有公开姓名，所以现在谁也不能下结论。瑞典近年对中国的警惕在升温，和中国有往来的瑞典华人、留学生和企业，都可能因为类似案件被另眼相看。住在瑞典的中国人最好留意案件之后的法院文件，不要只看标题。\n\n极右翼人物被踢出危机准备体系。专门监测极端主义的 Expo 报道，一名极右翼领军人物已经被从危机准备相关的岗位上撤下来。Expo 的立场是反极端主义，偏左，对右翼极端组织的调查很细，但它的报道经常被警方和媒体引用。瑞典这几年在大力扩充民防和危机准备，志愿者和后备人员的名单扩大得很快，审查程序也因此被推到前台。这次撤换说明审查在起作用，也说明此前有人通过了审查。\n\nMonterro 推出一只十七亿克朗的新基金，用来孵化软件创业公司。Breakit 报道，这只基金的主理人是 Epidemic 的创始人，计划在人工智能时代从零开始搭建软件公司。Monterro 是瑞典的软件投资机构，过去主要投已经成型的中小软件企业，这次改成自己动手建公司，是投资打法的变化。十七亿克朗放到全球看不算大，但在瑞典创业圈里是一笔够用的钱。瑞典的创业者和工程师会多一个去处，想和瑞典软件公司合作的中国企业，也多了一批可以接触的对象。\n\n斯德哥尔摩警方正在为哈马比夺冠后的场面做准备。Omni 报道，警方增派了人手，防止球迷庆祝时出现混乱。哈马比是斯德哥尔摩南区的球队，球迷规模大，上次夺冠的庆典就曾经把市中心的交通堵住好几个小时。警方的担心有两方面，一是人群过于拥挤，二是赛后可能有球迷之间的冲突。如果夺冠庆祝在周末进行，市区的地铁和公交可能临时调整，在斯德哥尔摩出行的人最好提前查线路。\n\n接下来说 AI 产业。\n\nAnthropic 做了一项研究，调查了五十八家美国企业的近三百个 AI 部署，发现近两成部署没有带来任何业务价值。卡住的原因集中在两处，一是审核负担太重，人要把 AI 的输出逐条复核，省下的时间又被花掉了；二是组织僵化，流程和岗位没有跟着改。对在客户现场做交付的团队来说，这是一条可以直接写进方案的证据。方案里要写清楚哪些流程要重构、审核由谁承担、岗位怎么调整，别只讲工具选型。客户的采购人员见过太多只讲工具的方案，能讲出流程改造的团队更容易拿到后续预算。\n\n华为云发布了智能体伙伴开放计划，致远互联进入首批伙伴名单，华为云联合生态伙伴一起推智能体落地。报道没有给出投入金额和伙伴总数，我们这里也不猜。对做企业 AI 落地的人来说，这是一条新渠道。国企和大型政企客户本来就在用华为云，从华为云的伙伴体系进去，可以少走一段信任建立的路。另一方面，阿里的百炼和百度的千帆也在拉伙伴，三家的返佣、认证门槛和客户资源各不相同，值得拿到条款以后逐项对比。\n\n钱塘征信用 AI 多智能体重构了征信建模，拿到了央行的金发奖三等奖。多智能体建模让风控能力可以开箱即用，机构不用再从头搭模型。报道没有给出节省的人力或时间数字。金融风控现在有了可以对标的获奖案例，做银行和券商项目时可以拿来说明多智能体架构已经通过了行业评审。券商的结算对账和征信建模在数据处理和规则校验上有相似之处，这套思路可以借用。\n\n国家人工智能应用中试基地的金融领域部分，发布了阶段性成果。中试基地的作用是让 AI 应用在正式上线前，在接近真实的环境里验证安全和合规。报道没有披露参与机构的数量和测试规模。金融客户最怕的是合规出问题，现在有了官方通道，交付团队可以建议客户把方案送进中试基地验证，拿到官方背书后再上线。这样做会拉长一些周期，但能让客户内部的风控和法务更容易点头。\n\n广西北部湾银行公开征集同业客户授信及准入智能评审系统的供应商。同业客户指的是和这家银行有往来的其他金融机构，系统要用 AI 对这些机构做授信和准入评审。招标金额和供应商名额报道里没有给出。这是一个银行端的 AI 采购信号，团队要先判断自己有没有银行授信风控方面的案例，再决定是单独投标，还是找有银行资质的总包伙伴合作。区域性银行的采购流程通常比大行短，但要求本地服务能力。\n\nOpenAI 在测试一项叫 Private Inference 的功能，承诺企业可以在最强的模型上跑查询，OpenAI 自己没法看到数据。报道没有说上线时间和收费方式。国企和药企对数据出境和外泄的顾虑一直是项目推进的最大阻力，现在有了厂商给出的新说法，交付方案里可以把它写成一个备选路径。不过国内客户能否合法使用海外模型是另一回事，要先和客户的合规部门确认，再决定怎么讲。\n\nCohere 提醒说，自托管开放权重模型仍然需要做出站控制，因为私有化部署的模型也可能把数据送到外面。很多客户以为模型装在自己机房里就安全了，其实模型加载的组件、插件和日志上报都可能产生外连。做私有化交付的团队要在方案里补上出站管控，包括网络白名单、日志审计和组件清单。公安和国企客户的安全部门一定会问这个问题，提前写进方案比被问到再补更容易过关。\n\n开源 AI 编程工具 T3 Code 被人发现，未经告知就上传用户数据。报道没有说明具体上传了哪些内容和影响了多少用户。工程师驻场时常用这类工具提高效率，但它们可能把客户的代码片段送出去。团队要做一份工具安全清单，列出每个工具会连哪些服务器、上传什么、能不能关闭，再在进场前和客户确认。一旦客户代码外泄，损失的是整个项目的信任。\n\n字节发布了首款个人智能体小豆，已经进入公测，阿里的千问 Go 也在同步竞争。两家的个人 AI 助理都在从聊天走向办事，但报道提到规模化推广还有关卡，没有给出用户数。大厂把智能体做成日常工具，客户的员工自己会用上，也会拿它去和企业内部系统比，预期会被拉高。交付团队在演示时要准备好回答为什么企业版比个人版更稳、更合规，不然客户会觉得企业项目又慢又贵。\n\n华泰证券判断，AI 产业的重心正在转向交付和回报质量。这个判断来自券商研究，没有给出具体的测算数字。对做交付型业务的公司来说，这是一条可以引用的外部观点，向客户解释为什么要先做验收标准和回报测算，再谈模型能力。客户的预算审批人更熟悉券商研报的说法，引用华泰的判断，能让他们更快接受交付型公司的定位。",
+  "date": "2026-11-26",
+  "audio_url": "digests/2026-11-26.mp3",
+  "duration_seconds": 610
+}
