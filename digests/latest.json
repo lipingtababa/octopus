@@ -1,171 +1,164 @@
 {
-  "date": "2026-11-27",
-  "title": "瑞典新闻 + AI 产业 — 2026年11月27日",
-  "audio_url": "digests/2026-11-27.mp3",
-  "duration_seconds": 504,
+  "date": "2026-11-28",
+  "title": "瑞典新闻 + AI 产业 — 2026年11月28日",
+  "audio_url": "digests/2026-11-28.mp3",
+  "duration_seconds": 453,
   "stories": [
     {
-      "headline": "Centre Party backs Kristersson as PM",
-      "summary": "C says yes to Kristersson; Thand Ringqvist had threatened to leave.",
+      "headline": "C decides on joining Kristersson government",
+      "summary": "Centre Party's final decision rests with a group on Sunday",
       "source": "Omni",
-      "link": "https://omni.se/just-nu-c-har-fortfarande-en-chans-att-landa-ratt/a/9Bvy3q",
+      "link": "https://omni.se/alliansen-2-0-hall-gransen-tredje-vagen-sa-avgors-c-striden/a/xJPa2j",
       "section": "sweden"
     },
     {
-      "headline": "C deeply split before decisive Sunday meeting",
-      "summary": "About 15 of 35 opposed; trust council decides.",
-      "source": "Expressen",
-      "link": "https://www.expressen.se/nyheter/politik/splittring-infor-cs-odesmote-pa-sondag-inte-toppstyrt/",
-      "section": "sweden"
-    },
-    {
-      "headline": "A third of C MPs may vote no",
-      "summary": "C top figure expects one in three to reject Kristersson.",
+      "headline": "C leader to resign if members say no",
+      "summary": "Thand Ringqvist reportedly steps down if rejected",
       "source": "Omni",
-      "link": "https://omni.se/c-topp-tror-att-var-tredje-ledamot-kommer-rosta-nej/a/6PjmOQ",
+      "link": "https://omni.se/kallor-thand-ringqvist-avgar-om-hon-far-nej/a/vkAW7p",
       "section": "sweden"
     },
     {
-      "headline": "Andersson's trust plunges; Kristersson now first",
-      "summary": "DN/Ipsos poll: Andersson falls to fourth among leaders.",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/andersson-rasar-kristersson-ny-etta-i-fortroendeligan/",
-      "section": "sweden"
-    },
-    {
-      "headline": "DN: Centre may have paved way for extra election",
-      "summary": "Warnings of defections after C's decision.",
-      "source": "Kvartal",
-      "link": "https://kvartal.se/nyheter/artiklar/dn-centern-kan-ha-baddat-for-extraval/cG9zdDoyNzI0NjU",
-      "section": "sweden"
-    },
-    {
-      "headline": "Analysts: Andersson first winner unable to form government",
-      "summary": "Analysts assess the failed government formation.",
+      "headline": "Nineteen C leaders back Ulf Kristersson",
+      "summary": "Top Centre Party figures endorse joining right-wing government",
       "source": "Omni",
-      "link": "https://omni.se/analyser-gar-till-historien-som-forsta-valvinnare-att-inte-fa-ihop-en-regering/a/aGwamE",
+      "link": "https://omni.se/17-c-toppar-staller-sig-bakom-ulf-kristersson/a/OyQbdE",
       "section": "sweden"
     },
     {
-      "headline": "Electricity price shock hits southern Sweden",
-      "summary": "November bill reaches 6,300 kronor in SE4, highest since 2022.",
-      "source": "DN",
-      "link": "https://www.dn.se/sverige/elprischocken-dyraste-rakningen-pa-fyra-ar/",
-      "section": "sweden"
-    },
-    {
-      "headline": "Vattenfall raises grid fees again",
-      "summary": "Critics say electricity grid fees already unreasonably high.",
-      "source": "Omni",
-      "link": "https://omni.se/vattenfall-hojer-natavgifter-pa-elen-igen/a/JnoVnb",
-      "section": "sweden"
-    },
-    {
-      "headline": "Over 100,000 pensioners miss out on support",
-      "summary": "Warning that many eligible pensioners don't claim benefits.",
-      "source": "Omni",
-      "link": "https://omni.se/varningen-over-100000-pensionarer-missar-stod/a/z0GW01",
-      "section": "sweden"
-    },
-    {
-      "headline": "Sweden pushes EU-wide scanning of private chats",
-      "summary": "Leaked report: Sweden backs broad message scanning.",
-      "source": "Samnytt",
-      "link": "https://samnytt.se/sverige-driver-pa-i-eu-for-bred-skanning-av-privata-chattar/",
-      "section": "sweden"
-    },
-    {
-      "headline": "Hate storm against Mohamed Nuur leads to charges",
-      "summary": "Prosecution follows online hate campaign.",
-      "source": "Expo",
-      "link": "https://expo.se/nyhet/hatstormen-mot-mohamed-nuur-leder-till-atal/",
-      "section": "sweden"
-    },
-    {
-      "headline": "Measles suspected on flight from Thailand",
-      "summary": "Public Health Agency warns passengers on Bangkok-Stockholm flight.",
+      "headline": "Government's plan to push through its policy",
+      "summary": "Document reveals how Tidö parties plan to govern",
       "source": "Aftonbladet",
-      "link": "https://www.aftonbladet.se/nyheter/a/xJP15p/varningen-massling-upptack-pa-flyg-till-thailand?utm_medium=rss",
+      "link": "https://www.aftonbladet.se/nyheter/a/qOApyo/nytt-dokument-avslojar-har-ar-planen?utm_medium=rss",
       "section": "sweden"
     },
     {
-      "headline": "招行苏州分行征集AI研发智能体供应商",
-      "summary": "招商银行苏州分行发布AI研发智能体资源服务项目供应商征集公告",
-      "why": "银行AI研发智能体采购，可直接对接投标与渠道",
-      "source": "移动支付网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1SEgxRkFyV2VlcWdZRVdQVzBaT0NZcHAtUFg5dVg5a2tLaXhTeVBWMm1CVzBXbFNPWGZ4eVdLd1pCU2xaWXZuLUVCTHpDaGxvOUk3clN1SEVrd2lTS29fM082cw?oc=5",
-      "section": "ai"
+      "headline": "C could lose half its voters in new election",
+      "summary": "Poll risk if Centre Party triggers extra election",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/c-riskerar-att-tappa-varannan-valjare-vid-extra-val/cG9zdDoyNzMzNTY",
+      "section": "sweden"
     },
     {
-      "headline": "温州银行智能代码安全审计系统中标",
-      "summary": "温州银行智能代码安全审计系统采购项目公布中标结果",
-      "why": "AI代码审计已有预算，可作为金融客户切入场景",
-      "source": "移动支付网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYcnhzZzNOQ1ZnZnFsWEcxZkNyNDJkdTFHRUxkOVlBNVJaWURNZkdrZ25GT2ZVVjdIQmhwQnUtdjBsdVJRdm5rcVI4ajcxVDZqTm9xU19UZlV0dmJVY0pTRDJTUQ?oc=5",
-      "section": "ai"
+      "headline": "S sources: Magdalena Andersson must go",
+      "summary": "Social Democrat insiders call for leader's resignation",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/s-kallor-magdalena-andersson-behover-avga/cG9zdDoyNzM0Mjg",
+      "section": "sweden"
     },
     {
-      "headline": "绍兴银行招标软件开发人力外包入围厂商",
-      "summary": "绍兴银行启动2027-2028年度软件开发人力外包厂商入围采购",
-      "why": "银行外包研发人力被AI重构，是驻场交付的切入口",
-      "source": "移动支付网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WdktGOUlhZ3hjSm52SDVvR1lTTWJlLVVvdlU4RjNNenpqbkJSWEdPUlRCZWhSUmlQS2N4RGxhRWp6Q2kyRGlyT19DbmlOTkNYTnM4NnJBUGR5TE5ISXp1c19sNA?oc=5",
-      "section": "ai"
+      "headline": "Vilma Andersson to be indicted over Rönningemordet",
+      "summary": "Prosecution expected Tuesday in high-profile murder case",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/atal-vacks-pa-tisdag-efter-ronningemordet/cG9zdDoyNzMzMzg",
+      "section": "sweden"
     },
     {
-      "headline": "建行招行交行布局AI研发实验室",
-      "summary": "多家大型银行开始设立AI研发实验室",
-      "why": "银行自建AI研发能力，影响我们的合作与竞争定位",
-      "source": "移动支付网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44eUJ4T09XdmY3Y0xmUGR1cy1GdU1JRWZHbi1vbDEyRUJ6a0FwcWFEeWpzLXN1ci1hWFBNMHI0ODBiUDhXaUtVT0Y3TFI4WVI3U2xRclVxTERGZUJQVmNCT05uSQ?oc=5",
-      "section": "ai"
+      "headline": "Terror plans against Malmö synagogue uncovered",
+      "summary": "German operation reportedly exposed plot targeting Malmö synagogue",
+      "source": "Omni",
+      "link": "https://omni.se/uppgifter-terrorplaner-mot-synagoga-i-malmo-avslojade-vid-tysk-insats/a/mMBgkq",
+      "section": "sweden"
     },
     {
-      "headline": "字节整合飞书与豆包，争夺AI工作入口",
-      "summary": "字节重构ToB版图，飞书与豆包将整合",
-      "why": "飞书是渠道平台，整合后智能体能力与生态需重新评估",
-      "source": "财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1obDJWZWFFTFFHazhCcU5feE1wdUs5YjdFWWdNVzEzNDZHZDd3MHYwWHBwLXhlcDEyQ0pvR2xXZVJTSWFGc3ZneA?oc=5",
-      "section": "ai"
+      "headline": "Conscripts given old food, unlawful punishments",
+      "summary": "Report exposes mistreatment of Swedish military conscripts",
+      "source": "Kvartal",
+      "link": "https://kvartal.se/nyheter/artiklar/varnpliktiga-fick-gammal-mat-och-otillatna-straff/cG9zdDoyNzM1MTg",
+      "section": "sweden"
     },
     {
-      "headline": "代码写得更快，智能体交付却失控",
-      "summary": "业界呼吁明确AI智能体交付的责任边界",
-      "why": "交付责任划分是驻场合同与验收条款的核心",
-      "source": "证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BUkI5NjBzRE4yWnV0ZUF2bm51WHdvU0MxcDJEZDNISGkwbTNya3NrbV9UemlwTlF5alpISEIzUk1fejkwNjdZMzUyMG9UUGIwY2Zaai1oblhESDNGb1E?oc=5",
-      "section": "ai"
+      "headline": "Armed neo-Nazi incitement and Vimmerby gunman sentenced",
+      "summary": "Expo reports on far-right weapons cases and sentencing",
+      "source": "Expo",
+      "link": "https://expo.se/nyhet/vapenman-i-vimmerby-doms-till-fangelse/",
+      "section": "sweden"
     },
     {
-      "headline": "Claude Ship自动审核并批准合并请求",
-      "summary": "Claude Ship可自动审核并批准代码合并请求",
-      "why": "AI编程工具进入审批环节，改变交付流程与质量把关",
+      "headline": "Right-wing offer to C: IVF, euro, cold beer",
+      "summary": "Conservative bloc's concessions to Centre Party outlined",
+      "source": "Omni",
+      "link": "https://omni.se/borgerliga-budet-till-c-ivf-euron-och-kall-ol-pa-bolaget/a/qOAp6E",
+      "section": "sweden"
+    },
+    {
+      "headline": "中信证券信e投AI APP大模型底座中标",
+      "summary": "中信证券公示信e投AI APP大模型服务底座项目中标结果",
+      "why": "券商大模型底座已有预算，可对标结算对账场景",
       "source": "Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3JUbmZ4UHp6NjFPSjlJQVlvRDhnZ29XN3o3SHEtelgxdHJXbThUck53NWdyMS1RanAtT01mM01SMW9IRV9HcWJRMlpKRmNLaFBRQmExZlR1YlplRHM4LVN2a3hweVRIZ3BITnRkQ1Exek9ZYmx1ajdfSURqd3VpUlJHeW16VlBF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkR4NFV0aFloeXJNc2lFazNVNU5JVWR4N2VRd3VpblFNN3JhbE5mUkJGYWQzRXN1ZFZyUE1KR1FMUFE3amRvSTVmd1FZMHREUWUxTTc4TTcwMWxibm9SeDNUaVhNcExPeE82aFdrS055TE1DLXJnMzZGR1hOUW83OGZwNWJ4TV9MOFZPNA?oc=5",
       "section": "ai"
     },
     {
-      "headline": "广东要求算力中心优先用国产芯片",
-      "summary": "广东鼓励算力中心优先使用国产算力芯片并提升应用规模",
-      "why": "国产算力约束进入政策，方案需适配昇腾等国产底座",
-      "source": "新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXJHRUNTXzFZQUZkS2EwanRTOWcxdFE3R29ZcHpYS1JURVBsNkFWS050ckRDSy1sWmJ1MUtsanBaOEVFUS12bERieHN6cjFTeGFLYlZzX09kNW9NdHg5RW9lV0NTZC1wSC1YblNqWVEtTlpfWGxERkI0dkJUeDNyRklnb2ZSNHA1YTVPRUtB?oc=5",
+      "headline": "建行安徽分行为公积金中心征集大模型供应商",
+      "summary": "宣城公积金智能助报场景大模型项目公开征集供应商",
+      "why": "政务金融联合采购，可作政府侧投标线索",
+      "source": "移动支付网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FSWpmV3BaMlRQMF85dHB0Qld3TzhyOWFZdE13UUxHT25sNnltZ3pySklfeWswV1VSNDI5Z0hRT1czd2F1eEd2WTZHRWJyOGRoNElnV2tOLXUzQ21kWHg4bEY5Zw?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "SAP计划裁员至少1万人转向AI",
+      "summary": "彭博称SAP将因AI重组裁减至少1万个岗位",
+      "why": "芯片厂SAP月结项目，需关注SAP自带智能体冲击",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "section": "ai"
+    },
+    {
+      "headline": "OpenAI自建Athena语义层，减少智能体猜测",
+      "summary": "用统一指标定义提升ChatGPT数据智能体准确度",
+      "why": "指标口径是月结和看板落地难点，可借鉴语义层",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "section": "ai"
+    },
+    {
+      "headline": "别急着升Dify 1.20.0：158条issue复盘",
+      "summary": "社区梳理Dify 1.20.0升级风险和已知问题",
+      "why": "Dify是常见对手和底座，升级坑可直接用于客户建议",
+      "source": "53AI",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mQ2FoZlM4QWdnaHV5bkZHbXd1Y1NKOFphMTZHRFgxdlkyNnpwLXZxZFJyUXVuV0c0WklDWnhjSFVaUk1vblU2ZllZc0V2Yi1mUjYtc1ZnMVo?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "企业级智能体平台选型：三类底座",
+      "summary": "文章按三类底座划分企业智能体平台及适配场景",
+      "why": "可对照钉钉、飞书、百炼，整理自己的选型话术",
+      "source": "天脉财经",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfeGlIb2ZlVEhqMHVQZkVlUGc5NldyMlpWYXgtamVKbGpPQ2VNSHpRRHQtLUZXWmF0UmF3ZG0tMmg2SDlsTm5XTlUxWEV6VWcyVEFzMEdHQQ?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "openJiuwen蜂群联合邮储银行落地金融办公",
+      "summary": "企业级智能体蜂群上线，邮储银行做多副本高可用",
+      "why": "银行智能体已进生产，高可用是金融客户硬要求",
+      "source": "CSDN",
+      "link": "https://news.google.com/rss/axticles/CBMiXkFVX3lxTE84WnRTLTZyZG1ONjc1eENUQ1dWM3RWSUc1UmpQdWR2SjJWLVJFaVlOS1NScnJDSGRDVFJzRWY0aTZTNHpIWWUzVmUtTXJZWk9zMUJwV2lCLTZ1cUYydEE?oc=5",
       "section": "ai"
     },
     {
       "headline": "两大运营商AI超节点集采超550亿",
-      "summary": "运营商AI采购从买芯片转向买整套系统",
-      "why": "国企采购转向整机系统，影响国企客户算力方案选型",
-      "source": "证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3OWo4M21uTE9ybXo1bXZFWVlrczd6M3kyQ2FMX3RFR0ZZZHBKX2VvNTFndG5jTGpDTlU4eWN6aUtPb256MEtLOU5YQTdtd25NQWxpVi1jZjhMNmlkRWc?oc=5",
+      "summary": "运营商算力采购从买芯片转向买整套系统",
+      "why": "国央企算力采购走整机方案，影响国企客户预算",
+      "source": "21财经",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFlkZFZWWVdJZGxaamROdUNIM0RGQUpJa212U0NpTndPYURyMTZoVVlHeUE1VFI5YXU0Rms0TURhU0FWbnZsc0Q2enExcmYwQWdSY3FuckdDZFFzMzJtMEtJMUxJTkNvUHNiLWdwYUNpMWhnaENhRUlQR2ZTb0RPc0hZMlpkYjVfb0M4aEV2NTAwOTJl?oc=5",
       "section": "ai"
     },
     {
-      "headline": "1药网用WorkBuddy跑通AI落地一年",
-      "summary": "医药电商1药网分享用WorkBuddy全员推进AI落地的经验",
-      "why": "医药客户的落地路径可作为药企商机的对标案例",
-      "source": "53AI",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56dm5uZzBhODJGUzBHVEdyRmFfSHVzSE9ta2FNeHFhaVh6Z2EtUm9xczF5cnhvOERTa3J2THc5SjJYSWdLZE1zdWluMnd6ZVZFeURDMkNfczd1Mk11d0dvdUd1cmV4TTZrNEV3Nw?oc=5",
+      "headline": "政企AI光会写不够，审必须跟上",
+      "summary": "评论称政企场景需补齐AI产出的审核环节",
+      "why": "契合国企法务合同审查，可作为方案卖点",
+      "source": "同花顺财经",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OUEV6dDc2VjloZnhCYzE1Wk9kQmo4WVRRNlVvcll2Y09RQy1lT0RxdHNGR1M1NWdIMWNCMXhCTUVYYzF3aWZQNGd6M3BUZFFPQ0RTR1lyeS0yVFJkOXA1cFdB?oc=5",
+      "section": "ai"
+    },
+    {
+      "headline": "中国软件国际中标2.45亿西安智慧交通项目",
+      "summary": "AI加开源鸿蒙方案拿下西安智慧交通建设项目",
+      "why": "交通类大单，对接交通投资集团研究院的参考",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56Y3JpSUxqX0VHN0lXWGZzWjA0WDlaRHM0X2pDT3c4SEJpNGtsNjhrOEp1elJOMTlVWUoyNWRIZ1JRemdoOG9LLVpvbE1KUE9DRjFQeVZoMFhsa2sxMjJFWUtQM3h1NjV0Y1E?oc=5",
       "section": "ai"
     }
   ]
